@@ -12,6 +12,21 @@
 		},
 		{
 			"path": "spoj"
+		},
+		{
+			"path": "codechef"
+		},
+		{
+			"path": "codeforces"
+		},
+		{
+			"path": "codejam"
+		},
+		{
+			"path": "cpp"
+		},
+		{
+			"path": "geeksforgeeks"
 		}
 	]
 }
