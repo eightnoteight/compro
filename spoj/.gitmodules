@@ -1,0 +1,3 @@
+[submodule "spojdb"]
+	path = spojdb
+	url = ./spojdb

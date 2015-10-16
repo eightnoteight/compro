@@ -1,0 +1,3 @@
+for x in xrange(int(raw_input())):
+    nums = map(int, raw_input().split())
+    print nums[0]*nums[1]

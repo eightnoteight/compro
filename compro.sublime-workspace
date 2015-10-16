@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"glo",
+				"glock	statement"
+			],
+			[
+				"yt",
+				"ytvid	forstmt"
+			],
+			[
+				"ob",
+				"observer	function"
+			],
+			[
+				"im",
+				"import	keyword"
+			],
+			[
+				"ima",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"pa",
+				"pause"
+			],
+			[
+				"dump",
+				"dumps	function"
+			],
+			[
+				"std",
+				"stdout	statement"
+			],
+			[
+				"append",
+				"append	function"
+			],
+			[
+				"c",
+				"check_call	function"
+			],
+			[
+				"pop",
+				"popleft	function"
+			],
+			[
+				"read",
+				"readline	function"
+			],
+			[
+				"hash",
+				"hashlib	module"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"mp",
+				"msubpal"
+			],
+			[
+				"ba",
+				"bpal"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"funct",
+				"functor	Functor"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"ed",
+				"endl"
+			],
+			[
+				"b",
+				"base"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"fi",
+				"file_basename"
+			],
+			[
+				"fibo",
+				"fibomemz"
+			],
+			[
+				"r",
+				"rowvis"
+			],
+			[
+				"al",
+				"alias"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"ri",
+				"right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "algorithms/nthfib.cc",
+			"settings":
+			{
+				"buffer_size": 1339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spoj/subpal.cc",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spoj/_.in",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/workshop/sources/pycrypto/pycrypto-2.6.1/src/AES.c",
+			"settings":
+			{
+				"buffer_size": 61606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/workshop/eightnoteight/totp.py",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/eightnoteight/.secrets/flask.json",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/workshop/eightnoteight/totp_gen.py",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/conf",
+			"settings":
+			{
+				"buffer_size": 8562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/workshop/eightnoteight/ytdserver/__init__.py",
+			"settings":
+			{
+				"buffer_size": 2022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n * Restarting with stat\n127.0.0.1 - - [12/Oct/2015 08:52:45] \"GET / HTTP/1.1\" 500 -\nTraceback (most recent call last):\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1836, in __call__\n    return self.wsgi_app(environ, start_response)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1820, in wsgi_app\n    response = self.make_response(self.handle_exception(e))\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1403, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1817, in wsgi_app\n    response = self.full_dispatch_request()\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1478, in full_dispatch_request\n    response = self.make_response(rv)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1566, in make_response\n    raise ValueError('View function did not return a response')\nValueError: View function did not return a response\n127.0.0.1 - - [12/Oct/2015 08:52:56] \"GET / HTTP/1.1\" 500 -\nTraceback (most recent call last):\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1836, in __call__\n    return self.wsgi_app(environ, start_response)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1820, in wsgi_app\n    response = self.make_response(self.handle_exception(e))\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1403, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1817, in wsgi_app\n    response = self.full_dispatch_request()\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1478, in full_dispatch_request\n    response = self.make_response(rv)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1566, in make_response\n    raise ValueError('View function did not return a response')\nValueError: View function did not return a response\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:52:57] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n * Detected change in '/workshop/eightnoteight/ytdserver/__init__.py', reloading\n127.0.0.1 - - [12/Oct/2015 08:53:22] \"GET / HTTP/1.1\" 500 -\nTraceback (most recent call last):\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1836, in __call__\n    return self.wsgi_app(environ, start_response)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1820, in wsgi_app\n    response = self.make_response(self.handle_exception(e))\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1403, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1817, in wsgi_app\n    response = self.full_dispatch_request()\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1478, in full_dispatch_request\n    response = self.make_response(rv)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1566, in make_response\n    raise ValueError('View function did not return a response')\nValueError: View function did not return a response\n127.0.0.1 - - [12/Oct/2015 08:53:22] \"GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:22] \"GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:22] \"GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:23] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:23] \"GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:23] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET / HTTP/1.1\" 500 -\nTraceback (most recent call last):\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1836, in __call__\n    return self.wsgi_app(environ, start_response)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1820, in wsgi_app\n    response = self.make_response(self.handle_exception(e))\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1403, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1817, in wsgi_app\n    response = self.full_dispatch_request()\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1478, in full_dispatch_request\n    response = self.make_response(rv)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1566, in make_response\n    raise ValueError('View function did not return a response')\nValueError: View function did not return a response\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:24] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET / HTTP/1.1\" 500 -\nTraceback (most recent call last):\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1836, in __call__\n    return self.wsgi_app(environ, start_response)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1820, in wsgi_app\n    response = self.make_response(self.handle_exception(e))\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1403, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1817, in wsgi_app\n    response = self.full_dispatch_request()\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1478, in full_dispatch_request\n    response = self.make_response(rv)\n  File \"/usr/local/lib/python2.7/dist-packages/flask/app.py\", line 1566, in make_response\n    raise ValueError('View function did not return a response')\nValueError: View function did not return a response\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1\" 200 -\n127.0.0.1 - - [12/Oct/2015 08:53:25] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -\n\n\n\n\n\n\n***Repl Killed***\n",
+			"settings":
+			{
+				"buffer_size": 7545,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\npool\n\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/eightnoteight/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1417,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "run",
+		"selected_items":
+		[
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"ssb",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"prp",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"replip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"replp",
+				"SublimeREPL: Python"
+			],
+			[
+				"repliop",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"replipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"stick",
+				"Sticky: Stick Current Tab"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"add ",
+				"Package Control: Add Repository"
+			],
+			[
+				"ssbs",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"print (os.getenv('PATH'))",
+			"import os",
+			"print (os.getenv('PATH'))",
+			"print (os.getenv()['PATH'])",
+			"print (os.getenv['PATH'])",
+			"print os.getenv['PATH']",
+			"import os",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/workshop/compro/hrank",
+		"/workshop/compro/hrank/inscription2015",
+		"/workshop/compro/algorithms",
+		"/workshop/compro/spoj"
+	],
+	"file_history":
+	[
+		"/home/eightnoteight/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/eightnoteight/pyscripts/ytdserver",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/workshop/compro/algorithms/_.in",
+		"/tmp/aes.py",
+		"/workshop/compro/algorithms/nthfib.cc",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/User/cppbam.sublime-snippet",
+		"/workshop/compro/hrank/inscription2015/_.in",
+		"/workshop/compro/spoj/powfib.cc",
+		"/home/eightnoteight/.zshrc",
+		"/workshop/compro/hrank/inscription2015/marijuanamonica.cc",
+		"/workshop/compro/hrank/inscription2015/meantime.cc",
+		"/workshop/compro/hrank/inscription2015/_.c",
+		"/usr/share/applications/unetbootin.desktop",
+		"/usr/share/applications/gparted.desktop",
+		"/usr/share/applications/chromium-browser.desktop",
+		"/workshop/compro/hrank/inscription2015/_.cc",
+		"/home/eightnoteight/pyscripts/youtransfer",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eightnoteight/.gitignore",
+		"/workshop/compro/spoj/bst.cc",
+		"/tmp/chromedriver downloads.txt",
+		"/tmp/test.py",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+		"/tmp/_.in",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/Python Breakpoints/PythonBreakpoints.sublime-settings",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/Python Breakpoints/Default (Linux).sublime-keymap",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/User/PythonBreakpoints.sublime-settings",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/tmp/kmp.cc",
+		"/workshop/compro/algorithms/kmp.cc",
+		"/home/eightnoteight/bin/rtether.sh",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/workshop/compro/algorithms/_.out",
+		"/home/eightnoteight/.cache/.fr-2XQ76L/Flatland Monokai.tmTheme",
+		"/home/eightnoteight/.config/sublime-text-3/Installed Packages/Theme - Flatland.sublime-package",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/SublimeREPL/Default (Linux).sublime-keymap",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/tmp/norm.cc",
+		"/usr/lib/python2.7/SimpleHTTPServer.py",
+		"/usr/lib/python3.4/http/server.py",
+		"/tmp/memz.cc",
+		"/workshop/compro/c/scansets.c",
+		"/workshop/compro/c/puts.c",
+		"/tmp/recur.cc",
+		"/tmp/recur1.cc",
+		"/workshop/compro/geeksforgeeks/morrisTraversal.cc",
+		"/workshop/compro/hrank/2014-icpc-north-america/eightqueens.cc",
+		"/home/eightnoteight/.zshr",
+		"/workshop/compro/geeksforgeeks/bintreeToDoubleLinkedList.cc",
+		"/opt/powerline-shell/README.md",
+		"/home/eightnoteight/.bashrc",
+		"/workshop/compro/geeksforgeeks/ksubarrmax.cc",
+		"/usr/share/applications/defaults.list",
+		"/home/eightnoteight/prettyprint.hpp",
+		"/etc/environment",
+		"/home/eightnoteight/.config/sublime-text-3/Packages/SublimeREPL/config/Main.sublime-menu.template",
+		"/workshop/compro/geeksforgeeks/infixtopostfix.cc",
+		"/workshop/workshop/competitive_programming/spoj/pt07y.py",
+		"/home/eightnoteight/.themes/Arc-Dark-Red/metacity-1/metacity-theme-1.xml",
+		"/home/eightnoteight/.themes/Arc-Dark-Red/metacity-1/metacity-theme-2.xml",
+		"/home/eightnoteight/.themes/Arc-Dark-Red/metacity-1/metacity-theme-3.xml",
+		"/tmp/tmp.py",
+		"/disks/media/Music"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x",
+			"\n    ",
+			"])\n",
+			"\n    ",
+			"'",
+			"                                               ",
+			"zxcv",
+			"mat",
+			"other.mat",
+			"fmat",
+			"long",
+			"Categories",
+			"Type",
+			"powmod",
+			"    ",
+			"matrix2D",
+			"intType",
+			"matrix",
+			"pType",
+			"x",
+			"size_t",
+			"i",
+			"c++ build",
+			"main",
+			"ctrl+b",
+			"guide",
+			"context",
+			";\n",
+			"memz",
+			"root->left",
+			"root->left->left",
+			"=totem",
+			"totem",
+			"[",
+			"gedit.desktop",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"=vlc",
+			"=vlc\nvlc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "algorithms/nthfib.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spoj/subpal.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spoj/_.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/workshop/sources/pycrypto/pycrypto-2.6.1/src/AES.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61606,
+								61606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21267.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/workshop/eightnoteight/totp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/eightnoteight/.secrets/flask.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/workshop/eightnoteight/totp_gen.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/tmp/conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3136,
+								3136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/workshop/eightnoteight/ytdserver/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1574,
+								1574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 593.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7545,
+								7545
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "/workshop/compro/hrank",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "86e2362e06fc4ce9b0e8365a2678b141",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "/workshop/compro/hrank",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "879ce26163384774951a8e6957b958ab",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/eightnoteight/.config/sublime-text-3/Packages/User/Pylinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1393,
+								1393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.355263157895,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "compro.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
