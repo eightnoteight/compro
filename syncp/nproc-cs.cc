@@ -1,11 +1,11 @@
 /* n processes, critical section problem. */
-bool waiting[n]; std::fill(waiting, waiting + n, false);
-bool lock = false;
+bool waiting[n], lock = false, key;
+std::fill(waiting, waiting + n, false);
 do {
     waiting[i] = true;
     key = true;
     while (waiting[i] && key)
-        key = test and set(&lock);
+        key = test_and_set(&lock);
     waiting[i] = false;
     /* critical section */
     j = (i + 1) % n;
