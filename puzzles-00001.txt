@@ -1,0 +1,11 @@
+1.    Given A a sorted array find out how many times does x occur in A.
+2.    Given a real number x, find out its cubic root.
+3.    Given A a sorted array with distinct numbers, find out an i such that A[i] == i.
+4.    Given the +,-,*,/,sqrt operations and a real number x find an algorithm to get log_2_x.
+5.    Given an array of distinct numbers A such that A[0] > A[1] and A[n-1] > A[n-2] find out a local minimum (find out an i such that A[i-1] > A[i] < A[i + 1]).
+6.    Let A be a sorted array with distinct elements. A is rotated k positions to the right (k is unknown). Find out k.
+7.    Let A be a sorted array with distinct elements. A is rotated k positions to the right (k is unknown). Find out if A contains a number x.
+8.    Given two sorted arrays of length n and m, find out the kth element of their sorted union.
+9.    Given A, an array comprised of an increasing sequence of numbers followed immediately by a decreasing one. Determine if a given number x is in the array.
+10.    Given an array of N distinct int values in ascending order, determine whether a given integer is in the array. You may use only additions and subtractions and a constant amount of extra memory.
+11.    Player A chooses a secret number n. Player B can guess a number x and A replies how does x compare to n (equal, larger, smaller). What's an efficient strategy for B to guess n.
