@@ -13,14 +13,14 @@ ulong summaxsubarr(vector<ulong>& arr) {
     vector<uint> nine(arr.size()), thre(arr.size());
     stack<uint> util;
     for (int i = 0; i < arr.size(); ++i) {
-        while(util.size() && arr[util.top()] <= arr[i])
+        while(!util.empty() && arr[util.top()] <= arr[i])
             util.pop();
         nine[i] = util.empty() ? (i + 1) : (i - util.top());
         util.push(i);
     }
     util = stack<uint>();
     for (int i = arr.size() - 1; i >= 0; --i) {
-        while(util.size() && arr[util.top()] < arr[i])
+        while(!util.empty() && arr[util.top()] < arr[i])
             util.pop();
         thre[i] = util.empty() ? (arr.size() - i) : (util.top() - i);
         util.push(i);
