@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 
 class defaultlist(object):
     def __init__(self, factory, data=0):
@@ -23,6 +25,7 @@ class defaultlist(object):
         if x >= len(self.list):
             self.list.extend([self.factory() for _ in range(len(self.list), x + 1)])
         self.list[x] = v
+
 
 def main():
     factory = lambda: defaultlist(factory)
