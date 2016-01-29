@@ -39,11 +39,11 @@
 int OddManOut(int nElems, int *iA, int *oA);
 
 /* Local #defines */
-#define MAXLENGTH	(100)
-#define SUCCESS		(0)
-#define FAILURE		(-1)
-#define TRUE		(1)
-#define FALSE		(0)
+#define MAXLENGTH   (100)
+#define SUCCESS     (0)
+#define FAILURE     (-1)
+#define TRUE        (1)
+#define FALSE       (0)
 
 /* Globals */
 static int   inMax=0;         /* The size of input array */
@@ -210,7 +210,39 @@ char optionchar;              /* Option chracter returned by getopt */
 
 /* Define your support function ptototypes here */
 
+int eastProbe(int idx, int nElems, int* iA);
+int westProbe(int idx, int nElems, int* iA);
+int isOddMan(int idx, int nElems, int* iA);
 /* Define your actual support functions code here */
+
+int eastProbe(int idx, int nElems, int* iA)
+{
+    while (idx >= 2 && \
+        iA[idx - 2] + iA[idx - 1] == iA[idx])
+    {
+        idx--;
+    }
+    if (idx == 1 && iA[0] + iA[1] == iA[2])
+        idx--;
+    return idx;
+}
+
+int westProbe(int idx, int nElems, int* iA)
+{
+    while (idx < nElems && \
+        iA[idx - 2] + iA[idx - 1] == iA[idx])
+    {
+        idx++;
+    }
+    return idx;
+}
+
+int isOddMan(int idx, int nElems, int* iA)
+{
+    struct probe *prs = (struct probe *)malloc(3*sizeof(struct probe));
+    int x, tmp, oddManFlags = 0;
+    return oddManFlags;
+}
 
 /********************************************
  *********** Submission function ************
@@ -229,13 +261,64 @@ char optionchar;              /* Option chracter returned by getopt */
  *     Describe the algorith here
  *
  */
+
+
 int OddManOut(int nElems, int *iA, int *oA)
 {
 int nSeq;                     /* The number of sequences */
 
     /* Initialise */
     nSeq   = 0;
+    int *oAiter = oA;
+    for (int i = 0; i < nElems; ++i)
+    {
+        if (idx - 2 >= 0 && \
+            iA[idx - 2] + iA[idx - 1] != iA[idx])
+        {
+            tmp = iA[idx];
+            iA[idx] = iA[idx - 2] + iA[idx - 1];
+            ei = eastProbe(idx, nElems, iA);
+            wi = westProbe(idx, nElems, iA);
+            if (wi - ei >= 4)
+            {
+                *(oAiter++) = ei;
+                *(oAiter++) = wi - 1;
+                ++nSeq;
+            }
+            iA[idx + x] = tmp;
 
+        }
+        if (idx - 1 >= 0 && idx + 1 < nElems &&
+            iA[idx - 1] + iA[idx] != iA[idx + 1])
+        {
+            tmp = iA[idx];
+            iA[idx] = iA[idx + 1] - iA[idx - 1];
+            ei = eastProbe(idx + 1, nElems, iA);
+            wi = westProbe(idx + 1, nElems, iA);
+            if (wi - ei >= 4)
+            {
+                *(oAiter++) = ei;
+                *(oAiter++) = wi - 1;
+                ++nSeq;
+            }
+            iA[idx] = tmp;
+        }
+        if (idx + 2 < nElems && \
+            iA[idx] + iA[idx + 1] != iA[idx + 2])
+        {
+            tmp = iA[idx];
+            iA[idx] = iA[idx + 2] - iA[idx + 1];
+            ei = eastProbe(idx + 2, nElems, iA);
+            wi = westProbe(idx + 2, nElems, iA);
+            if (wi - ei >= 4)
+            {
+                *(oAiter++) = ei;
+                *(oAiter++) = wi - 1;
+                ++nSeq;
+            }
+            iA[idx] = tmp;
+        }
+    }
     /* Return number of sequences */
     return(nSeq);
 }
