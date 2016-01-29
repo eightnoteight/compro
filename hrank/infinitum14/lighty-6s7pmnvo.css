@@ -1,0 +1,278 @@
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+footer,
+header {
+  display: block;
+}
+a {
+  background-color: transparent;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+b,
+strong {
+  font-weight: bold;
+}
+dfn {
+  font-style: italic;
+}
+h1 {
+  margin: .67em 0;
+  font-size: 2em;
+}
+small {
+  font-size: 80%;
+}
+hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 0;
+}
+@media print {
+  *,
+  *:before,
+  *:after {
+    color: #000 !important;
+    text-shadow: none !important;
+    background: transparent !important;
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+  }
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  thead {
+    display: table-header-group;
+  }
+  tr {
+    page-break-inside: avoid;
+  }
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+  .navbar {
+    display: none;
+  }
+  .btn > .caret,
+  .dropup > .btn > .caret {
+    border-top-color: #000 !important;
+  }
+  .label {
+    border: 1px solid #000;
+  }
+  .lty_table {
+    border-collapse: collapse !important;
+  }
+  .lty_table td,
+  .lty_table th {
+    background-color: #fff !important;
+  }
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #23527c;
+  text-decoration: underline;
+}
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+[role="button"] {
+  cursor: pointer;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.lty_h1,
+.lty_h2,
+.lty_h3,
+.lty_h4,
+.lty_h5,
+.lty_h6 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+h1,
+.lty_h1,
+h2,
+.lty_h2,
+h3,
+.lty_h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h4,
+.lty_h4,
+h5,
+.lty_h5,
+h6,
+.lty_h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1,
+.lty_h1 {
+  font-size: 36px;
+}
+h2,
+.lty_h2 {
+  font-size: 30px;
+}
+h3,
+.lty_h3 {
+  font-size: 24px;
+}
+h4,
+.lty_h4 {
+  font-size: 18px;
+}
+h5,
+.lty_h5 {
+  font-size: 14px;
+}
+h6,
+.lty_h6 {
+  font-size: 12px;
+}
+table {
+  background-color: transparent;
+}
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #777;
+  text-align: left;
+}
+th {
+  text-align: left;
+}
+.lty_table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.lty_table > thead > tr > th,
+.lty_table > tbody > tr > th,
+.lty_table > tfoot > tr > th,
+.lty_table > thead > tr > td,
+.lty_table > tbody > tr > td,
+.lty_table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+.lty_table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd;
+}
+.lty_table > caption + thead > tr:first-child > th,
+.lty_table > colgroup + thead > tr:first-child > th,
+.lty_table > thead:first-child > tr:first-child > th,
+.lty_table > caption + thead > tr:first-child > td,
+.lty_table > colgroup + thead > tr:first-child > td,
+.lty_table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+.lty_table > tbody + tbody {
+  border-top: 2px solid #ddd;
+}
+.lty_table .lty_table {
+  background-color: #fff;
+}
+/*# sourceMappingURL=bootstrap.css.map */
+
+/*
+Overides
+*/
+th, td {
+  font: 90% monospace;
+  text-align: left;
+}
+.lty_table > thead > tr > th,
+.lty_table > tbody > tr > th,
+.lty_table > tfoot > tr > th,
+.lty_table > thead > tr > td,
+.lty_table > tbody > tr > td,
+.lty_table > tfoot > tr > td {
+    padding: 4px;
+}
+table {
+  margin-left: 12px;
+}
+h2.lty_h2 {
+  margin-bottom: 12px;
+  font-family: monospace;
+  font-weight: bold;
+}
+th.lty_size, td.lty_size {
+  text-align: right;
+}
+
