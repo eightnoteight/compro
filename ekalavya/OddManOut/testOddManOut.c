@@ -39,7 +39,7 @@
 int OddManOut(int nElems, int *iA, int *oA);
 
 /* Local #defines */
-#define MAXLENGTH   (100)
+#define MAXLENGTH   (1)
 #define SUCCESS     (0)
 #define FAILURE     (-1)
 #define TRUE        (1)
@@ -175,19 +175,23 @@ char optionchar;              /* Option chracter returned by getopt */
             outNumber++;
             if (inNumber == inMax)
             {
-                inMax  += MAXLENGTH;
-                outMax += MAXLENGTH;
+                inMax  += inMax;
+                outMax += outMax;
                 input  = (int *) realloc (input, (inMax * sizeof(int)));
-                output = (int *) realloc (input, (outMax * sizeof(int)));
+                output = (int *) realloc (output, (outMax * sizeof(int)));
             }
         }
     }
-
+    int i;
     /* If everything OK so far, call participant's function to implement Huffman encoding */
     if (retval == SUCCESS)
     {
         /* Call Participant's function */
         outNumber = OddManOut(inNumber, input, output);
+        for(i = 0; i < outNumber; ++i)
+        {
+            fprintf(outputfp, "Sequence %d from %d to %d\n", i + 1, output[2*i], output[2*i + 1]);
+        }
     }
 
     /* Clean up */
@@ -208,12 +212,28 @@ char optionchar;              /* Option chracter returned by getopt */
 
 /* Define local variables (if any) here */
 
-/* Define your support function ptototypes here */
+struct seq_points
+{
+    int ei;
+    int wi;
+};
 
+/* Define your support function ptototypes here */
 int eastProbe(int idx, int nElems, int* iA);
 int westProbe(int idx, int nElems, int* iA);
-int isOddMan(int idx, int nElems, int* iA);
+
+
 /* Define your actual support functions code here */
+int cmp_seq_points_p (const void* p1, const void* p2)
+{
+    struct seq_points *sp1 = (struct seq_points *)p1;
+    struct seq_points *sp2 = (struct seq_points *)p2;
+    if (sp1->ei != sp2->ei)
+        return (sp1->ei < sp2->ei)?-1:1;
+    if (sp1->wi == sp2->wi)
+        return 0;
+    return (sp2->wi < sp2->wi)?-1:1;
+}
 
 int eastProbe(int idx, int nElems, int* iA)
 {
@@ -222,8 +242,7 @@ int eastProbe(int idx, int nElems, int* iA)
     {
         idx--;
     }
-    if (idx == 1 && iA[0] + iA[1] == iA[2])
-        idx--;
+    idx--;
     return idx;
 }
 
@@ -237,12 +256,6 @@ int westProbe(int idx, int nElems, int* iA)
     return idx;
 }
 
-int isOddMan(int idx, int nElems, int* iA)
-{
-    struct probe *prs = (struct probe *)malloc(3*sizeof(struct probe));
-    int x, tmp, oddManFlags = 0;
-    return oddManFlags;
-}
 
 /********************************************
  *********** Submission function ************
@@ -262,15 +275,34 @@ int isOddMan(int idx, int nElems, int* iA)
  *
  */
 
+int unique(struct seq_points *start, struct seq_points *end)
+{
+    if (start == end)
+        return 0;
+    struct seq_points *res = start;
+    struct seq_points *tmp = start;
+    while(++start != end)
+    {
+        if (start->ei != res->ei || start->wi != res->wi)
+        {
+            ++res;
+            res->ei = start->ei;
+            res->wi = start->wi;
+        }
+    }
+    return((++res) - tmp);
+}
 
 int OddManOut(int nElems, int *iA, int *oA)
 {
 int nSeq;                     /* The number of sequences */
+int idx, i, tmp, ei, wi;
+struct seq_points *sps;
 
     /* Initialise */
+    sps = (struct seq_points *)malloc(nElems*sizeof(struct seq_points));
     nSeq   = 0;
-    int *oAiter = oA;
-    for (int i = 0; i < nElems; ++i)
+    for (idx = 0; idx < nElems; ++idx)
     {
         if (idx - 2 >= 0 && \
             iA[idx - 2] + iA[idx - 1] != iA[idx])
@@ -279,14 +311,13 @@ int nSeq;                     /* The number of sequences */
             iA[idx] = iA[idx - 2] + iA[idx - 1];
             ei = eastProbe(idx, nElems, iA);
             wi = westProbe(idx, nElems, iA);
-            if (wi - ei >= 4)
+            if (wi - ei > 4)
             {
-                *(oAiter++) = ei;
-                *(oAiter++) = wi - 1;
+                sps[nSeq].ei = ei;
+                sps[nSeq].wi = wi - 1;
                 ++nSeq;
             }
-            iA[idx + x] = tmp;
-
+            iA[idx] = tmp;
         }
         if (idx - 1 >= 0 && idx + 1 < nElems &&
             iA[idx - 1] + iA[idx] != iA[idx + 1])
@@ -295,10 +326,10 @@ int nSeq;                     /* The number of sequences */
             iA[idx] = iA[idx + 1] - iA[idx - 1];
             ei = eastProbe(idx + 1, nElems, iA);
             wi = westProbe(idx + 1, nElems, iA);
-            if (wi - ei >= 4)
+            if (wi - ei > 4)
             {
-                *(oAiter++) = ei;
-                *(oAiter++) = wi - 1;
+                sps[nSeq].ei = ei;
+                sps[nSeq].wi = wi - 1;
                 ++nSeq;
             }
             iA[idx] = tmp;
@@ -310,14 +341,20 @@ int nSeq;                     /* The number of sequences */
             iA[idx] = iA[idx + 2] - iA[idx + 1];
             ei = eastProbe(idx + 2, nElems, iA);
             wi = westProbe(idx + 2, nElems, iA);
-            if (wi - ei >= 4)
+            if (wi - ei > 4)
             {
-                *(oAiter++) = ei;
-                *(oAiter++) = wi - 1;
+                sps[nSeq].ei = ei;
+                sps[nSeq].wi = wi - 1;
                 ++nSeq;
             }
             iA[idx] = tmp;
         }
+    }
+    qsort(sps, nSeq, sizeof(struct seq_points), cmp_seq_points_p);
+    nSeq = unique(sps, sps + nSeq);
+    for (i = 0; i < nSeq; ++i) {
+        oA[2*i] = sps[i].ei;
+        oA[2*i + 1] = sps[i].wi;
     }
     /* Return number of sequences */
     return(nSeq);
