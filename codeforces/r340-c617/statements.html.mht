@@ -1,0 +1,1711 @@
+From: <Saved by Mozilla 5.0 (X11)>
+Subject: Problems - Codeforces
+Date: Mon, 08 Feb 2016 11:36:05 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_6D596BC2.743671C5"
+X-MAF-Information: Produced By MAF V3.1.2
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://codeforces.com/contest/617/problems
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html status=3D"whitelist=
+ed"><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8">
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta name=3D"X-Csrf-Token" content=3D"4bf66f08fae33406e40920f03d9ad272=
+">
+    <meta id=3D"viewport" name=3D"viewport" content=3D"width=3Ddevice-width=
+, initial-scale=3D0.01">
+    <script src=3D"urn:snapshot-3AD83967:http://www.google-analytics.com/ga=
+.js" async=3D"" type=3D"text/javascript"></script><script type=3D"text/java=
+script" src=3D"urn:snapshot-C0CC1235:http://st.codeforces.com/s/34970/js/jq=
+uery-1.8.3.js"></script>
+    <script type=3D"application/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+    <meta http-equiv=3D"pragma" content=3D"no-cache">
+    <meta http-equiv=3D"expires" content=3D"-1">
+    <meta http-equiv=3D"profileName" content=3D"c3">
+    <meta name=3D"google-site-verification" content=3D"OTd2dN5x4nS4OPknPI9J=
+Fg36fKxjqY0i1PSfFPv_J90">
+    <meta property=3D"fb:admins" content=3D"100001352546622">
+    <meta property=3D"og:image" content=3D"http://st.codeforces.com/s/34970=
+/images/codeforces-telegram-square.png">
+    <link rel=3D"image_src" href=3D"http://st.codeforces.com/s/34970/images=
+/codeforces-telegram-square.png">
+    <meta property=3D"og:title" content=3D"Problems - Codeforces">
+    <meta property=3D"og:description" content=3D"">
+   =20
+    <meta property=3D"og:site_name" content=3D"Codeforces">
+    <meta name=3D"uc" content=3D"9kk9nbcm5i37">
+   =20
+    <meta name=3D"cc" content=3D"7jl7h93svyc2">
+    <meta name=3D"pc" content=3D"n423aq6lbgzs">
+   =20
+    <meta name=3D"utc_offset" content=3D"+03:00">
+    <meta name=3D"verify-reformal" content=3D"f56f99fd7e087fb6ccb48ef2">
+    <title>Problems - Codeforces</title>
+        <meta name=3D"description" content=3D"Codeforces. Programming compe=
+titions and contests, programming community">
+        <meta name=3D"keywords" content=3D"programming algorithm contest co=
+mpetition informatics olympiads c++ java graphs vkcup">
+    <meta name=3D"robots" content=3D"index, follow">
+
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-CC6CD559:http://st.codefo=
+rces.com/s/34970/css/font-awesome.min.css" type=3D"text/css" charset=3D"utf=
+-8">
+
+        <link href=3D"urn:snapshot-3C516D34:http://fonts.googleapis.com/css=
+?family=3DPT+Sans+Narrow:400,700&amp;subset=3Dlatin,cyrillic" rel=3D"styles=
+heet" type=3D"text/css">
+        <link href=3D"urn:snapshot-A72D9EF2:http://fonts.googleapis.com/css=
+?family=3DCuprum&amp;subset=3Dlatin,cyrillic" rel=3D"stylesheet" type=3D"te=
+xt/css">
+
+
+    <link rel=3D"shortcut icon" type=3D"image/png" href=3D"http://st.codefo=
+rces.com/s/34970/favicon.png">
+
+    <!--CombineResourcesFilter-->
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-1456352A:http://st.codefo=
+rces.com/s/34970/css/prettify.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-CCE7CC74:http://st.codefo=
+rces.com/s/34970/css/clear.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-E4596532:http://st.codefo=
+rces.com/s/34970/css/style.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-D7FFCC1E:http://st.codefo=
+rces.com/s/34970/css/ttypography.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-FFCF2271:http://st.codefo=
+rces.com/s/34970/css/problem-statement.css" type=3D"text/css" charset=3D"ut=
+f-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-8BB80347:http://st.codefo=
+rces.com/s/34970/css/second-level-menu.css" type=3D"text/css" charset=3D"ut=
+f-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-E2D20F05:http://st.codefo=
+rces.com/s/34970/css/roundbox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-B45DDDFB:http://st.codefo=
+rces.com/s/34970/css/datatable.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-72C49E99:http://st.codefo=
+rces.com/s/34970/css/table-form.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-565BE7E5:http://st.codefo=
+rces.com/s/34970/css/topic.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-3D1879CC:http://st.codefo=
+rces.com/s/34970/css/jquery.jgrowl.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-9DC2FC17:http://st.codefo=
+rces.com/s/34970/css/facebox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-6CEDF439:http://st.codefo=
+rces.com/s/34970/css/jquery.wysiwyg.css" type=3D"text/css" charset=3D"utf-8=
+">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-E01C7FAE:http://st.codefo=
+rces.com/s/34970/css/jquery.autocomplete.css" type=3D"text/css" charset=3D"=
+utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-D47D8F7A:http://st.codefo=
+rces.com/s/34970/css/codeforces.datepick.css" type=3D"text/css" charset=3D"=
+utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-AA97AE60:http://st.codefo=
+rces.com/s/34970/css/colorbox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-537D9156:http://st.codefo=
+rces.com/s/34970/css/jquery.drafts.css" type=3D"text/css" charset=3D"utf-8">
+        <link rel=3D"stylesheet" href=3D"urn:snapshot-46E3F8B8:http://st.co=
+deforces.com/s/34970/css/community.css" type=3D"text/css" charset=3D"utf-8">
+        <link rel=3D"stylesheet" href=3D"urn:snapshot-17F5A69C:http://st.co=
+deforces.com/s/34970/css/sidebar-menu.css" type=3D"text/css" charset=3D"utf=
+-8">
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-7AAC3164:http://st=
+.codeforces.com/s/34970/js/prettify/prettify.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-E9EE721F:http://st=
+.codeforces.com/s/34970/js/moment.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-81B9705B:http://st=
+.codeforces.com/s/34970/js/pushstream.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-635AB153:http://st=
+.codeforces.com/s/34970/js/jquery.easing.min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-AC910313:http://st=
+.codeforces.com/s/34970/js/jquery.lavalamp.min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-A0CE57EB:http://st=
+.codeforces.com/s/34970/js/jquery.jgrowl.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-4F04A483:http://st=
+.codeforces.com/s/34970/js/jquery.swipe.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-DCC57F88:http://st=
+.codeforces.com/s/34970/js/facebox.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-FDB48B5F:http://st=
+.codeforces.com/s/34970/js/jquery.wysiwyg.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-3FC8EA43:http://st=
+.codeforces.com/s/34970/js/controls/wysiwyg.colorpicker.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-29DA4512:http://st=
+.codeforces.com/s/34970/js/controls/wysiwyg.table.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-E6BA24A0:http://st=
+.codeforces.com/s/34970/js/controls/wysiwyg.image.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-93E2A382:http://st=
+.codeforces.com/s/34970/js/controls/wysiwyg.link.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-C3CFBCBB:http://st=
+.codeforces.com/s/34970/js/jquery.autocomplete.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-59A8B90A:http://st=
+.codeforces.com/s/34970/js/jquery.datepick.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-5A33845A:http://st=
+.codeforces.com/s/34970/js/jquery.ie6blocker.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-6D63E576:http://st=
+.codeforces.com/s/34970/js/jquery.colorbox-min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-A074E72E:http://st=
+.codeforces.com/s/34970/js/jquery.ba-bbq.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-129AF082:http://st=
+.codeforces.com/s/34970/js/jquery.drafts.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-EA414E87:http://co=
+deforces.com/scripts/620c8fc8a8ffd5db42cf08bbf47fd3aa/en/codeforces-options=
+.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-96AE3A04:http://st=
+.codeforces.com/s/34970/js/codeforces.js?v=3D20160131"></script>
+    <!--/CombineResourcesFilter-->
+
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-594A6D6B:http://st.codefo=
+rces.com/s/34970/markitup/skins/markitup/style.css" type=3D"text/css" chars=
+et=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-B33298F2:http://st.codefo=
+rces.com/s/34970/markitup/sets/markdown/style.css" type=3D"text/css" charse=
+t=3D"utf-8">
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-96149611:http://ya=
+ndex.st/share/share.js" charset=3D"utf-8"></script>
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-DACAF2F4:http://st=
+.codeforces.com/s/34970/markitup/jquery.markitup.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-5FD39016:http://st=
+.codeforces.com/s/34970/markitup/sets/markdown/set.js"></script>
+
+    <!--[if IE]>
+    <style>
+        #sidebar {
+            padding-left: 1em;
+            margin: 1em 1em 1em 0;
+        }
+    </style>
+    <![endif]-->
+
+
+</head>
+<body><span style=3D"display:none;" class=3D"csrf-token" data-csrf=3D"4bf66=
+f08fae33406e40920f03d9ad272">=C2=A0</span>
+<div class=3D"button-up" style=3D"display: none; opacity: 0.7; width: 50px;=
+ height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align=
+: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size:=
+ 3.0rem;"><i class=3D"icon-circle-arrow-up"></i></div>
+
+<!-- Codeforces JavaScripts. -->
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+    <script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+
+<div id=3D"body">
+<div style=3D"width: 950px; margin: 0 auto;">
+    <div id=3D"header" style=3D"position: relative;">
+        <div style=3D"float:left;">
+                 <a href=3D"http://codeforces.com/"><img src=3D"http://st.c=
+odeforces.com/s/34970/images/codeforces-logo-with-telegram.png"></a>
+        </div>
+        <div class=3D"lang">
+            <div style=3D"text-align: right;">
+                <a href=3D"http://codeforces.com/contest/617/problems?local=
+e=3Den"><img src=3D"http://st.codeforces.com/s/34970/images/flags/24/gb.png=
+" title=3D"In English" alt=3D"In English"></a>
+                <a href=3D"http://codeforces.com/contest/617/problems?local=
+e=3Dru"><img src=3D"http://st.codeforces.com/s/34970/images/flags/24/ru.png=
+" title=3D"=D0=9F=D0=BE-=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8" alt=3D"=D0=9F=
+=D0=BE-=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8"></a>
+            </div>
+        </div>
+        <br style=3D"clear: both;">
+    </div>
+
+    <div style=3D"text-align: center; font-size: 1.8rem; margin-bottom: 0.5=
+em;" class=3D"caption">Codeforces Round #340 (Div. 2)</div>
+    <div style=3D"border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"A">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">A. Elephant</div><div class=3D"time-limit"><div=
+ class=3D"property-title">time limit per test</div>1 second</div><div class=
+=3D"memory-limit"><div class=3D"property-title">memory limit per test</div>=
+256 megabytes</div><div class=3D"input-file"><div class=3D"property-title">=
+input</div>standard input</div><div class=3D"output-file"><div class=3D"pro=
+perty-title">output</div>standard output</div></div><div><p>An elephant dec=
+ided to visit his friend. It turned out that the elephant's house is locate=
+d at point <span class=3D"tex-span">0</span> and his friend's house is loca=
+ted at point <span class=3D"tex-span"><i>x</i>(<i>x</i>=E2=80=89&gt;=E2=80=
+=890)</span> of the coordinate line. In one step the elephant can move <spa=
+n class=3D"tex-span">1</span>, <span class=3D"tex-span">2</span>, <span cla=
+ss=3D"tex-span">3</span>, <span class=3D"tex-span">4</span> or <span class=
+=3D"tex-span">5</span> positions forward. Determine, what is the minimum nu=
+mber of steps he need to make in order to get to his friend's house.</p></d=
+iv><div class=3D"input-specification"><div class=3D"section-title">Input</d=
+iv><p>The first line of the input contains an integer <span class=3D"tex-sp=
+an"><i>x</i></span> (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<=
+i>x</i>=E2=80=89=E2=89=A4=E2=80=891=E2=80=89000=E2=80=89000</span>)=C2=A0=
+=E2=80=94 The coordinate of the friend's house.</p></div><div class=3D"outp=
+ut-specification"><div class=3D"section-title">Output</div><p>Print the min=
+imum number of steps that elephant needs to make to get from point <span cl=
+ass=3D"tex-span">0</span> to point <span class=3D"tex-span"><i>x</i></span>=
+.</p></div><div class=3D"sample-tests"><div class=3D"section-title">Sample=
+ test(s)</div><div class=3D"sample-test"><div class=3D"input"><div class=3D=
+"title">Input</div><pre>5<br></pre></div><div class=3D"output"><div class=
+=3D"title">Output</div><pre>1<br></pre></div><div class=3D"input"><div clas=
+s=3D"title">Input</div><pre>12<br></pre></div><div class=3D"output"><div cl=
+ass=3D"title">Output</div><pre>3<br></pre></div></div></div><div class=3D"n=
+ote"><div class=3D"section-title">Note</div><p>In the first sample the elep=
+hant needs to make one step of length <span class=3D"tex-span">5</span> to=
+ reach the point <span class=3D"tex-span"><i>x</i></span>.</p><p>In the sec=
+ond sample the elephant can get to point <span class=3D"tex-span"><i>x</i><=
+/span> if he moves by <span class=3D"tex-span">3</span>, <span class=3D"tex=
+-span">5</span> and <span class=3D"tex-span">4</span>. There are other ways=
+ to get the optimal answer but the elephant cannot reach <span class=3D"tex=
+-span"><i>x</i></span> in less than three moves.</p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"B">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">B. Chocolate</div><div class=3D"time-limit"><di=
+v class=3D"property-title">time limit per test</div>1 second</div><div clas=
+s=3D"memory-limit"><div class=3D"property-title">memory limit per test</div=
+>256 megabytes</div><div class=3D"input-file"><div class=3D"property-title"=
+>input</div>standard input</div><div class=3D"output-file"><div class=3D"pr=
+operty-title">output</div>standard output</div></div><div><p>Bob loves ever=
+ything sweet. His favorite chocolate bar consists of pieces, each piece may=
+ contain a nut. Bob wants to break the bar of chocolate into multiple piece=
+s so that each part would contain <span class=3D"tex-font-style-bf">exactly=
+</span> one nut and any break line goes between two adjacent pieces.</p><p>=
+You are asked to calculate the number of ways he can do it. Two ways to bre=
+ak chocolate are considered distinct if one of them contains a break betwee=
+n some two adjacent pieces and the other one doesn't. </p><p>Please note,=
+ that if Bob doesn't make any breaks, all the bar will form one piece and=
+ it still has to have exactly one nut.</p></div><div class=3D"input-specifi=
+cation"><div class=3D"section-title">Input</div><p>The first line of the in=
+put contains integer <span class=3D"tex-span"><i>n</i></span> (<span class=
+=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>n</i>=E2=80=89=E2=89=A4=E2=80=
+=89100</span>)=C2=A0=E2=80=94 the number of pieces in the chocolate bar.</p=
+><p>The second line contains <span class=3D"tex-span"><i>n</i></span> integ=
+ers <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i></s=
+ub></span> (<span class=3D"tex-span">0=E2=80=89=E2=89=A4=E2=80=89<i>a</i><s=
+ub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=891</span>)=
+, where <span class=3D"tex-span">0</span> represents a piece without the nu=
+t and <span class=3D"tex-span">1</span> stands for a piece with the nut.</p=
+></div><div class=3D"output-specification"><div class=3D"section-title">Out=
+put</div><p>Print the number of ways to break the chocolate into multiple=
+ parts so that each part would contain exactly one nut.</p></div><div class=
+=3D"sample-tests"><div class=3D"section-title">Sample test(s)</div><div cla=
+ss=3D"sample-test"><div class=3D"input"><div class=3D"title">Input</div><pr=
+e>3<br>0 1 0<br></pre></div><div class=3D"output"><div class=3D"title">Outp=
+ut</div><pre>1<br></pre></div><div class=3D"input"><div class=3D"title">Inp=
+ut</div><pre>5<br>1 0 1 0 1<br></pre></div><div class=3D"output"><div class=
+=3D"title">Output</div><pre>4<br></pre></div></div></div><div class=3D"note=
+"><div class=3D"section-title">Note</div><p>In the first sample there is ex=
+actly one nut, so the number of ways equals <span class=3D"tex-span">1</spa=
+n>=C2=A0=E2=80=94 Bob shouldn't make any breaks.</p><p>In the second sample=
+ you can break the bar in four ways:</p><p><span class=3D"tex-font-style-tt=
+">10|10|1</span></p><p><span class=3D"tex-font-style-tt">1|010|1</span></p>=
+<p><span class=3D"tex-font-style-tt">10|1|01</span></p><p><span class=3D"te=
+x-font-style-tt">1|01|01</span></p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"C">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">C. Watering Flowers</div><div class=3D"time-lim=
+it"><div class=3D"property-title">time limit per test</div>2 seconds</div><=
+div class=3D"memory-limit"><div class=3D"property-title">memory limit per=
+ test</div>256 megabytes</div><div class=3D"input-file"><div class=3D"prope=
+rty-title">input</div>standard input</div><div class=3D"output-file"><div=
+ class=3D"property-title">output</div>standard output</div></div><div><p>A=
+ flowerbed has many flowers and two fountains.</p><p>You can adjust the wat=
+er pressure and set any values <span class=3D"tex-span"><i>r</i><sub class=
+=3D"lower-index">1</sub>(<i>r</i><sub class=3D"lower-index">1</sub>=E2=80=
+=89=E2=89=A5=E2=80=890)</span> and <span class=3D"tex-span"><i>r</i><sub cl=
+ass=3D"lower-index">2</sub>(<i>r</i><sub class=3D"lower-index">2</sub>=E2=
+=80=89=E2=89=A5=E2=80=890)</span>, giving the distances at which the water=
+ is spread from the first and second fountain respectively. You have to set=
+ such <span class=3D"tex-span"><i>r</i><sub class=3D"lower-index">1</sub></=
+span> and <span class=3D"tex-span"><i>r</i><sub class=3D"lower-index">2</su=
+b></span> that all the flowers are watered, that is, for each flower, the=
+ distance between the flower and the first fountain doesn't exceed <span cl=
+ass=3D"tex-span"><i>r</i><sub class=3D"lower-index">1</sub></span>, or the=
+ distance to the second fountain doesn't exceed <span class=3D"tex-span"><i=
+>r</i><sub class=3D"lower-index">2</sub></span>. It's OK if some flowers ar=
+e watered by both fountains.</p><p>You need to decrease the amount of water=
+ you need, that is set such <span class=3D"tex-span"><i>r</i><sub class=3D"=
+lower-index">1</sub></span> and <span class=3D"tex-span"><i>r</i><sub class=
+=3D"lower-index">2</sub></span> that all the flowers are watered and the <s=
+pan class=3D"tex-span"><i>r</i><sub class=3D"lower-index">1</sub><sup class=
+=3D"upper-index">2</sup>=E2=80=89+=E2=80=89<i>r</i><sub class=3D"lower-inde=
+x">2</sub><sup class=3D"upper-index">2</sup></span> is minimum possible. Fi=
+nd this minimum value.</p></div><div class=3D"input-specification"><div cla=
+ss=3D"section-title">Input</div><p>The first line of the input contains int=
+egers <span class=3D"tex-span"><i>n</i></span>, <span class=3D"tex-span"><i=
+>x</i><sub class=3D"lower-index">1</sub></span>, <span class=3D"tex-span"><=
+i>y</i><sub class=3D"lower-index">1</sub></span>, <span class=3D"tex-span">=
+<i>x</i><sub class=3D"lower-index">2</sub></span>, <span class=3D"tex-span"=
+><i>y</i><sub class=3D"lower-index">2</sub></span> (<span class=3D"tex-span=
+">1=E2=80=89=E2=89=A4=E2=80=89<i>n</i>=E2=80=89=E2=89=A4=E2=80=892000</span=
+>, <span class=3D"tex-span">=E2=80=89-=E2=80=8910<sup class=3D"upper-index"=
+>7</sup>=E2=80=89=E2=89=A4=E2=80=89<i>x</i><sub class=3D"lower-index">1</su=
+b>,=E2=80=89<i>y</i><sub class=3D"lower-index">1</sub>,=E2=80=89<i>x</i><su=
+b class=3D"lower-index">2</sub>,=E2=80=89<i>y</i><sub class=3D"lower-index"=
+>2</sub>=E2=80=89=E2=89=A4=E2=80=8910<sup class=3D"upper-index">7</sup></sp=
+an>)=C2=A0=E2=80=94 the number of flowers, the coordinates of the first and=
+ the second fountain.</p><p>Next follow <span class=3D"tex-span"><i>n</i></=
+span> lines. The <span class=3D"tex-span"><i>i</i></span>-th of these lines=
+ contains integers <span class=3D"tex-span"><i>x</i><sub class=3D"lower-ind=
+ex"><i>i</i></sub></span> and <span class=3D"tex-span"><i>y</i><sub class=
+=3D"lower-index"><i>i</i></sub></span> (<span class=3D"tex-span">=E2=80=89-=
+=E2=80=8910<sup class=3D"upper-index">7</sup>=E2=80=89=E2=89=A4=E2=80=89<i>=
+x</i><sub class=3D"lower-index"><i>i</i></sub>,=E2=80=89<i>y</i><sub class=
+=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=8910<sup class=3D"u=
+pper-index">7</sup></span>)=C2=A0=E2=80=94 the coordinates of the <span cla=
+ss=3D"tex-span"><i>i</i></span>-th flower.</p><p>It is guaranteed that all=
+ <span class=3D"tex-span"><i>n</i>=E2=80=89+=E2=80=892</span> points in the=
+ input are distinct.</p></div><div class=3D"output-specification"><div clas=
+s=3D"section-title">Output</div><p>Print the minimum possible value <span=
+ class=3D"tex-span"><i>r</i><sub class=3D"lower-index">1</sub><sup class=3D=
+"upper-index">2</sup>=E2=80=89+=E2=80=89<i>r</i><sub class=3D"lower-index">=
+2</sub><sup class=3D"upper-index">2</sup></span>. Note, that in this proble=
+m optimal answer is always integer.</p></div><div class=3D"sample-tests"><d=
+iv class=3D"section-title">Sample test(s)</div><div class=3D"sample-test"><=
+div class=3D"input"><div class=3D"title">Input</div><pre>2 -1 0 5 3<br>0 2<=
+br>5 2<br></pre></div><div class=3D"output"><div class=3D"title">Output</di=
+v><pre>6<br></pre></div><div class=3D"input"><div class=3D"title">Input</di=
+v><pre>4 0 0 5 0<br>9 4<br>8 3<br>-1 0<br>1 4<br></pre></div><div class=3D"=
+output"><div class=3D"title">Output</div><pre>33<br></pre></div></div></div=
+><div class=3D"note"><div class=3D"section-title">Note</div><p>The first sa=
+mple is (<span class=3D"tex-span"><i>r</i><sub class=3D"lower-index">1</sub=
+><sup class=3D"upper-index">2</sup>=E2=80=89=3D=E2=80=895</span>, <span cla=
+ss=3D"tex-span"><i>r</i><sub class=3D"lower-index">2</sub><sup class=3D"upp=
+er-index">2</sup>=E2=80=89=3D=E2=80=891</span>): <img class=3D"tex-graphics=
+" src=3D"http://codeforces.com/predownloaded/77/45/77457b4d8e8977f52e70744a=
+beebc11f85e65b91.png" style=3D"max-width: 100.0%;max-height: 100.0%;"> The=
+ second sample is (<span class=3D"tex-span"><i>r</i><sub class=3D"lower-ind=
+ex">1</sub><sup class=3D"upper-index">2</sup>=E2=80=89=3D=E2=80=891</span>,=
+ <span class=3D"tex-span"><i>r</i><sub class=3D"lower-index">2</sub><sup cl=
+ass=3D"upper-index">2</sup>=E2=80=89=3D=E2=80=8932</span>): <img class=3D"t=
+ex-graphics" src=3D"http://codeforces.com/predownloaded/dd/33/dd33ab33509bc=
+0ce6f63f1a91dfe1af0a9956bd2.png" style=3D"max-width: 100.0%;max-height: 100=
+.0%;"></p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"D">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">D. Polyline</div><div class=3D"time-limit"><div=
+ class=3D"property-title">time limit per test</div>1 second</div><div class=
+=3D"memory-limit"><div class=3D"property-title">memory limit per test</div>=
+256 megabytes</div><div class=3D"input-file"><div class=3D"property-title">=
+input</div>standard input</div><div class=3D"output-file"><div class=3D"pro=
+perty-title">output</div>standard output</div></div><div><p>There are three=
+ points marked on the coordinate plane. The goal is to make a simple polyli=
+ne, without self-intersections and self-touches, such that it passes throug=
+h all these points. Also, the polyline must consist of only segments parall=
+el to the coordinate axes. You are to find the minimum number of segments=
+ this polyline may consist of.</p></div><div class=3D"input-specification">=
+<div class=3D"section-title">Input</div><p>Each of the three lines of the=
+ input contains two integers. The <span class=3D"tex-span"><i>i</i></span>-=
+th line contains integers <span class=3D"tex-span"><i>x</i><sub class=3D"lo=
+wer-index"><i>i</i></sub></span> and <span class=3D"tex-span"><i>y</i><sub=
+ class=3D"lower-index"><i>i</i></sub></span> (<span class=3D"tex-span">=E2=
+=80=89-=E2=80=8910<sup class=3D"upper-index">9</sup>=E2=80=89=E2=89=A4=E2=
+=80=89<i>x</i><sub class=3D"lower-index"><i>i</i></sub>,=E2=80=89<i>y</i><s=
+ub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=8910<sup cl=
+ass=3D"upper-index">9</sup></span>)=C2=A0=E2=80=94 the coordinates of the=
+ <span class=3D"tex-span"><i>i</i></span>-th point. It is guaranteed that=
+ all points are distinct.</p></div><div class=3D"output-specification"><div=
+ class=3D"section-title">Output</div><p>Print a single number=C2=A0=E2=80=
+=94 the minimum possible number of segments of the polyline.</p></div><div=
+ class=3D"sample-tests"><div class=3D"section-title">Sample test(s)</div><d=
+iv class=3D"sample-test"><div class=3D"input"><div class=3D"title">Input</d=
+iv><pre>1 -1<br>1 1<br>1 2<br></pre></div><div class=3D"output"><div class=
+=3D"title">Output</div><pre>1<br></pre></div><div class=3D"input"><div clas=
+s=3D"title">Input</div><pre>-1 -1<br>-1 3<br>4 3<br></pre></div><div class=
+=3D"output"><div class=3D"title">Output</div><pre>2<br></pre></div><div cla=
+ss=3D"input"><div class=3D"title">Input</div><pre>1 1<br>2 3<br>3 2<br></pr=
+e></div><div class=3D"output"><div class=3D"title">Output</div><pre>3<br></=
+pre></div></div></div><div class=3D"note"><div class=3D"section-title">Note=
+</div><p>The variant of the polyline in the first sample: <img class=3D"tex=
+-graphics" src=3D"http://codeforces.com/predownloaded/72/73/7273c7e12da3954=
+f8a24335616952a3e262aced0.png" style=3D"max-width: 100.0%;max-height: 100.0=
+%;"> The variant of the polyline in the second sample: <img class=3D"tex-gr=
+aphics" src=3D"http://codeforces.com/predownloaded/7e/48/7e4892f1e93a7e911d=
+d87b32630e14940f3bbf58.png" style=3D"max-width: 100.0%;max-height: 100.0%;"=
+> The variant of the polyline in the third sample: <img class=3D"tex-graphi=
+cs" src=3D"http://codeforces.com/predownloaded/3d/95/3d95bbe4563d8925b713d0=
+9700a3c4652c2f8c7d.png" style=3D"max-width: 100.0%;max-height: 100.0%;"></p=
+></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 2em;">
+
+<div class=3D"problemindexholder" problemindex=3D"E">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">E. XOR and Favorite Number</div><div class=3D"t=
+ime-limit"><div class=3D"property-title">time limit per test</div>4 seconds=
+</div><div class=3D"memory-limit"><div class=3D"property-title">memory limi=
+t per test</div>256 megabytes</div><div class=3D"input-file"><div class=3D"=
+property-title">input</div>standard input</div><div class=3D"output-file"><=
+div class=3D"property-title">output</div>standard output</div></div><div><p=
+>Bob has a favorite number <span class=3D"tex-span"><i>k</i></span> and <sp=
+an class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i></sub></sp=
+an> of length <span class=3D"tex-span"><i>n</i></span>. Now he asks you to=
+ answer <span class=3D"tex-span"><i>m</i></span> queries. Each query is giv=
+en by a pair <span class=3D"tex-span"><i>l</i><sub class=3D"lower-index"><i=
+>i</i></sub></span> and <span class=3D"tex-span"><i>r</i><sub class=3D"lowe=
+r-index"><i>i</i></sub></span> and asks you to count the number of pairs of=
+ integers <span class=3D"tex-span"><i>i</i></span> and <span class=3D"tex-s=
+pan"><i>j</i></span>, such that <span class=3D"tex-span"><i>l</i>=E2=80=89=
+=E2=89=A4=E2=80=89<i>i</i>=E2=80=89=E2=89=A4=E2=80=89<i>j</i>=E2=80=89=E2=
+=89=A4=E2=80=89<i>r</i></span> and the xor of the numbers <span class=3D"te=
+x-span"><i>a</i><sub class=3D"lower-index"><i>i</i></sub>,=E2=80=89<i>a</i>=
+<sub class=3D"lower-index"><i>i</i>=E2=80=89+=E2=80=891</sub>,=E2=80=89...,=
+=E2=80=89<i>a</i><sub class=3D"lower-index"><i>j</i></sub></span> is equal=
+ to <span class=3D"tex-span"><i>k</i></span>.</p></div><div class=3D"input-=
+specification"><div class=3D"section-title">Input</div><p>The first line of=
+ the input contains integers <span class=3D"tex-span"><i>n</i></span>, <spa=
+n class=3D"tex-span"><i>m</i></span> and <span class=3D"tex-span"><i>k</i><=
+/span> (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>n</i>,=E2=
+=80=89<i>m</i>=E2=80=89=E2=89=A4=E2=80=89100=E2=80=89000</span>, <span clas=
+s=3D"tex-span">0=E2=80=89=E2=89=A4=E2=80=89<i>k</i>=E2=80=89=E2=89=A4=E2=80=
+=891=E2=80=89000=E2=80=89000</span>)=C2=A0=E2=80=94 the length of the array=
+, the number of queries and Bob's favorite number respectively.</p><p>The=
+ second line contains <span class=3D"tex-span"><i>n</i></span> integers <sp=
+an class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i></sub></sp=
+an> (<span class=3D"tex-span">0=E2=80=89=E2=89=A4=E2=80=89<i>a</i><sub clas=
+s=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=891=E2=80=89000=E2=
+=80=89000</span>)=C2=A0=E2=80=94 Bob's array.</p><p>Then <span class=3D"tex=
+-span"><i>m</i></span> lines follow. The <span class=3D"tex-span"><i>i</i><=
+/span>-th line contains integers <span class=3D"tex-span"><i>l</i><sub clas=
+s=3D"lower-index"><i>i</i></sub></span> and <span class=3D"tex-span"><i>r</=
+i><sub class=3D"lower-index"><i>i</i></sub></span> (<span class=3D"tex-span=
+">1=E2=80=89=E2=89=A4=E2=80=89<i>l</i><sub class=3D"lower-index"><i>i</i></=
+sub>=E2=80=89=E2=89=A4=E2=80=89<i>r</i><sub class=3D"lower-index"><i>i</i><=
+/sub>=E2=80=89=E2=89=A4=E2=80=89<i>n</i></span>)=C2=A0=E2=80=94 the paramet=
+ers of the <span class=3D"tex-span"><i>i</i></span>-th query.</p></div><div=
+ class=3D"output-specification"><div class=3D"section-title">Output</div><p=
+>Print <span class=3D"tex-span"><i>m</i></span> lines, answer the queries=
+ in the order they appear in the input. </p></div><div class=3D"sample-test=
+s"><div class=3D"section-title">Sample test(s)</div><div class=3D"sample-te=
+st"><div class=3D"input"><div class=3D"title">Input</div><pre>6 2 3<br>1 2=
+ 1 1 0 3<br>1 6<br>3 5<br></pre></div><div class=3D"output"><div class=3D"t=
+itle">Output</div><pre>7<br>0<br></pre></div><div class=3D"input"><div clas=
+s=3D"title">Input</div><pre>5 3 1<br>1 1 1 1 1<br>1 5<br>2 4<br>1 3<br></pr=
+e></div><div class=3D"output"><div class=3D"title">Output</div><pre>9<br>4<=
+br>4<br></pre></div></div></div><div class=3D"note"><div class=3D"section-t=
+itle">Note</div><p>In the first sample the suitable pairs of <span class=3D=
+"tex-span"><i>i</i></span> and <span class=3D"tex-span"><i>j</i></span> for=
+ the first query are: (<span class=3D"tex-span">1</span>, <span class=3D"te=
+x-span">2</span>), (<span class=3D"tex-span">1</span>, <span class=3D"tex-s=
+pan">4</span>), (<span class=3D"tex-span">1</span>, <span class=3D"tex-span=
+">5</span>), (<span class=3D"tex-span">2</span>, <span class=3D"tex-span">3=
+</span>), (<span class=3D"tex-span">3</span>, <span class=3D"tex-span">6</s=
+pan>), (<span class=3D"tex-span">5</span>, <span class=3D"tex-span">6</span=
+>), (<span class=3D"tex-span">6</span>, <span class=3D"tex-span">6</span>).=
+ Not a single of these pairs is suitable for the second query.</p><p>In the=
+ second sample xor equals <span class=3D"tex-span">1</span> for all subarra=
+ys of an odd length.</p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+
+    <br style=3D"clear: both;">
+
+    <div id=3D"footer">
+        <div><a href=3D"http://codeforces.com/">Codeforces</a> (c) Copyrigh=
+t 2010-2016 Mike Mirzayanov</div>
+        <div>The only programming contests Web 2.0 platform</div>
+
+    </div>
+</div>
+
+
+</div><div id=3D"datepick-div" style=3D"display: none;"></div><div style=3D=
+"display: none;" id=3D"cboxOverlay"></div><div style=3D"display: none; padd=
+ing-bottom: 42px; padding-right: 42px;" class=3D"" id=3D"colorbox"><div id=
+=3D"cboxWrapper"><div><div style=3D"float: left;" id=3D"cboxTopLeft"></div>=
+<div style=3D"float: left;" id=3D"cboxTopCenter"></div><div style=3D"float:=
+ left;" id=3D"cboxTopRight"></div></div><div style=3D"clear: left;"><div st=
+yle=3D"float: left;" id=3D"cboxMiddleLeft"></div><div style=3D"float: left;=
+" id=3D"cboxContent"><div style=3D"width: 0px; height: 0px; overflow: hidde=
+n; float: left;" id=3D"cboxLoadedContent"></div><div style=3D"float: left;"=
+ id=3D"cboxLoadingOverlay"></div><div style=3D"float: left;" id=3D"cboxLoad=
+ingGraphic"></div><div style=3D"float: left;" id=3D"cboxTitle"></div><div=
+ style=3D"float: left;" id=3D"cboxCurrent"></div><div style=3D"float: left;=
+" id=3D"cboxNext"></div><div style=3D"float: left;" id=3D"cboxPrevious"></d=
+iv><div style=3D"float: left;" id=3D"cboxSlideshow"></div><div style=3D"flo=
+at: left;" id=3D"cboxClose"></div></div><div style=3D"float: left;" id=3D"c=
+boxMiddleRight"></div></div><div style=3D"clear: left;"><div style=3D"float=
+: left;" id=3D"cboxBottomLeft"></div><div style=3D"float: left;" id=3D"cbox=
+BottomCenter"></div><div style=3D"float: left;" id=3D"cboxBottomRight"></di=
+v></div></div><div style=3D"position: absolute; width: 9999px; visibility:=
+ hidden; display: none;"></div></div></body></html>
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/34970/images/codeforces-logo-with-telegram.png
+
+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
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/34970/images/flags/24/gb.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAACkVBMVEX///8AAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAD////09/vx9fkLC2WJibPwqrDaMDD2xMjo6+8REW7WGxtHR4jV
+Fxf0+Pv4+vzrkJALC1zg4+fHFxiJibQGBl9nZ54NDWM/P4b2+PtHR4vztLrmcHD0wMWgpcvhV1fX
+ICDkZWVycqX3+fxra59NTY3w9Pm5vdiJibcREWYICGAXF2n2+PzWGRkLC18LC2IbG2zgUVFNTZDx
+9Pn+//9bW5bXHR3XHx9HR5DfSkrfS0vVFRVxcaNyd63/+fipqcvz9vv2zND0uL3N0OTngYyjqM3/
+/Pvmws3znKLueIHyrrOvrs5gZaM2NoHstb1rc63peYO/wtxVXaBycqjZs8PwhIqYmMD0vsM6OoNe
+Xpc6On/t8PTtp6/73N73x8q2t9OamsNycqPVn7DWPDzTNTXvpazT1ujUNzdZWZpeXprvj5cfH2vj
+5fDyi5LwnqaPlMLs8Pfob3pCQoXa4O4hIWwaGmwYGGoNDGiGirrJs8nlOETLbIL76euJibbU1+j/
+9fLjXWrdPEyae6QZJH+EiLjvjJMXF2U4OIbL0OTqe4ToOUS7qMMeKYLpiJPne3vz9/vcPDznenoP
+D2yzttTwnKPlMT/85Ob8//9dXZfv9vz/5eXlSVblVmKGeqoOGHUGBlxtbaZHR4ocHG4GBl0HBmV1
+d674///71NbjO0nkZnJ5c6Lt7u7kN0PZeotZYKOvosMREWnrjJX/9PIREWgREXAREWdCQo7b4e7/
+/vznc3zVPktjY53Ydn/OMD+rgJspNIELC2ALC2Tk6PO4hKH41Nf65ebo7PULC14YGWubnr/t7e3f
+naTQfpNRWp7t8PXWOTnY5IgsAAAADHRSTlMAHw88EQQQGwwLGixvXzcvAAABgklEQVR4Xq3JQ5Md
+UQBA4dsv6YeZ2/1se2zbtm3btm3Gtm3b1q/JXWSymbdJVc7qVH3gP4bTd5qIjgNqA4xrPhMcrBcS
+Pj6EUI8ud61ngwpo2amR0VEsZyVLIpVKWErniYSk5BhIA9h85kKFf1Veja3d5h472/CItPLWg4eq
+MYBpu/ILYmHjabW70eiuzhrp6EzsLuxFUGyffiv+zt32AJ2NjS6gNqUI5jyz1yLIaPH1daq0gG8J
+KyvivcWHj04ODiWlCMrEu/4UErJ14p8IfoXu3lZoHYJ6jvW2OE0IeORWgYF/l4egzVujsYTjbC4p
+EJB9kM211Gi8+xEMDA4N+xtGx7xIDw/Sa3JqemZ2zu0sgsWlZbiy+m7d1U8k8nPduw/uP/D9hxuC
+w0eOHjt+4uQplWNYmKPq3PkLFy9dvnIVwTXD9Rs3+fzbLmRQEOly7/6Dh48eP3mKAbPnL16+ev2G
+6SmTKxRy2Scm0/Pzl6/fzADFfIeJzCkAZ1BMxMDBP/cbyluAbvZRnakAAAAASUVORK5CYII=
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/34970/images/flags/24/ru.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+IGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEZSURBVHja1JYxTkMx
+DIa/pAGqvkq0M2Jl4BZci50DMXIAjsHUgQEJ2kJf4cWxGehTIzYkZ8BTnMFf8tuOE8yMlhZpbM0B
+AUjAFDhxjp2BzwTMzeytyelDWEaga6hQF4HUopIOMVOsnBYAmgMSwM3tA1cXS9a7wSX4ojvl6Xlz
+BIgomz6z7bNX9SBSjoAsynaf2e6dADEwlAowlMLqZecnUZ+ZTrSSKAtCRNUn2VIMMakkKoYGwyk+
+qkauq+j+8Y6Zgb1/+ORg3tGnCdcjQEUIBEzVB6CK5uoGJgJhAk4AimJUSVYpkCJxNvNqY6wq06xS
+eD00xp+nif3yOez9rHMAzoFLYOH8HK2B1TjRzka5HE2Ar/DvfxXfAwAeSZOQlTRuTwAAAABJRU5E
+rkJggg==
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/77/45/77457b4d8e8977f52e70744abeebc11f85e65b91.png
+
+iVBORw0KGgoAAAANSUhEUgAAAO4AAACZCAIAAACnq5EMAAADFElEQVR42u3d0W7iMBBA0Xx6/zyt
+VFVAESQhsT2eOVc8rbYL9RzcBHWTZZVStFgCoSyhLKEsoSyUJZQllCWUhbKEsiq5WR4eKCuJ3Qiy
+UdYuxK2/BGU1dzzka1HWyM147PaMsppvqH00o6we8jpoRlmdzLXWjLI6altQFsooK9bJ2YKy5nfc
+9LlQFsriONIzoiyUhTLKQhllRYF15reTUVY4x3E0o4zyWcefaUZZKKMslIWyY2Xl1xzBMcpqBQtl
+oYyyUBbKKIvmKM+FslAWzZGeBWX10+x/XAtllBXnAMDViZRAs2vGHVusNw8NlOdKnsfgXvv35frK
+nfhe+K89/OHX8vtAeXND3VwrV73fZa7JO+RvNjRv7qzv18q9SIb+ePoZyRNojl8eoT1SdoeoEIj/
+bzN3oyJ4421/J3v8q0p/+nyY8h1o7VqrGG/7JRrigYCeZ0Pz/rVCOQTiN2fltuePP8GoSDm+FZon
+eGtRQjPK5XzQjHIeGQ6dUU4FgmaU81CgGeUkCFCuTjmTAJrrUs43e5orUs46dZprUc49b5pRRllT
+Ua4waZpRplmTUK4zYJQzU642XZpRRlmBKdecK80oo6yQlCtPlGaUURbKKKNsllYAZYO0AiijLJRp
+VifKRmgdUEZZKKNswY0QZZSN0DqgjLKCUzY/q4Hyla8hyjX0UUb5vOMImlFG+RrHwzWjjDLKQhll
+lB0ro4xyrOH5BANlw0MZZfOzDiijLJRRFsooo2yE1gFllDUVZVO0AiijLJRRRtkgrQDKZul7Rxll
+oYyyulJe3YtEKKOsWJRX9+0TyigrFuXVPa6VhnKRGXOMMsqah3L6SXOMMsqajXLieXNcjnLKqXNc
+lHKy2XNcmnIaARyjnMEBxyjfKMyrYeoXj7K9zX6MciIZHKOcwQfHKGdQwjHK059LOclDeXo3EKOc
+4ac5xChPvyPajFGeXhXEKPcQ1g5ZnJujKTnlZ3Pn2cW5TaUqUn5lcVNkqLsFC+XDuMFFWUJZQllC
+WUJZKEsoSyhLKAtlCWUJZQlloSyhLKEsXdA3avMfndzDOeQAAAAASUVORK5CYII=
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/dd/33/dd33ab33509bc0ce6f63f1a91dfe1af0a9956bd2.png
+
+iVBORw0KGgoAAAANSUhEUgAAAR8AAAEJCAYAAACt2CPLAAAF5klEQVR42u3dYW8TORSGUf/0/nMQ
+QqRlNNBJYnvs+54jVdoPK8H4Xj9J2SVtPwBu0BwBID6A+ACIDyA+AOIDiA+A+ADiAyA+gPgA4gPX
+lqX1/0J84NvAVPj1EB8WjYzfI+LD0IvsWRAfXFDPKj7UuYTOwTmIDy6a80F8XCjn5tzEh5cvD0Ik
+Prgkoo741LwUOG/xwSuxs0d8LD5mIT5YdLNBfCw2ZiU+WGSzQ3wsLmYpPsHLirkiPl4hMWPxsZCY
+ufjgrTjmLz4WD3sgPnjLjZ0QH69y2A/xwWJhT8THQmFfxMcigb0Rn/7LY4GwQ+LjVQv7JD4WBeyV
++Lx+IB/t8WVBmB2gs/0Tn7DwPL6cEJMCdLZ/4pMYnva5EDBl/9p5hMQnKT4t6+0v9k98Vhh+0CsP
+i7/zFp/At77CwyLvfko/r5F/OQzhYbEAiU9IeMBeio8BQ/H9bAZrubGn4mOgELOv4gP2VXwMEnL2
+thkg2F/xMTiI2eNmYGCfxcegIGavxQfstfgYEOTsdzMYsOfiYyDstmMLfQrCbvsuPtAhPCsESHyE
+h9DwCJD4iA/iIz4GgPjY/5D4CA93Bsg9EB+YHiD3IDg+wgP73AfxAfERH+GBnHshPiA+4iM8kHM/
+xAfER3yEB3LuifiA+IiP8EDOfREfECDxER4QHwcIAiQ+4gPi4/BAfDLjIzxQ4x6JD4iP+AgP5Nwn
+8QHxER/xAfFxUCBA4iM+ID7iA+KTEx/hgXr3S3xAfMRHfEB8hAcESHwA8REfEB/xAcRHeECAxAcQ
+H/EB8REfQHyEB8LvnfgA4iM+ID5bHMKvf+f4BYhP10O4GhpBAvHpcgg9AiJCID5Ph2fXgwUB2jQ+
+ow7AuyAQn1vjIEAgPsO/3RIgEJ9LDzz1D70ECHLjc/af1SseNoiP+IgPpMfn7vAIEATG5+whb/0J
+igIE0+6C+IgPZMXnf383K+EtJ4iP+IgPiI/4gPiID4hPpfi0j/b7q1N8en9uj/i8f37+8q74LBef
+r+H588/vPPSoDw5zcd4PjwCJzzLxeYTnEJ9jgK4+9Nmi91p4l6ZPeARIfMRHfMQH8REf8UF8psbn
+rwD5M5+YACE+S8TnGKAeDy086wYI8VkqPt89nP/PB8RHfEB8xEd8QHzEB8Rn3/j86wF9ng+Ij/iA
++NSMz9lD+gxnEJ+YAAkPzL8P4iM+kBuf4wP7iaUgPrc8tJ/VDuJzy4NP+cMu4QHxmRkgf+kRxGf6
+t1+iA+LzVIDePQzvdmC9F+i2yyFc/aAqH2gF4jP8EIQGxGfrQwDER3xAfMQHxCcwPgIEte+b+ADi
+Iz4gPuID4pMbHwGCuvdMfADxER8QH/EB8cmOjwBBzfslPiA+4iM+ID4OCIRHfMQHxEd8QHyy4iNA
+UOs+iQ+Ij/iID4iPAwPhER/xAfFxcCA84gOIj/iA+1M/PgIE+9+b5iBBeMRHfEB8HCgIj/iID4iP
+gwX3Q3zEB8THAYN7IT6A+DhocB/EB8RHfAQIsu+B+ID4iI8AQc7+NwMAey8+4gPiYxBg38VHfEB8
+DATsufgIEGy7382AwF6LjyGB+BgU2GfxMTAot8fN4MD+io8BQszeNoME+yo+hgniY6BgT8XHYLGf
+4mPAYC/Fx6Cxj+Jj4GAPxcfQsYfiY/Bg/8TnyQUQIeyc+HgVwp6Jj8UA+yU+FgR7JT4WBeyT+Axd
+GBHCDomPVy3sjfhYJLAv4mOhsCfiY7GwH4jP0AWzZNgJ8fEqhz0QH4uH+SM+3nJj5uJjITFj8cFb
+ccxVfLxCYpbig8XF7MTHImNW4oPFNhvEx6JjFuKDxXf2iE+Ni4DzFh9ufSV2MZyv+OBbAmeJ+Hi1
+xrmJDy6U80F8XDTn4BzEh9svYPVLmPSs4oML6lkQH3pc4BUv8g6/R8SHwRd+1KWf/eshPhQL06tf
+iA+A+ADiAyA+gPgAiA8gPgDiA4gPgPgA4gOID4D4AOIDID6A+ACIDyA+AOIDiA+A+ADiA4gPgPgA
+4gMgPkAFPwFjhk0GNLJmTAAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/72/73/7273c7e12da3954f8a24335616952a3e262aced0.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGwAAACcCAIAAAAVltmDAAABKElEQVR42u3cMQqAMBBE0T26N1dL
+GwudFIO+Tw4gDwIbIpldcYMAIkSIgggRIkRBhAgRoiBChAhRECFChCiIECFCrP2+bc4FMeK7Loip
+YLMjxI8i3gnWOkK0nSFCNOIYtv+G6NgHESJEiBAhQoQIESJEiBAhQoQIESJEiBAhQoT4HNFFVcrn
+ynSloMt7iDWCfmiCaDtDNOIYcQzbjn0QIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEi
+RIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBEiRIgQIUKECBFiAaLnC1I+D2msFPSkC8QaQc9cQbSd
+IRpxjDiGbUGECBGiIEKECFEQIUIURIgQIQoiRIgQBREiRIiCCBEiREGECBGi3nQAUMMMJcfxd3IA
+AAAASUVORK5CYII=
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/7e/48/7e4892f1e93a7e911dd87b32630e14940f3bbf58.png
+
+iVBORw0KGgoAAAANSUhEUgAAANMAAAC2CAIAAADMXC9nAAAB20lEQVR42u3YQQqAIBBA0Tl6N7eg
+jRDtbHTsfdwnziPBaNKMwhGIPJEnkSfyJPJEnkSeyJPIE3kSeSJP5EnkiTyJPJEnkSfyJPJEnkSe
+tpMXR1zLmRbWkDjBGLjjfpliRXOZE4wvNg1fdXYJEyRPNeW9bdraY1WV53dS94e3ujy3rduWPP1M
+nlcVryrT5PW7N8Xq/pK+NXbfhifyRJ5EnsgTeeSJPJFHnsgTeeSJPJFHnsgTeRJ5Ik8iT+SJPPJE
+nsgjT+SJPPJEnsiTyBN5EnkiT+SRJ/JEHnkiT+SRJ/JEHnkiT+RJ5Ik8kUeeyBN55Ik8kUeeyBN5
+5Ik8kSeRJ/Ik8kSeyCNP5Ik88kSeyCNP5Ik8iTyRJ5En8kQeeSJP5JEn8kQeeSJP5JEn8kSeRJ7I
+E3nkiTyRR57IE3nkiTyRR57IE3kSeSJPIk/kiTzyRJ7II0/kiTzyRJ7Ik8gTeRJ5Ik/kkSfyRB55
+Ik/kkSfyRB55Ik/kSeSJPGm0PPiUKu821y8nq8/lPdnBJ/K0qbw3dvCJPLltJfJUXl7zqqJZ8np/
+zlTZ8iTyRJ5EnsgTeRJ5Ik8iT+RJ5Ik8iTyRJ5En8iTyRJ7Ik8gTeRJ5Ik8iT+RJ5Ik8iTyt0AlE
+xPRCcMthxQAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/3d/95/3d95bbe4563d8925b713d09700a3c4652c2f8c7d.png
+
+iVBORw0KGgoAAAANSUhEUgAAAG0AAABwCAIAAACb0mlEAAABEElEQVR42u3cOwrDQAwFQB09N49T
+pnFledFnHuq9jC3QYlB8JSOBgCNHjsKRI0eOwpEjR47CkSNH4ciRI0cZ5Rif+BXHp4L/xTEBsSwl
+x+mOd4jptdox8Sn6miPHYXPPFse35/Bdjq++IY4cOXLkyJEjR44cOXLkyJEjR44cOXLkyJEjR45n
+HVMoY7lg1h/dgJhCyZFjNuITSo4c9TVHcw9Hc7h7IUeOHDly5MiRI0eOHDly5MiRI0eOHDly5MiR
+482Zim8hq+7YZQtZacdG27M4Tnc8toVs+H6zM1vIGnzXy/ua4zjH1nNPLce+c3hFx9X3SwQcOXIU
+jhw5chSOHDlyFI4cOQpHjhw5CkeODXMBhIdMfVNtQ+kAAAAASUVORK5CYII=
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-CC6CD559:http://st.codeforces.com/s/34970/css/font-awesome.min.css
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: normal;
+  src: url("urn:not-loaded:http://st.codeforces.com/s/34970/css/fontawesome=
+-webfont.eot?#iefix&v=3D3.1.0") format("embedded-opentype"), url("urn:not-l=
+oaded:http://st.codeforces.com/s/34970/css/fontawesome-webfont.woff?v=3D3.1=
+.0") format("woff"), url("urn:not-loaded:http://st.codeforces.com/s/34970/c=
+ss/fontawesome-webfont.ttf?v=3D3.1.0") format("truetype"), url("urn:not-loa=
+ded:http://st.codeforces.com/s/34970/css/fontawesome-webfont.svg#fontawesom=
+eregular?v=3D3.1.0") format("svg");
+}
+[class^=3D"icon-"], [class*=3D" icon-"] { font-family: FontAwesome; font-we=
+ight: normal; font-style: normal; text-decoration: inherit; }
+[class^=3D"icon-"]::before, [class*=3D" icon-"]::before { text-decoration:=
+ inherit; display: inline-block; }
+.icon-large::before { vertical-align: -10%; font-size: 1.33333em; }
+a [class^=3D"icon-"], a [class*=3D" icon-"], a [class^=3D"icon-"]::before,=
+ a [class*=3D" icon-"]::before { display: inline; }
+[class^=3D"icon-"], [class*=3D" icon-"] { display: inline; width: auto; hei=
+ght: auto; line-height: normal; vertical-align: baseline; background-image:=
+ none; background-position: 0px 0px; background-repeat: repeat; margin-top:=
+ 0px; }
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+.icon-rotate-90::before { transform: rotate(90deg); }
+.icon-rotate-180::before { transform: rotate(180deg); }
+.icon-rotate-270::before { transform: rotate(270deg); }
+.icon-flip-horizontal::before { transform: scale(-1, 1); }
+.icon-flip-vertical::before { transform: scale(1, -1); }
+.icon-glass::before { content: "=EF=80=80"; }
+.icon-music::before { content: "=EF=80=81"; }
+.icon-search::before { content: "=EF=80=82"; }
+.icon-envelope::before { content: "=EF=80=83"; }
+.icon-heart::before { content: "=EF=80=84"; }
+.icon-star::before { content: "=EF=80=85"; }
+.icon-star-empty::before { content: "=EF=80=86"; }
+.icon-user::before { content: "=EF=80=87"; }
+.icon-film::before { content: "=EF=80=88"; }
+.icon-th-large::before { content: "=EF=80=89"; }
+.icon-th::before { content: "=EF=80=8A"; }
+.icon-th-list::before { content: "=EF=80=8B"; }
+.icon-ok::before { content: "=EF=80=8C"; }
+.icon-remove::before { content: "=EF=80=8D"; }
+.icon-zoom-in::before { content: "=EF=80=8E"; }
+.icon-zoom-out::before { content: "=EF=80=90"; }
+.icon-off::before { content: "=EF=80=91"; }
+.icon-signal::before { content: "=EF=80=92"; }
+.icon-cog::before { content: "=EF=80=93"; }
+.icon-trash::before { content: "=EF=80=94"; }
+.icon-home::before { content: "=EF=80=95"; }
+.icon-file::before { content: "=EF=80=96"; }
+.icon-time::before { content: "=EF=80=97"; }
+.icon-road::before { content: "=EF=80=98"; }
+.icon-download-alt::before { content: "=EF=80=99"; }
+.icon-download::before { content: "=EF=80=9A"; }
+.icon-upload::before { content: "=EF=80=9B"; }
+.icon-inbox::before { content: "=EF=80=9C"; }
+.icon-play-circle::before { content: "=EF=80=9D"; }
+.icon-repeat::before, .icon-rotate-right::before { content: "=EF=80=9E"; }
+.icon-refresh::before { content: "=EF=80=A1"; }
+.icon-list-alt::before { content: "=EF=80=A2"; }
+.icon-lock::before { content: "=EF=80=A3"; }
+.icon-flag::before { content: "=EF=80=A4"; }
+.icon-headphones::before { content: "=EF=80=A5"; }
+.icon-volume-off::before { content: "=EF=80=A6"; }
+.icon-volume-down::before { content: "=EF=80=A7"; }
+.icon-volume-up::before { content: "=EF=80=A8"; }
+.icon-qrcode::before { content: "=EF=80=A9"; }
+.icon-barcode::before { content: "=EF=80=AA"; }
+.icon-tag::before { content: "=EF=80=AB"; }
+.icon-tags::before { content: "=EF=80=AC"; }
+.icon-book::before { content: "=EF=80=AD"; }
+.icon-bookmark::before { content: "=EF=80=AE"; }
+.icon-print::before { content: "=EF=80=AF"; }
+.icon-camera::before { content: "=EF=80=B0"; }
+.icon-font::before { content: "=EF=80=B1"; }
+.icon-bold::before { content: "=EF=80=B2"; }
+.icon-italic::before { content: "=EF=80=B3"; }
+.icon-text-height::before { content: "=EF=80=B4"; }
+.icon-text-width::before { content: "=EF=80=B5"; }
+.icon-align-left::before { content: "=EF=80=B6"; }
+.icon-align-center::before { content: "=EF=80=B7"; }
+.icon-align-right::before { content: "=EF=80=B8"; }
+.icon-align-justify::before { content: "=EF=80=B9"; }
+.icon-list::before { content: "=EF=80=BA"; }
+.icon-indent-left::before { content: "=EF=80=BB"; }
+.icon-indent-right::before { content: "=EF=80=BC"; }
+.icon-facetime-video::before { content: "=EF=80=BD"; }
+.icon-picture::before { content: "=EF=80=BE"; }
+.icon-pencil::before { content: "=EF=81=80"; }
+.icon-map-marker::before { content: "=EF=81=81"; }
+.icon-adjust::before { content: "=EF=81=82"; }
+.icon-tint::before { content: "=EF=81=83"; }
+.icon-edit::before { content: "=EF=81=84"; }
+.icon-share::before { content: "=EF=81=85"; }
+.icon-check::before { content: "=EF=81=86"; }
+.icon-move::before { content: "=EF=81=87"; }
+.icon-step-backward::before { content: "=EF=81=88"; }
+.icon-fast-backward::before { content: "=EF=81=89"; }
+.icon-backward::before { content: "=EF=81=8A"; }
+.icon-play::before { content: "=EF=81=8B"; }
+.icon-pause::before { content: "=EF=81=8C"; }
+.icon-stop::before { content: "=EF=81=8D"; }
+.icon-forward::before { content: "=EF=81=8E"; }
+.icon-fast-forward::before { content: "=EF=81=90"; }
+.icon-step-forward::before { content: "=EF=81=91"; }
+.icon-eject::before { content: "=EF=81=92"; }
+.icon-chevron-left::before { content: "=EF=81=93"; }
+.icon-chevron-right::before { content: "=EF=81=94"; }
+.icon-plus-sign::before { content: "=EF=81=95"; }
+.icon-minus-sign::before { content: "=EF=81=96"; }
+.icon-remove-sign::before { content: "=EF=81=97"; }
+.icon-ok-sign::before { content: "=EF=81=98"; }
+.icon-question-sign::before { content: "=EF=81=99"; }
+.icon-info-sign::before { content: "=EF=81=9A"; }
+.icon-screenshot::before { content: "=EF=81=9B"; }
+.icon-remove-circle::before { content: "=EF=81=9C"; }
+.icon-ok-circle::before { content: "=EF=81=9D"; }
+.icon-ban-circle::before { content: "=EF=81=9E"; }
+.icon-arrow-left::before { content: "=EF=81=A0"; }
+.icon-arrow-right::before { content: "=EF=81=A1"; }
+.icon-arrow-up::before { content: "=EF=81=A2"; }
+.icon-arrow-down::before { content: "=EF=81=A3"; }
+.icon-share-alt::before, .icon-mail-forward::before { content: "=EF=81=A4";=
+ }
+.icon-resize-full::before { content: "=EF=81=A5"; }
+.icon-resize-small::before { content: "=EF=81=A6"; }
+.icon-plus::before { content: "=EF=81=A7"; }
+.icon-minus::before { content: "=EF=81=A8"; }
+.icon-asterisk::before { content: "=EF=81=A9"; }
+.icon-exclamation-sign::before { content: "=EF=81=AA"; }
+.icon-gift::before { content: "=EF=81=AB"; }
+.icon-leaf::before { content: "=EF=81=AC"; }
+.icon-fire::before { content: "=EF=81=AD"; }
+.icon-eye-open::before { content: "=EF=81=AE"; }
+.icon-eye-close::before { content: "=EF=81=B0"; }
+.icon-warning-sign::before { content: "=EF=81=B1"; }
+.icon-plane::before { content: "=EF=81=B2"; }
+.icon-calendar::before { content: "=EF=81=B3"; }
+.icon-random::before { content: "=EF=81=B4"; }
+.icon-comment::before { content: "=EF=81=B5"; }
+.icon-magnet::before { content: "=EF=81=B6"; }
+.icon-chevron-up::before { content: "=EF=81=B7"; }
+.icon-chevron-down::before { content: "=EF=81=B8"; }
+.icon-retweet::before { content: "=EF=81=B9"; }
+.icon-shopping-cart::before { content: "=EF=81=BA"; }
+.icon-folder-close::before { content: "=EF=81=BB"; }
+.icon-folder-open::before { content: "=EF=81=BC"; }
+.icon-resize-vertical::before { content: "=EF=81=BD"; }
+.icon-resize-horizontal::before { content: "=EF=81=BE"; }
+.icon-bar-chart::before { content: "=EF=82=80"; }
+.icon-twitter-sign::before { content: "=EF=82=81"; }
+.icon-facebook-sign::before { content: "=EF=82=82"; }
+.icon-camera-retro::before { content: "=EF=82=83"; }
+.icon-key::before { content: "=EF=82=84"; }
+.icon-cogs::before { content: "=EF=82=85"; }
+.icon-comments::before { content: "=EF=82=86"; }
+.icon-thumbs-up::before { content: "=EF=82=87"; }
+.icon-thumbs-down::before { content: "=EF=82=88"; }
+.icon-star-half::before { content: "=EF=82=89"; }
+.icon-heart-empty::before { content: "=EF=82=8A"; }
+.icon-signout::before { content: "=EF=82=8B"; }
+.icon-linkedin-sign::before { content: "=EF=82=8C"; }
+.icon-pushpin::before { content: "=EF=82=8D"; }
+.icon-external-link::before { content: "=EF=82=8E"; }
+.icon-signin::before { content: "=EF=82=90"; }
+.icon-trophy::before { content: "=EF=82=91"; }
+.icon-github-sign::before { content: "=EF=82=92"; }
+.icon-upload-alt::before { content: "=EF=82=93"; }
+.icon-lemon::before { content: "=EF=82=94"; }
+.icon-phone::before { content: "=EF=82=95"; }
+.icon-check-empty::before { content: "=EF=82=96"; }
+.icon-bookmark-empty::before { content: "=EF=82=97"; }
+.icon-phone-sign::before { content: "=EF=82=98"; }
+.icon-twitter::before { content: "=EF=82=99"; }
+.icon-facebook::before { content: "=EF=82=9A"; }
+.icon-github::before { content: "=EF=82=9B"; }
+.icon-unlock::before { content: "=EF=82=9C"; }
+.icon-credit-card::before { content: "=EF=82=9D"; }
+.icon-rss::before { content: "=EF=82=9E"; }
+.icon-hdd::before { content: "=EF=82=A0"; }
+.icon-bullhorn::before { content: "=EF=82=A1"; }
+.icon-bell::before { content: "=EF=82=A2"; }
+.icon-certificate::before { content: "=EF=82=A3"; }
+.icon-hand-right::before { content: "=EF=82=A4"; }
+.icon-hand-left::before { content: "=EF=82=A5"; }
+.icon-hand-up::before { content: "=EF=82=A6"; }
+.icon-hand-down::before { content: "=EF=82=A7"; }
+.icon-circle-arrow-left::before { content: "=EF=82=A8"; }
+.icon-circle-arrow-right::before { content: "=EF=82=A9"; }
+.icon-circle-arrow-up::before { content: "=EF=82=AA"; }
+.icon-circle-arrow-down::before { content: "=EF=82=AB"; }
+.icon-globe::before { content: "=EF=82=AC"; }
+.icon-wrench::before { content: "=EF=82=AD"; }
+.icon-tasks::before { content: "=EF=82=AE"; }
+.icon-filter::before { content: "=EF=82=B0"; }
+.icon-briefcase::before { content: "=EF=82=B1"; }
+.icon-fullscreen::before { content: "=EF=82=B2"; }
+.icon-group::before { content: "=EF=83=80"; }
+.icon-link::before { content: "=EF=83=81"; }
+.icon-cloud::before { content: "=EF=83=82"; }
+.icon-beaker::before { content: "=EF=83=83"; }
+.icon-cut::before { content: "=EF=83=84"; }
+.icon-copy::before { content: "=EF=83=85"; }
+.icon-paper-clip::before { content: "=EF=83=86"; }
+.icon-save::before { content: "=EF=83=87"; }
+.icon-sign-blank::before { content: "=EF=83=88"; }
+.icon-reorder::before { content: "=EF=83=89"; }
+.icon-list-ul::before { content: "=EF=83=8A"; }
+.icon-list-ol::before { content: "=EF=83=8B"; }
+.icon-strikethrough::before { content: "=EF=83=8C"; }
+.icon-underline::before { content: "=EF=83=8D"; }
+.icon-table::before { content: "=EF=83=8E"; }
+.icon-magic::before { content: "=EF=83=90"; }
+.icon-truck::before { content: "=EF=83=91"; }
+.icon-pinterest::before { content: "=EF=83=92"; }
+.icon-pinterest-sign::before { content: "=EF=83=93"; }
+.icon-google-plus-sign::before { content: "=EF=83=94"; }
+.icon-google-plus::before { content: "=EF=83=95"; }
+.icon-money::before { content: "=EF=83=96"; }
+.icon-caret-down::before { content: "=EF=83=97"; }
+.icon-caret-up::before { content: "=EF=83=98"; }
+.icon-caret-left::before { content: "=EF=83=99"; }
+.icon-caret-right::before { content: "=EF=83=9A"; }
+.icon-columns::before { content: "=EF=83=9B"; }
+.icon-sort::before { content: "=EF=83=9C"; }
+.icon-sort-down::before { content: "=EF=83=9D"; }
+.icon-sort-up::before { content: "=EF=83=9E"; }
+.icon-envelope-alt::before { content: "=EF=83=A0"; }
+.icon-linkedin::before { content: "=EF=83=A1"; }
+.icon-undo::before, .icon-rotate-left::before { content: "=EF=83=A2"; }
+.icon-legal::before { content: "=EF=83=A3"; }
+.icon-dashboard::before { content: "=EF=83=A4"; }
+.icon-comment-alt::before { content: "=EF=83=A5"; }
+.icon-comments-alt::before { content: "=EF=83=A6"; }
+.icon-bolt::before { content: "=EF=83=A7"; }
+.icon-sitemap::before { content: "=EF=83=A8"; }
+.icon-umbrella::before { content: "=EF=83=A9"; }
+.icon-paste::before { content: "=EF=83=AA"; }
+.icon-lightbulb::before { content: "=EF=83=AB"; }
+.icon-exchange::before { content: "=EF=83=AC"; }
+.icon-cloud-download::before { content: "=EF=83=AD"; }
+.icon-cloud-upload::before { content: "=EF=83=AE"; }
+.icon-user-md::before { content: "=EF=83=B0"; }
+.icon-stethoscope::before { content: "=EF=83=B1"; }
+.icon-suitcase::before { content: "=EF=83=B2"; }
+.icon-bell-alt::before { content: "=EF=83=B3"; }
+.icon-coffee::before { content: "=EF=83=B4"; }
+.icon-food::before { content: "=EF=83=B5"; }
+.icon-file-alt::before { content: "=EF=83=B6"; }
+.icon-building::before { content: "=EF=83=B7"; }
+.icon-hospital::before { content: "=EF=83=B8"; }
+.icon-ambulance::before { content: "=EF=83=B9"; }
+.icon-medkit::before { content: "=EF=83=BA"; }
+.icon-fighter-jet::before { content: "=EF=83=BB"; }
+.icon-beer::before { content: "=EF=83=BC"; }
+.icon-h-sign::before { content: "=EF=83=BD"; }
+.icon-plus-sign-alt::before { content: "=EF=83=BE"; }
+.icon-double-angle-left::before { content: "=EF=84=80"; }
+.icon-double-angle-right::before { content: "=EF=84=81"; }
+.icon-double-angle-up::before { content: "=EF=84=82"; }
+.icon-double-angle-down::before { content: "=EF=84=83"; }
+.icon-angle-left::before { content: "=EF=84=84"; }
+.icon-angle-right::before { content: "=EF=84=85"; }
+.icon-angle-up::before { content: "=EF=84=86"; }
+.icon-angle-down::before { content: "=EF=84=87"; }
+.icon-desktop::before { content: "=EF=84=88"; }
+.icon-laptop::before { content: "=EF=84=89"; }
+.icon-tablet::before { content: "=EF=84=8A"; }
+.icon-mobile-phone::before { content: "=EF=84=8B"; }
+.icon-circle-blank::before { content: "=EF=84=8C"; }
+.icon-quote-left::before { content: "=EF=84=8D"; }
+.icon-quote-right::before { content: "=EF=84=8E"; }
+.icon-spinner::before { content: "=EF=84=90"; }
+.icon-circle::before { content: "=EF=84=91"; }
+.icon-reply::before, .icon-mail-reply::before { content: "=EF=84=92"; }
+.icon-folder-close-alt::before { content: "=EF=84=94"; }
+.icon-folder-open-alt::before { content: "=EF=84=95"; }
+.icon-expand-alt::before { content: "=EF=84=96"; }
+.icon-collapse-alt::before { content: "=EF=84=97"; }
+.icon-smile::before { content: "=EF=84=98"; }
+.icon-frown::before { content: "=EF=84=99"; }
+.icon-meh::before { content: "=EF=84=9A"; }
+.icon-gamepad::before { content: "=EF=84=9B"; }
+.icon-keyboard::before { content: "=EF=84=9C"; }
+.icon-flag-alt::before { content: "=EF=84=9D"; }
+.icon-flag-checkered::before { content: "=EF=84=9E"; }
+.icon-terminal::before { content: "=EF=84=A0"; }
+.icon-code::before { content: "=EF=84=A1"; }
+.icon-reply-all::before { content: "=EF=84=A2"; }
+.icon-mail-reply-all::before { content: "=EF=84=A2"; }
+.icon-star-half-full::before, .icon-star-half-empty::before { content: "=EF=
+=84=A3"; }
+.icon-location-arrow::before { content: "=EF=84=A4"; }
+.icon-crop::before { content: "=EF=84=A5"; }
+.icon-code-fork::before { content: "=EF=84=A6"; }
+.icon-unlink::before { content: "=EF=84=A7"; }
+.icon-question::before { content: "=EF=84=A8"; }
+.icon-info::before { content: "=EF=84=A9"; }
+.icon-exclamation::before { content: "=EF=84=AA"; }
+.icon-superscript::before { content: "=EF=84=AB"; }
+.icon-subscript::before { content: "=EF=84=AC"; }
+.icon-eraser::before { content: "=EF=84=AD"; }
+.icon-puzzle-piece::before { content: "=EF=84=AE"; }
+.icon-microphone::before { content: "=EF=84=B0"; }
+.icon-microphone-off::before { content: "=EF=84=B1"; }
+.icon-shield::before { content: "=EF=84=B2"; }
+.icon-calendar-empty::before { content: "=EF=84=B3"; }
+.icon-fire-extinguisher::before { content: "=EF=84=B4"; }
+.icon-rocket::before { content: "=EF=84=B5"; }
+.icon-maxcdn::before { content: "=EF=84=B6"; }
+.icon-chevron-sign-left::before { content: "=EF=84=B7"; }
+.icon-chevron-sign-right::before { content: "=EF=84=B8"; }
+.icon-chevron-sign-up::before { content: "=EF=84=B9"; }
+.icon-chevron-sign-down::before { content: "=EF=84=BA"; }
+.icon-html5::before { content: "=EF=84=BB"; }
+.icon-css3::before { content: "=EF=84=BC"; }
+.icon-anchor::before { content: "=EF=84=BD"; }
+.icon-unlock-alt::before { content: "=EF=84=BE"; }
+.icon-bullseye::before { content: "=EF=85=80"; }
+.icon-ellipsis-horizontal::before { content: "=EF=85=81"; }
+.icon-ellipsis-vertical::before { content: "=EF=85=82"; }
+.icon-rss-sign::before { content: "=EF=85=83"; }
+.icon-play-sign::before { content: "=EF=85=84"; }
+.icon-ticket::before { content: "=EF=85=85"; }
+.icon-minus-sign-alt::before { content: "=EF=85=86"; }
+.icon-check-minus::before { content: "=EF=85=87"; }
+.icon-level-up::before { content: "=EF=85=88"; }
+.icon-level-down::before { content: "=EF=85=89"; }
+.icon-check-sign::before { content: "=EF=85=8A"; }
+.icon-edit-sign::before { content: "=EF=85=8B"; }
+.icon-external-link-sign::before { content: "=EF=85=8C"; }
+.icon-share-sign::before { content: "=EF=85=8D"; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3C516D34:http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 400;
+  src: local("PT Sans Narrow"), local("PTSans-Narrow"), url("urn:not-loaded=
+:http://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4aCdjWF5QMA=
+3Tf82kxWkPB0.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 700;
+  src: local("PT Sans Narrow Bold"), local("PTSans-NarrowBold"), url("urn:n=
+ot-loaded:http://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYu=
+MQYWxAweROEvafRwt5VUg.woff2") format("woff2");
+}
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A72D9EF2:http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "Cuprum";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Cuprum"), local("Cuprum-Regular"), url("urn:not-loaded:http:/=
+/fonts.gstatic.com/s/cuprum/v7/wZFcXoYCGA2FK2-RHk5PHQ.woff2") format("woff2=
+");
+}
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/34970/favicon.png
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAD5klEQVR4Xu3WT4ucVRrG4ft+zlvV
+qe5y4ox0JCpCNqMgEvwCOhsxIIILl/MV5jPEgYgLv4E7QVy6kgxoTNRFQ/4YGKKIQnQmxqTT6Zhu
+sbur3vc8961TdL90EbAD4kKZi8OhKA71O4dnU/Bv7HcS+H/g4q2dkys3Tq3ceO38rVPnV/+5cvON
+i7e+2dzxfWhwkK/vTv/x/reX1raGQZAAbFf5643JG397bKkJ/KKDA6tb+dWdyZFRE0Rvq9N/7062
+2zwwEDgIoUIHwH2rYaRYMwH82heYNMw0iZ4Fz1r3GzDmED2EWZKJjH0FJyiT9xEwUH/4FJM1lmXp
+Ng02yxg9WkZHudtOq0YpYfRokyJ8cCDXz/D795iVPBRIIpBdHTzoR/7O8V8BmFCYMDj/8EQ1DhS5
+cbHUIo5MAQOBKqPIdexcxQyNEG3sX9XpcETgIA0j7NambUCmqCI7+vkbsCkw0COiOEPCntzant5e
+byIqXAwIzeOPlFIaW0BSBG2Akim7sxM9GzaEnqVaYRgzO1e+vHry9Y3LFxbL4MdoF1xcOX7p+SdP
+vdpQohIRkAgYokEnoP7HIbMRjV4xhqXpH3X97XdW//Xu4OEjk65j5DaxgMHtN9966IUTDVDhhJMw
+ALgCpJM2ejLq3JAtd1ktY6YrHRaGBEU6BjKmdhwed2trjZ1CC4ecQJKGaVXCmCEAAcZ+tiFhrzlw
+sYoKErA0jGKgLRXBxrI9JQcyg9WGZFhAYpfppEGjF1Ix+0t0RA1TAExgqgQgM6GGEJVy0ABpmIBR
++wHaFmATRM8gbPRsAAb6vf+wNwMQIAzOAlZCRs+A5mYAWe4LMCx4/gQMCm7gDuoYkMzdWwoSIOzx
+DHr3fGM47TJ/Jm0ATajC1XKYgA3ThucCkkSS6EnyPZfVfEC2gcauUDIgi6BhGLsvnnG/zbOwD0WY
+e7V9Mwg4Ldk7VAel0doZauHsh1yNDlYgrbQSrggD3IukmMVisYpQhFIctgWHkYmaFLMJ2UmgTW5B
+FbtI2MpM5Swr266tq0DMNMXDnQZZk8nAhPphIDBYHZEdchOKttlsuRneVhq1NjHCDMMJdxVdoorT
+Ln9ebYuRY6EQM9l1U0za7KzqnclCl241aTuNx6HlV3xouWnZ5AK9BC8Cqn9+VkdOYObp5QdefmK5
+RF1svFByaYGLw1g61L14/E9/WRpi5qFnn1t84qkYj7k01uFxGS+NhosPHjt29JnjsJ3T9Xb9XPv9
+hcnG5endf3d3Lnne5lQr32yevrL64ZfrH3xx+/Tna5/d/NHzNq9dv3bm7PWzH3137pObZz7+z5mz
+W5sbf4i/jj8BDXbkzwF5XXcAAAAASUVORK5CYII=
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-1456352A:http://st.codeforces.com/s/34970/css/prettify.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-CCE7CC74:http://st.codeforces.com/s/34970/css/clear.css
+
+/* Effective stylesheet produced by snapshot save */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, field=
+set, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: 0px none; }
+q::before, q::after { content: ""; }
+a:link { color: rgb(0, 0, 204); }
+body { background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 3px=
+ 8px; }
+body, select, input { font-family: verdana,arial,sans-serif; }
+body { font-size: 1.4rem; }
+pre { font-size: 110%; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E4596532:http://st.codeforces.com/s/34970/css/style.css
+
+/* Effective stylesheet produced by snapshot save */
+html { font-size: 10px; }
+#body { padding-top: 0.75em; max-width: 1200px; min-width: 920px; margin:=
+ 0px auto; }
+#header { height: 5em; margin: 0px 1em; }
+#footer { margin-top: 1em; padding-top: 1em; border-top: 1px solid rgb(204,=
+ 204, 204); text-align: center; font-size: 1em; clear: both; height: 4em;=
+ }
+.caption { margin: 0px 0px 1em; font-size: 1.5rem; font-weight: bold; color=
+: rgb(59, 89, 152); }
+#datepick-div { z-index: 100000 ! important; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D7FFCC1E:http://st.codeforces.com/s/34970/css/ttypography.css
+
+/* Effective stylesheet produced by snapshot save */
+div.ttypography textarea, div.ttypography pre, div.ttypography code, div.tt=
+ypography kbd, div.ttypography samp, div.ttypography var, div.ttypography=
+ tt { font-family: Consolas,"Lucida Console","Andale Mono","Bitstream Vera=
+ Sans Mono","Courier New",Courier; }
+div.ttypography { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;=
+ line-height: 21px; color: rgb(34, 34, 34); font-size: 1.4rem; word-wrap:=
+ break-word; }
+div.ttypography p { font-size: 1em; line-height: 1.4em; margin: 1.5em 0px=
+ 0px; }
+div.ttypography em, div.ttypography i { font-style: italic; }
+div.ttypography pre, div.ttypography code, div.ttypography kbd, div.ttypogr=
+aphy tt, div.ttypography samp, div.ttypography var { font-size: 100%; }
+div.ttypography pre { line-height: 1.5em; margin: 1.5em 0px 0px; white-spac=
+e: pre-wrap; word-wrap: break-word; }
+div.ttypography pre, div.ttypography code { color: rgb(136, 0, 0); }
+div.ttypography sub, div.ttypography sup { font-size: 75%; line-height: 0;=
+ position: relative; vertical-align: baseline; }
+div.ttypography sup { top: -0.5em; }
+div.ttypography sub { bottom: -0.25em; }
+div.ttypography img, div.ttypography figure { margin: 0px; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-FFCF2271:http://st.codeforces.com/s/34970/css/problem-statement.css
+
+/* Effective stylesheet produced by snapshot save */
+.problem-statement { margin: 0.5em; font-family: "Helvetica Neue",Helvetica=
+,Arial,sans-serif; line-height: 1.5em; font-size: 1.4rem; }
+.problem-statement p { margin: 0px 0px 1em ! important; }
+.problem-statement .header { margin-bottom: 1em; text-align: center; }
+.problem-statement .header .title { font-size: 150%; margin-bottom: 0.5em; }
+.problem-statement .header .title { font-size: 150%; font-family: "Helvetic=
+a Neue",Helvetica,Arial,sans-serif; }
+.problem-statement .property-title { display: inline; padding-right: 4px;=
+ }
+.problem-statement .property-title::after { content: ":"; }
+.problem-statement .time-limit, .problem-statement .memory-limit, .problem-=
+statement .input-file, .problem-statement .output-file { margin: 0px auto; }
+.problem-statement .section-title { font-family: "Helvetica Neue",Helvetica=
+,Arial,sans-serif; font-size: 115%; font-weight: bold; }
+.problem-statement .input-specification, .problem-statement .output-specifi=
+cation, .problem-statement .sample-tests, .problem-statement .author, .prob=
+lem-statement .resource, .problem-statement .date {  }
+.problem-statement .output-specification { margin-bottom: 1em; }
+.problem-statement .sample-tests .sample-test {  }
+.problem-statement .sample-tests .input, .problem-statement .sample-tests=
+ .output { border: 1px solid rgb(136, 136, 136); }
+.problem-statement .sample-tests .output { margin-bottom: 1em; position: re=
+lative; top: -1px; }
+.problem-statement .sample-tests pre { line-height: 1.25em; padding: 0.25em=
+; margin: 0px; background-color: rgb(239, 239, 239); }
+.problem-statement .sample-tests { font-family: Consolas,"Lucida Console","=
+Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier; font-size:=
+ 0.9em; }
+.problem-statement .sample-tests .title { font-size: 1.3em; padding: 0.25em=
+; border-bottom: 1px solid rgb(136, 136, 136); text-transform: lowercase;=
+ font-weight: bold; }
+.problemindexholder { position: relative; }
+.tex-span { font-size: 125%; font-family: times new roman,sans-serif; white=
+-space: nowrap; }
+.tex-font-style-tt { font-size: 110%; font-family: courier new,monospace;=
+ }
+.tex-font-style-bf { font-weight: bold; }
+.tex-graphics { display: block; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-8BB80347:http://st.codeforces.com/s/34970/css/second-level-menu.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E2D20F05:http://st.codeforces.com/s/34970/css/roundbox.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B45DDDFB:http://st.codeforces.com/s/34970/css/datatable.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-72C49E99:http://st.codeforces.com/s/34970/css/table-form.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-565BE7E5:http://st.codeforces.com/s/34970/css/topic.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3D1879CC:http://st.codeforces.com/s/34970/css/jquery.jgrowl.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-9DC2FC17:http://st.codeforces.com/s/34970/css/facebox.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6CEDF439:http://st.codeforces.com/s/34970/css/jquery.wysiwyg.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E01C7FAE:http://st.codeforces.com/s/34970/css/jquery.autocomplete.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D47D8F7A:http://st.codeforces.com/s/34970/css/codeforces.datepick.css
+
+/* Effective stylesheet produced by snapshot save */
+#datepick-div, .datepick-inline { background: rgb(255, 255, 255) none repea=
+t scroll 0% 0%; color: rgb(34, 34, 34); width: 220px; }
+#datepick-div { display: none; border-width: 1px 1px medium; border-style:=
+ solid solid none; border-color: rgb(185, 185, 185) rgb(185, 185, 185) -moz=
+-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: no=
+ne; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-=
+image: none; z-index: 100; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AA97AE60:http://st.codeforces.com/s/34970/css/colorbox.css
+
+/* Effective stylesheet produced by snapshot save */
+#colorbox, #cboxOverlay, #cboxWrapper { position: absolute; top: 0px; left:=
+ 0px; z-index: 9999; overflow: hidden; }
+#cboxOverlay { position: fixed; width: 100%; height: 100%; }
+#cboxMiddleLeft, #cboxBottomLeft { clear: left; }
+#cboxContent { position: relative; overflow: hidden; }
+#cboxLoadedContent { overflow: auto; }
+#cboxTitle { margin: 0px; }
+#cboxLoadingOverlay, #cboxLoadingGraphic { position: absolute; top: 0px; le=
+ft: 0px; width: 100%; }
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow { cursor: pointer; }
+#cboxOverlay { background: transparent url("urn:not-loaded:http://st.codefo=
+rces.com/s/34970/images/overlay.png") repeat scroll 0px 0px; }
+#colorbox {  }
+#cboxTopLeft { width: 21px; height: 21px; background: transparent url("urn:=
+not-loaded:http://st.codeforces.com/s/34970/images/controls.png") no-repeat=
+ scroll -100px 0px; }
+#cboxTopRight { width: 21px; height: 21px; background: transparent url("urn=
+:not-loaded:http://st.codeforces.com/s/34970/images/controls.png") no-repea=
+t scroll -129px 0px; }
+#cboxBottomLeft { width: 21px; height: 21px; background: transparent url("u=
+rn:not-loaded:http://st.codeforces.com/s/34970/images/controls.png") no-rep=
+eat scroll -100px -29px; }
+#cboxBottomRight { width: 21px; height: 21px; background: transparent url("=
+urn:not-loaded:http://st.codeforces.com/s/34970/images/controls.png") no-re=
+peat scroll -129px -29px; }
+#cboxMiddleLeft { width: 21px; background: transparent url("urn:not-loaded:=
+http://st.codeforces.com/s/34970/images/controls.png") repeat-y scroll left=
+ top; }
+#cboxMiddleRight { width: 21px; background: transparent url("urn:not-loaded=
+:http://st.codeforces.com/s/34970/images/controls.png") repeat-y scroll rig=
+ht top; }
+#cboxTopCenter { height: 21px; background: transparent url("urn:not-loaded:=
+http://st.codeforces.com/s/34970/images/border.png") repeat-x scroll 0px 0p=
+x; }
+#cboxBottomCenter { height: 21px; background: transparent url("urn:not-load=
+ed:http://st.codeforces.com/s/34970/images/border.png") repeat-x scroll 0px=
+ -29px; }
+#cboxContent { background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+#cboxLoadedContent { margin-bottom: 28px; }
+#cboxTitle { position: absolute; bottom: 4px; left: 0px; text-align: center=
+; width: 100%; color: rgb(148, 148, 148); }
+#cboxCurrent { position: absolute; bottom: 4px; left: 58px; color: rgb(148,=
+ 148, 148); }
+#cboxSlideshow { position: absolute; bottom: 4px; right: 30px; color: rgb(0=
+, 146, 239); }
+#cboxPrevious { position: absolute; bottom: 0px; left: 0px; background: tra=
+nsparent url("urn:not-loaded:http://st.codeforces.com/s/34970/images/contro=
+ls.png") no-repeat scroll -75px 0px; width: 25px; height: 25px; text-indent=
+: -9999px; }
+#cboxNext { position: absolute; bottom: 0px; left: 27px; background: transp=
+arent url("urn:not-loaded:http://st.codeforces.com/s/34970/images/controls.=
+png") no-repeat scroll -50px 0px; width: 25px; height: 25px; text-indent:=
+ -9999px; }
+#cboxLoadingOverlay { background: transparent url("urn:not-loaded:http://st=
+.codeforces.com/s/34970/images/loading_background.png") no-repeat scroll ce=
+nter center; }
+#cboxLoadingGraphic { background: transparent url("urn:not-loaded:http://st=
+.codeforces.com/s/34970/images/loading.gif") no-repeat scroll center center=
+; }
+#cboxClose { position: absolute; bottom: 0px; right: 0px; background: trans=
+parent url("urn:not-loaded:http://st.codeforces.com/s/34970/images/controls=
+.png") no-repeat scroll -25px 0px; width: 25px; height: 25px; text-indent:=
+ -9999px; }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-537D9156:http://st.codeforces.com/s/34970/css/jquery.drafts.css
+
+/* Effective stylesheet produced by snapshot save */
+.drafts-button:not(.drafts-offline) { background-color: rgb(58, 135, 173); }
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-46E3F8B8:http://st.codeforces.com/s/34970/css/community.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-17F5A69C:http://st.codeforces.com/s/34970/css/sidebar-menu.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-594A6D6B:http://st.codeforces.com/s/34970/markitup/skins/markitup/style.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B33298F2:http://st.codeforces.com/s/34970/markitup/sets/markdown/style.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3AD83967:http://www.google-analytics.com/ga.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-C0CC1235:http://st.codeforces.com/s/34970/js/jquery-1.8.3.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-7AAC3164:http://st.codeforces.com/s/34970/js/prettify/prettify.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E9EE721F:http://st.codeforces.com/s/34970/js/moment.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-81B9705B:http://st.codeforces.com/s/34970/js/pushstream.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-635AB153:http://st.codeforces.com/s/34970/js/jquery.easing.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AC910313:http://st.codeforces.com/s/34970/js/jquery.lavalamp.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A0CE57EB:http://st.codeforces.com/s/34970/js/jquery.jgrowl.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-4F04A483:http://st.codeforces.com/s/34970/js/jquery.swipe.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-DCC57F88:http://st.codeforces.com/s/34970/js/facebox.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-FDB48B5F:http://st.codeforces.com/s/34970/js/jquery.wysiwyg.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3FC8EA43:http://st.codeforces.com/s/34970/js/controls/wysiwyg.colorpicker.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-29DA4512:http://st.codeforces.com/s/34970/js/controls/wysiwyg.table.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E6BA24A0:http://st.codeforces.com/s/34970/js/controls/wysiwyg.image.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-93E2A382:http://st.codeforces.com/s/34970/js/controls/wysiwyg.link.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-C3CFBCBB:http://st.codeforces.com/s/34970/js/jquery.autocomplete.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-59A8B90A:http://st.codeforces.com/s/34970/js/jquery.datepick.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5A33845A:http://st.codeforces.com/s/34970/js/jquery.ie6blocker.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6D63E576:http://st.codeforces.com/s/34970/js/jquery.colorbox-min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A074E72E:http://st.codeforces.com/s/34970/js/jquery.ba-bbq.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-129AF082:http://st.codeforces.com/s/34970/js/jquery.drafts.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-EA414E87:http://codeforces.com/scripts/620c8fc8a8ffd5db42cf08bbf47fd3aa/en/codeforces-options.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-96AE3A04:http://st.codeforces.com/s/34970/js/codeforces.js?v=20160131
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-96149611:http://yandex.st/share/share.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-DACAF2F4:http://st.codeforces.com/s/34970/markitup/jquery.markitup.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5FD39016:http://st.codeforces.com/s/34970/markitup/sets/markdown/set.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_6D596BC2.743671C5--
