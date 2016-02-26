@@ -1,0 +1,70 @@
+#include <bits/stdc++.h>
+#ifdef __mr__
+    #include "prettyprint.hpp"
+#else
+    #define endl                    '\n'
+#endif
+#define len(x)                      (uint)(x).size()
+#define int                         int32_t
+#define uint                        uint32_t
+#define ulong                       uint64_t
+#define long                        int64_t
+#define t_max(x)                    numeric_limits<x>::max()
+#define t_min(x)                    numeric_limits<x>::min()
+#define uset                        unordered_set
+#define umap                        unordered_map
+using namespace std;
+const ulong mod = 1000000007ul;
+
+template<typename T>
+inline T gcd(T a, T b) {
+    T c;
+    while (b) {
+        c = b;
+        b = a % b;
+        a = c;
+    }
+    return a;
+}
+
+int main(int argc, char const *argv[]) {
+    #ifndef __mr__
+        ios::sync_with_stdio(0);cin.tie(0);
+    #endif
+    long n;
+    cin >> n;
+    vector<long> arr(n);
+    for (long i = 0; i < n; ++i) {
+        cin >> arr[i];
+    }
+    umap<long, int> arrcounts;
+    for(uint i = 0; i < n; ++i) {
+        arrcounts[arr[i]]++;
+    }
+    long mlen = count(arr.begin(), arr.end(), 0);
+    if (mlen == 1)
+        mlen = 0;
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (i == j)
+                continue;
+            long len = 2;
+            umap<long, int> usagecount;
+            usagecount[arr[i]]++;
+            usagecount[arr[j]]++;
+            if (arr[i] == 0 && arr[j] == 0)
+                continue;
+            for (long x = arr[i], y = arr[j]; ; ++len) {
+                auto zit = arrcounts.find(x + y);
+                if (zit == arrcounts.end() or usagecount[zit->first] == zit->second)
+                    break;
+                usagecount[zit->first]++;
+                x = y;
+                y = zit->first;
+            }
+            mlen = max(len, mlen);
+        }
+    }
+    cout << mlen << endl;
+    return 0;
+}
