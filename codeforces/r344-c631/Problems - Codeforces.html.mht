@@ -1,0 +1,2278 @@
+From: <Saved by Mozilla 5.0 (X11)>
+Subject: Problems - Codeforces
+Date: Fri, 04 Mar 2016 00:59:55 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_80ED4825.6CCC235C"
+X-MAF-Information: Produced By MAF V3.1.2
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://codeforces.com/contest/631/problems
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html status=3D"whitelist=
+ed"><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8">
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta name=3D"X-Csrf-Token" content=3D"dc547896e10dc07655a1442e724b9eee=
+">
+    <meta id=3D"viewport" name=3D"viewport" content=3D"width=3Ddevice-width=
+, initial-scale=3D0.01">
+    <script src=3D"urn:snapshot-57769324:http://www.google-analytics.com/ga=
+.js" async=3D"" type=3D"text/javascript"></script><script type=3D"text/java=
+script" src=3D"urn:snapshot-0E504FAE:http://st.codeforces.com/s/94620/js/jq=
+uery-1.8.3.js"></script>
+    <script type=3D"application/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+    <meta http-equiv=3D"pragma" content=3D"no-cache">
+    <meta http-equiv=3D"expires" content=3D"-1">
+    <meta http-equiv=3D"profileName" content=3D"c3">
+    <meta name=3D"google-site-verification" content=3D"OTd2dN5x4nS4OPknPI9J=
+Fg36fKxjqY0i1PSfFPv_J90">
+    <meta property=3D"fb:admins" content=3D"100001352546622">
+    <meta property=3D"og:image" content=3D"http://st.codeforces.com/s/94620=
+/images/codeforces-telegram-square.png">
+    <link rel=3D"image_src" href=3D"http://st.codeforces.com/s/94620/images=
+/codeforces-telegram-square.png">
+    <meta property=3D"og:title" content=3D"Problems - Codeforces">
+    <meta property=3D"og:description" content=3D"">
+   =20
+    <meta property=3D"og:site_name" content=3D"Codeforces">
+   =20
+   =20
+   =20
+   =20
+   =20
+    <meta name=3D"utc_offset" content=3D"+03:00">
+    <meta name=3D"verify-reformal" content=3D"f56f99fd7e087fb6ccb48ef2">
+    <title>Problems - Codeforces</title>
+        <meta name=3D"description" content=3D"Codeforces. Programming compe=
+titions and contests, programming community">
+        <meta name=3D"keywords" content=3D"programming algorithm contest co=
+mpetition informatics olympiads c++ java graphs vkcup">
+    <meta name=3D"robots" content=3D"index, follow">
+
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-05991828:http://st.codefo=
+rces.com/s/94620/css/font-awesome.min.css" type=3D"text/css" charset=3D"utf=
+-8">
+
+        <link href=3D"urn:snapshot-6E73F6D2:http://fonts.googleapis.com/css=
+?family=3DPT+Sans+Narrow:400,700&amp;subset=3Dlatin,cyrillic" rel=3D"styles=
+heet" type=3D"text/css">
+        <link href=3D"urn:snapshot-0F6FCE10:http://fonts.googleapis.com/css=
+?family=3DCuprum&amp;subset=3Dlatin,cyrillic" rel=3D"stylesheet" type=3D"te=
+xt/css">
+
+
+    <link rel=3D"shortcut icon" type=3D"image/png" href=3D"http://st.codefo=
+rces.com/s/94620/favicon.png">
+
+    <!--CombineResourcesFilter-->
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-3DF5AA03:http://st.codefo=
+rces.com/s/94620/css/prettify.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-163CC546:http://st.codefo=
+rces.com/s/94620/css/clear.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-735C2D55:http://st.codefo=
+rces.com/s/94620/css/style.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-246DBA6C:http://st.codefo=
+rces.com/s/94620/css/ttypography.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-ACBC4E0D:http://st.codefo=
+rces.com/s/94620/css/problem-statement.css" type=3D"text/css" charset=3D"ut=
+f-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-6E228E33:http://st.codefo=
+rces.com/s/94620/css/second-level-menu.css" type=3D"text/css" charset=3D"ut=
+f-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-CD5E8D31:http://st.codefo=
+rces.com/s/94620/css/roundbox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-B372180B:http://st.codefo=
+rces.com/s/94620/css/datatable.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-BC6E99B0:http://st.codefo=
+rces.com/s/94620/css/table-form.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-9686C973:http://st.codefo=
+rces.com/s/94620/css/topic.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-2B2F9AEF:http://st.codefo=
+rces.com/s/94620/css/jquery.jgrowl.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-7ABD1E6E:http://st.codefo=
+rces.com/s/94620/css/facebox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-E07F4AD8:http://st.codefo=
+rces.com/s/94620/css/jquery.wysiwyg.css" type=3D"text/css" charset=3D"utf-8=
+">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-3D2DE18E:http://st.codefo=
+rces.com/s/94620/css/jquery.autocomplete.css" type=3D"text/css" charset=3D"=
+utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-36B1E1F7:http://st.codefo=
+rces.com/s/94620/css/codeforces.datepick.css" type=3D"text/css" charset=3D"=
+utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-FA4E3EF1:http://st.codefo=
+rces.com/s/94620/css/colorbox.css" type=3D"text/css" charset=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-5010CF7E:http://st.codefo=
+rces.com/s/94620/css/jquery.drafts.css" type=3D"text/css" charset=3D"utf-8">
+        <link rel=3D"stylesheet" href=3D"urn:snapshot-1F8FA482:http://st.co=
+deforces.com/s/94620/css/community.css" type=3D"text/css" charset=3D"utf-8">
+        <link rel=3D"stylesheet" href=3D"urn:snapshot-05864565:http://st.co=
+deforces.com/s/94620/css/sidebar-menu.css" type=3D"text/css" charset=3D"utf=
+-8">
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-32909FC8:http://st=
+.codeforces.com/s/94620/js/prettify/prettify.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-E1A052AC:http://st=
+.codeforces.com/s/94620/js/moment.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-4E133146:http://st=
+.codeforces.com/s/94620/js/pushstream.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-37AE81EB:http://st=
+.codeforces.com/s/94620/js/jquery.easing.min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-A630BC38:http://st=
+.codeforces.com/s/94620/js/jquery.lavalamp.min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-53F268A6:http://st=
+.codeforces.com/s/94620/js/jquery.jgrowl.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-DA83568C:http://st=
+.codeforces.com/s/94620/js/jquery.swipe.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-D5E6A4C0:http://st=
+.codeforces.com/s/94620/js/facebox.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-B6434B89:http://st=
+.codeforces.com/s/94620/js/jquery.wysiwyg.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-B3061FBD:http://st=
+.codeforces.com/s/94620/js/controls/wysiwyg.colorpicker.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-50CD7DA6:http://st=
+.codeforces.com/s/94620/js/controls/wysiwyg.table.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-AC461895:http://st=
+.codeforces.com/s/94620/js/controls/wysiwyg.image.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-72A3987E:http://st=
+.codeforces.com/s/94620/js/controls/wysiwyg.link.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-43D700CB:http://st=
+.codeforces.com/s/94620/js/jquery.autocomplete.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-86501439:http://st=
+.codeforces.com/s/94620/js/jquery.datepick.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-47362466:http://st=
+.codeforces.com/s/94620/js/jquery.ie6blocker.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-1FD807CE:http://st=
+.codeforces.com/s/94620/js/jquery.colorbox-min.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-B8DA2583:http://st=
+.codeforces.com/s/94620/js/jquery.ba-bbq.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-10A4CB90:http://st=
+.codeforces.com/s/94620/js/jquery.drafts.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-4404469D:http://co=
+deforces.com/scripts/2b3664df97bd9b086d354671e3747509/en/codeforces-options=
+.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-110F6AEB:http://st=
+.codeforces.com/s/94620/js/codeforces.js?v=3D20160131"></script>
+    <!--/CombineResourcesFilter-->
+
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-3B297744:http://st.codefo=
+rces.com/s/94620/markitup/skins/markitup/style.css" type=3D"text/css" chars=
+et=3D"utf-8">
+    <link rel=3D"stylesheet" href=3D"urn:snapshot-BA3F933E:http://st.codefo=
+rces.com/s/94620/markitup/sets/markdown/style.css" type=3D"text/css" charse=
+t=3D"utf-8">
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-6C80859F:http://ya=
+ndex.st/share/share.js" charset=3D"utf-8"></script>
+
+    <script type=3D"text/javascript" src=3D"urn:snapshot-43F7E83A:http://st=
+.codeforces.com/s/94620/markitup/jquery.markitup.js"></script>
+    <script type=3D"text/javascript" src=3D"urn:snapshot-5B5E8507:http://st=
+.codeforces.com/s/94620/markitup/sets/markdown/set.js"></script>
+
+    <!--[if IE]>
+    <style>
+        #sidebar {
+            padding-left: 1em;
+            margin: 1em 1em 1em 0;
+        }
+    </style>
+    <![endif]-->
+
+
+</head>
+<body><span style=3D"display:none;" class=3D"csrf-token" data-csrf=3D"dc547=
+896e10dc07655a1442e724b9eee">=C2=A0</span>
+<div class=3D"button-up" style=3D"display: none; opacity: 0.7; width: 50px;=
+ height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align=
+: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size:=
+ 3.0rem;"><i class=3D"icon-circle-arrow-up"></i></div>
+
+<!-- Codeforces JavaScripts. -->
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+    <script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+
+
+<div id=3D"body">
+<div style=3D"width: 950px; margin: 0 auto;">
+    <div id=3D"header" style=3D"position: relative;">
+        <div style=3D"float:left;">
+                 <a href=3D"http://codeforces.com/"><img src=3D"http://st.c=
+odeforces.com/s/94620/images/codeforces-logo-with-telegram.png"></a>
+        </div>
+        <div class=3D"lang">
+            <div style=3D"text-align: right;">
+                <a href=3D"http://codeforces.com/contest/631/problems?local=
+e=3Den"><img src=3D"http://st.codeforces.com/s/94620/images/flags/24/gb.png=
+" title=3D"In English" alt=3D"In English"></a>
+                <a href=3D"http://codeforces.com/contest/631/problems?local=
+e=3Dru"><img src=3D"http://st.codeforces.com/s/94620/images/flags/24/ru.png=
+" title=3D"=D0=9F=D0=BE-=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8" alt=3D"=D0=9F=
+=D0=BE-=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8"></a>
+            </div>
+        </div>
+        <br style=3D"clear: both;">
+    </div>
+
+    <div style=3D"text-align: center; font-size: 1.8rem; margin-bottom: 0.5=
+em;" class=3D"caption">Codeforces Round #344 (Div. 2)</div>
+    <div style=3D"border-top: 1px solid #ccc; height: 1em;"></div>
+
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"A">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">A. Interview</div><div class=3D"time-limit"><di=
+v class=3D"property-title">time limit per test</div>1 second</div><div clas=
+s=3D"memory-limit"><div class=3D"property-title">memory limit per test</div=
+>256 megabytes</div><div class=3D"input-file"><div class=3D"property-title"=
+>input</div>standard input</div><div class=3D"output-file"><div class=3D"pr=
+operty-title">output</div>standard output</div></div><div><p>Blake is a CEO=
+ of a large company called "Blake Technologies". He loves his company very=
+ much and he thinks that his company should be the best. That is why every=
+ candidate needs to pass through the interview that consists of the followi=
+ng problem.</p><p>We define function <span class=3D"tex-span"><i>f</i>(<i>x=
+</i>,=E2=80=89<i>l</i>,=E2=80=89<i>r</i>)</span> as a bitwise OR of integer=
+s <span class=3D"tex-span"><i>x</i><sub class=3D"lower-index"><i>l</i></sub=
+>,=E2=80=89<i>x</i><sub class=3D"lower-index"><i>l</i>=E2=80=89+=E2=80=891<=
+/sub>,=E2=80=89...,=E2=80=89<i>x</i><sub class=3D"lower-index"><i>r</i></su=
+b></span>, where <span class=3D"tex-span"><i>x</i><sub class=3D"lower-index=
+"><i>i</i></sub></span> is the <span class=3D"tex-span"><i>i</i></span>-th=
+ element of the array <span class=3D"tex-span"><i>x</i></span>. You are giv=
+en two arrays <span class=3D"tex-span"><i>a</i></span> and <span class=3D"t=
+ex-span"><i>b</i></span> of length <span class=3D"tex-span"><i>n</i></span>=
+. You need to determine the maximum value of sum <span class=3D"tex-span"><=
+i>f</i>(<i>a</i>,=E2=80=89<i>l</i>,=E2=80=89<i>r</i>)=E2=80=89+=E2=80=89<i>=
+f</i>(<i>b</i>,=E2=80=89<i>l</i>,=E2=80=89<i>r</i>)</span> among all possib=
+le <span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>l</i>=E2=80=89=
+=E2=89=A4=E2=80=89<i>r</i>=E2=80=89=E2=89=A4=E2=80=89<i>n</i></span>.</p><c=
+enter> <img class=3D"tex-graphics" src=3D"http://codeforces.com/predownload=
+ed/63/e3/63e3e61ff1edf034ce061030cbf99def6f385da3.png" style=3D"max-width:=
+ 100.0%;max-height: 100.0%;"> </center></div><div class=3D"input-specificat=
+ion"><div class=3D"section-title">Input</div><p>The first line of the input=
+ contains a single integer <span class=3D"tex-span"><i>n</i></span> (<span=
+ class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>n</i>=E2=80=89=E2=89=A4=
+=E2=80=891000</span>)=C2=A0=E2=80=94 the length of the arrays.</p><p>The se=
+cond line contains <span class=3D"tex-span"><i>n</i></span> integers <span=
+ class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i></sub></span=
+> (<span class=3D"tex-span">0=E2=80=89=E2=89=A4=E2=80=89<i>a</i><sub class=
+=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=8910<sup class=3D"u=
+pper-index">9</sup></span>).</p><p>The third line contains <span class=3D"t=
+ex-span"><i>n</i></span> integers <span class=3D"tex-span"><i>b</i><sub cla=
+ss=3D"lower-index"><i>i</i></sub></span> (<span class=3D"tex-span">0=E2=80=
+=89=E2=89=A4=E2=80=89<i>b</i><sub class=3D"lower-index"><i>i</i></sub>=E2=
+=80=89=E2=89=A4=E2=80=8910<sup class=3D"upper-index">9</sup></span>).</p></=
+div><div class=3D"output-specification"><div class=3D"section-title">Output=
+</div><p>Print a single integer=C2=A0=E2=80=94 the maximum value of sum <sp=
+an class=3D"tex-span"><i>f</i>(<i>a</i>,=E2=80=89<i>l</i>,=E2=80=89<i>r</i>=
+)=E2=80=89+=E2=80=89<i>f</i>(<i>b</i>,=E2=80=89<i>l</i>,=E2=80=89<i>r</i>)<=
+/span> among all possible <span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=
+=80=89<i>l</i>=E2=80=89=E2=89=A4=E2=80=89<i>r</i>=E2=80=89=E2=89=A4=E2=80=
+=89<i>n</i></span>.</p></div><div class=3D"sample-tests"><div class=3D"sect=
+ion-title">Examples</div><div class=3D"sample-test"><div class=3D"input"><d=
+iv class=3D"title">Input</div><pre>5<br>1 2 4 3 2<br>2 3 3 12 1<br></pre></=
+div><div class=3D"output"><div class=3D"title">Output</div><pre>22</pre></d=
+iv><div class=3D"input"><div class=3D"title">Input</div><pre>10<br>13 2 7=
+ 11 8 4 9 8 5 1<br>5 7 18 9 2 3 0 11 8 6<br></pre></div><div class=3D"outpu=
+t"><div class=3D"title">Output</div><pre>46</pre></div></div></div><div cla=
+ss=3D"note"><div class=3D"section-title">Note</div><p>Bitwise OR of two non=
+-negative integers <span class=3D"tex-span"><i>a</i></span> and <span class=
+=3D"tex-span"><i>b</i></span> is the number <span class=3D"tex-span"><i>c</=
+i>=E2=80=89=3D=E2=80=89<i>a</i> <i>OR</i> <i>b</i></span>, such that each=
+ of its digits in binary notation is <span class=3D"tex-span">1</span> if=
+ and only if at least one of <span class=3D"tex-span"><i>a</i></span> or <s=
+pan class=3D"tex-span"><i>b</i></span> have <span class=3D"tex-span">1</spa=
+n> in the corresponding position in binary notation.</p><p>In the first sam=
+ple, one of the optimal answers is <span class=3D"tex-span"><i>l</i>=E2=80=
+=89=3D=E2=80=892</span> and <span class=3D"tex-span"><i>r</i>=E2=80=89=3D=
+=E2=80=894</span>, because <span class=3D"tex-span"><i>f</i>(<i>a</i>,=E2=
+=80=892,=E2=80=894)=E2=80=89+=E2=80=89<i>f</i>(<i>b</i>,=E2=80=892,=E2=80=
+=894)=E2=80=89=3D=E2=80=89(2 <i>OR</i> 4 <i>OR</i> 3)=E2=80=89+=E2=80=89(3=
+ <i>OR</i> 3 <i>OR</i> 12)=E2=80=89=3D=E2=80=897=E2=80=89+=E2=80=8915=E2=80=
+=89=3D=E2=80=8922</span>. Other ways to get maximum value is to choose <spa=
+n class=3D"tex-span"><i>l</i>=E2=80=89=3D=E2=80=891</span> and <span class=
+=3D"tex-span"><i>r</i>=E2=80=89=3D=E2=80=894</span>, <span class=3D"tex-spa=
+n"><i>l</i>=E2=80=89=3D=E2=80=891</span> and <span class=3D"tex-span"><i>r<=
+/i>=E2=80=89=3D=E2=80=895</span>, <span class=3D"tex-span"><i>l</i>=E2=80=
+=89=3D=E2=80=892</span> and <span class=3D"tex-span"><i>r</i>=E2=80=89=3D=
+=E2=80=894</span>, <span class=3D"tex-span"><i>l</i>=E2=80=89=3D=E2=80=892<=
+/span> and <span class=3D"tex-span"><i>r</i>=E2=80=89=3D=E2=80=895</span>,=
+ <span class=3D"tex-span"><i>l</i>=E2=80=89=3D=E2=80=893</span> and <span=
+ class=3D"tex-span"><i>r</i>=E2=80=89=3D=E2=80=894</span>, or <span class=
+=3D"tex-span"><i>l</i>=E2=80=89=3D=E2=80=893</span> and <span class=3D"tex-=
+span"><i>r</i>=E2=80=89=3D=E2=80=895</span>.</p><p>In the second sample, th=
+e maximum value is obtained for <span class=3D"tex-span"><i>l</i>=E2=80=89=
+=3D=E2=80=891</span> and <span class=3D"tex-span"><i>r</i>=E2=80=89=3D=E2=
+=80=899</span>.</p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"B">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">B. Print Check</div><div class=3D"time-limit"><=
+div class=3D"property-title">time limit per test</div>1 second</div><div cl=
+ass=3D"memory-limit"><div class=3D"property-title">memory limit per test</d=
+iv>256 megabytes</div><div class=3D"input-file"><div class=3D"property-titl=
+e">input</div>standard input</div><div class=3D"output-file"><div class=3D"=
+property-title">output</div>standard output</div></div><div><p>Kris works=
+ in a large company "Blake Technologies". As a best engineer of the company=
+ he was assigned a task to develop a printer that will be able to print hor=
+izontal and vertical strips. First prototype is already built and Kris want=
+s to tests it. He wants you to implement the program that checks the result=
+ of the printing.</p><p>Printer works with a rectangular sheet of paper of=
+ size <span class=3D"tex-span"><i>n</i>=E2=80=89=C3=97=E2=80=89<i>m</i></sp=
+an>. Consider the list as a table consisting of <span class=3D"tex-span"><i=
+>n</i></span> rows and <span class=3D"tex-span"><i>m</i></span> columns. Ro=
+ws are numbered from top to bottom with integers from <span class=3D"tex-sp=
+an">1</span> to <span class=3D"tex-span"><i>n</i></span>, while columns are=
+ numbered from left to right with integers from <span class=3D"tex-span">1<=
+/span> to <span class=3D"tex-span"><i>m</i></span>. Initially, all cells ar=
+e painted in color <span class=3D"tex-span">0</span>.</p><p>Your program ha=
+s to support two operations: </p><ol> <li> Paint all cells in row <span cla=
+ss=3D"tex-span"><i>r</i><sub class=3D"lower-index"><i>i</i></sub></span> in=
+ color <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i>=
+</sub></span>; </li><li> Paint all cells in column <span class=3D"tex-span"=
+><i>c</i><sub class=3D"lower-index"><i>i</i></sub></span> in color <span cl=
+ass=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i></sub></span>.=
+ </li></ol><p>If during some operation <span class=3D"tex-span"><i>i</i></s=
+pan> there is a cell that have already been painted, the color of this cell=
+ also changes to <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index=
+"><i>i</i></sub></span>.</p><p>Your program has to print the resulting tabl=
+e after <span class=3D"tex-span"><i>k</i></span> operation.</p></div><div=
+ class=3D"input-specification"><div class=3D"section-title">Input</div><p>T=
+he first line of the input contains three integers <span class=3D"tex-span"=
+><i>n</i></span>, <span class=3D"tex-span"><i>m</i></span> and <span class=
+=3D"tex-span"><i>k</i></span> (<span class=3D"tex-span">1=E2=80=89=E2=80=89=
+=E2=89=A4=E2=80=89=E2=80=89<i>n</i>,=E2=80=89=E2=80=89<i>m</i>=E2=80=89=E2=
+=80=89=E2=89=A4=E2=80=895000</span>, <span class=3D"tex-span"><i>n</i>=C2=
+=B7<i>m</i>=E2=80=89=E2=89=A4=E2=80=89100=E2=80=89000</span>, <span class=
+=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>k</i>=E2=80=89=E2=89=A4=E2=80=
+=89100=E2=80=89000</span>)=C2=A0=E2=80=94 the dimensions of the sheet and=
+ the number of operations, respectively.</p><p>Each of the next <span class=
+=3D"tex-span"><i>k</i></span> lines contains the description of exactly one=
+ query: </p><ul> <li> <span class=3D"tex-span">1=C2=A0<i>r</i><sub class=3D=
+"lower-index"><i>i</i></sub>=C2=A0<i>a</i><sub class=3D"lower-index"><i>i</=
+i></sub></span> (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>r<=
+/i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=89<i>n=
+</i></span>, <span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>a</i><=
+sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=8910<sup=
+ class=3D"upper-index">9</sup></span>), means that row <span class=3D"tex-s=
+pan"><i>r</i><sub class=3D"lower-index"><i>i</i></sub></span> is painted in=
+ color <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i</i>=
+</sub></span>; </li><li> <span class=3D"tex-span">2=C2=A0<i>c</i><sub class=
+=3D"lower-index"><i>i</i></sub>=C2=A0<i>a</i><sub class=3D"lower-index"><i>=
+i</i></sub></span> (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i=
+>c</i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=89<=
+i>m</i></span>, <span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>a</=
+i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=8910<su=
+p class=3D"upper-index">9</sup></span>), means that column <span class=3D"t=
+ex-span"><i>c</i><sub class=3D"lower-index"><i>i</i></sub></span> is painte=
+d in color <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i=
+</i></sub></span>. </li></ul></div><div class=3D"output-specification"><div=
+ class=3D"section-title">Output</div><p>Print <span class=3D"tex-span"><i>n=
+</i></span> lines containing <span class=3D"tex-span"><i>m</i></span> integ=
+ers each=C2=A0=E2=80=94 the resulting table after all operations are applie=
+d.</p></div><div class=3D"sample-tests"><div class=3D"section-title">Exampl=
+es</div><div class=3D"sample-test"><div class=3D"input"><div class=3D"title=
+">Input</div><pre>3 3 3<br>1 1 3<br>2 2 1<br>1 2 2<br></pre></div><div clas=
+s=3D"output"><div class=3D"title">Output</div><pre>3 1 3 <br>2 2 2 <br>0 1=
+ 0 <br></pre></div><div class=3D"input"><div class=3D"title">Input</div><pr=
+e>5 3 5<br>1 1 1<br>1 3 1<br>1 5 1<br>2 1 1<br>2 3 1<br></pre></div><div cl=
+ass=3D"output"><div class=3D"title">Output</div><pre>1 1 1 <br>1 0 1 <br>1=
+ 1 1 <br>1 0 1 <br>1 1 1 <br></pre></div></div></div><div class=3D"note"><d=
+iv class=3D"section-title">Note</div><p>The figure below shows all three op=
+erations for the first sample step by step. The cells that were painted on=
+ the corresponding step are marked gray. </p><center> <img class=3D"tex-gra=
+phics" src=3D"http://codeforces.com/predownloaded/85/a9/85a98530b299842acd0=
+84263fbec1265b03d56e4.png" style=3D"max-width: 100.0%;max-height: 100.0%;">=
+ </center></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"C">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">C. Report</div><div class=3D"time-limit"><div=
+ class=3D"property-title">time limit per test</div>2 seconds</div><div clas=
+s=3D"memory-limit"><div class=3D"property-title">memory limit per test</div=
+>256 megabytes</div><div class=3D"input-file"><div class=3D"property-title"=
+>input</div>standard input</div><div class=3D"output-file"><div class=3D"pr=
+operty-title">output</div>standard output</div></div><div><p>Each month Bla=
+ke gets the report containing main economic indicators of the company "Blak=
+e Technologies". There are <span class=3D"tex-span"><i>n</i></span> commodi=
+ties produced by the company. For each of them there is exactly one integer=
+ in the final report, that denotes corresponding revenue. Before the report=
+ gets to Blake, it passes through the hands of <span class=3D"tex-span"><i>=
+m</i></span> managers. Each of them may reorder the elements in some order.=
+ Namely, the <span class=3D"tex-span"><i>i</i></span>-th manager either sor=
+ts first <span class=3D"tex-span"><i>r</i><sub class=3D"lower-index"><i>i</=
+i></sub></span> numbers in non-descending or non-ascending order and then=
+ passes the report to the manager <span class=3D"tex-span"><i>i</i>=E2=80=
+=89+=E2=80=891</span>, or directly to Blake (if this manager has number <sp=
+an class=3D"tex-span"><i>i</i>=E2=80=89=3D=E2=80=89<i>m</i></span>).</p><p>=
+Employees of the "Blake Technologies" are preparing the report right now.=
+ You know the initial sequence <span class=3D"tex-span"><i>a</i><sub class=
+=3D"lower-index"><i>i</i></sub></span> of length <span class=3D"tex-span"><=
+i>n</i></span> and the description of each manager, that is value <span cla=
+ss=3D"tex-span"><i>r</i><sub class=3D"lower-index"><i>i</i></sub></span> an=
+d his favourite order. You are asked to speed up the process and determine=
+ how the final report will look like.</p></div><div class=3D"input-specific=
+ation"><div class=3D"section-title">Input</div><p>The first line of the inp=
+ut contains two integers <span class=3D"tex-span"><i>n</i></span> and <span=
+ class=3D"tex-span"><i>m</i></span> (<span class=3D"tex-span">1=E2=80=89=E2=
+=89=A4=E2=80=89<i>n</i>,=E2=80=89<i>m</i>=E2=80=89=E2=89=A4=E2=80=89200=E2=
+=80=89000</span>)=C2=A0=E2=80=94 the number of commodities in the report an=
+d the number of managers, respectively.</p><p>The second line contains <spa=
+n class=3D"tex-span"><i>n</i></span> integers <span class=3D"tex-span"><i>a=
+</i><sub class=3D"lower-index"><i>i</i></sub></span> (<span class=3D"tex-sp=
+an">|<i>a</i><sub class=3D"lower-index"><i>i</i></sub>|=E2=80=89=E2=89=A4=
+=E2=80=8910<sup class=3D"upper-index">9</sup></span>)=C2=A0=E2=80=94 the in=
+itial report before it gets to the first manager.</p><p>Then follow <span=
+ class=3D"tex-span"><i>m</i></span> lines with the descriptions of the oper=
+ations managers are going to perform. The <span class=3D"tex-span"><i>i</i>=
+</span>-th of these lines contains two integers <span class=3D"tex-span"><i=
+>t</i><sub class=3D"lower-index"><i>i</i></sub></span> and <span class=3D"t=
+ex-span"><i>r</i><sub class=3D"lower-index"><i>i</i></sub></span> (<img cla=
+ss=3D"tex-formula" src=3D"http://codeforces.com/predownloaded/c4/33/c433331=
+088b81005b71920b1a15765d12566c865.png" style=3D"max-width: 100.0%;max-heigh=
+t: 100.0%;" align=3D"middle">, <span class=3D"tex-span">1=E2=80=89=E2=89=A4=
+=E2=80=89<i>r</i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=
+=A4=E2=80=89<i>n</i></span>), meaning that the <span class=3D"tex-span"><i>=
+i</i></span>-th manager sorts the first <span class=3D"tex-span"><i>r</i><s=
+ub class=3D"lower-index"><i>i</i></sub></span> numbers either in the non-de=
+scending (if <span class=3D"tex-span"><i>t</i><sub class=3D"lower-index"><i=
+>i</i></sub>=E2=80=89=3D=E2=80=891</span>) or non-ascending (if <span class=
+=3D"tex-span"><i>t</i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=3D=
+=E2=80=892</span>) order.</p></div><div class=3D"output-specification"><div=
+ class=3D"section-title">Output</div><p>Print <span class=3D"tex-span"><i>n=
+</i></span> integers=C2=A0=E2=80=94 the final report, which will be passed=
+ to Blake by manager number <span class=3D"tex-span"><i>m</i></span>.</p></=
+div><div class=3D"sample-tests"><div class=3D"section-title">Examples</div>=
+<div class=3D"sample-test"><div class=3D"input"><div class=3D"title">Input<=
+/div><pre>3 1<br>1 2 3<br>2 2<br></pre></div><div class=3D"output"><div cla=
+ss=3D"title">Output</div><pre>2 1 3 </pre></div><div class=3D"input"><div=
+ class=3D"title">Input</div><pre>4 2<br>1 2 4 3<br>2 3<br>1 2<br></pre></di=
+v><div class=3D"output"><div class=3D"title">Output</div><pre>2 4 1 3 </pre=
+></div></div></div><div class=3D"note"><div class=3D"section-title">Note</d=
+iv><p>In the first sample, the initial report looked like: <span class=3D"t=
+ex-font-style-tt">1 2 3</span>. After the first manager the first two numbe=
+rs were transposed: <span class=3D"tex-font-style-tt"><span class=3D"tex-fo=
+nt-style-bf">2 1</span> 3</span>. The report got to Blake in this form.</p>=
+<p>In the second sample the original report was like this: <span class=3D"t=
+ex-font-style-tt">1 2 4 3</span>. After the first manager the report change=
+d to: <span class=3D"tex-font-style-tt"><span class=3D"tex-font-style-bf">4=
+ 2 1</span> 3</span>. After the second manager the report changed to: <span=
+ class=3D"tex-font-style-tt"><span class=3D"tex-font-style-bf">2 4</span>=
+ 1 3</span>. This report was handed over to Blake.</p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 4em;page-break-after: always;">
+
+<div class=3D"problemindexholder" problemindex=3D"D">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">D. Messenger</div><div class=3D"time-limit"><di=
+v class=3D"property-title">time limit per test</div>2 seconds</div><div cla=
+ss=3D"memory-limit"><div class=3D"property-title">memory limit per test</di=
+v>512 megabytes</div><div class=3D"input-file"><div class=3D"property-title=
+">input</div>standard input</div><div class=3D"output-file"><div class=3D"p=
+roperty-title">output</div>standard output</div></div><div><p>Each employee=
+ of the "Blake Techologies" company uses a special messaging app "Blake Mes=
+senger". All the stuff likes this app and uses it constantly. However, some=
+ important futures are missing. For example, many users want to be able to=
+ search through the message history. It was already announced that the new=
+ feature will appear in the nearest update, when developers faced some trou=
+bles that only you may help them to solve.</p><p>All the messages are repre=
+sented as a strings consisting of only lowercase English letters. In order=
+ to reduce the network load strings are represented in the special compress=
+ed form. Compression algorithm works as follows: string is represented as=
+ a concatenation of <span class=3D"tex-span"><i>n</i></span> blocks, each=
+ block containing only equal characters. One block may be described as a pa=
+ir <span class=3D"tex-span">(<i>l</i><sub class=3D"lower-index"><i>i</i></s=
+ub>,=E2=80=89<i>c</i><sub class=3D"lower-index"><i>i</i></sub>)</span>, whe=
+re <span class=3D"tex-span"><i>l</i><sub class=3D"lower-index"><i>i</i></su=
+b></span> is the length of the <span class=3D"tex-span"><i>i</i></span>-th=
+ block and <span class=3D"tex-span"><i>c</i><sub class=3D"lower-index"><i>i=
+</i></sub></span> is the corresponding letter. Thus, the string <span class=
+=3D"tex-span"><i>s</i></span> may be written as the sequence of pairs <img=
+ class=3D"tex-formula" src=3D"http://codeforces.com/predownloaded/65/56/655=
+6bcfd57312cc66d81458824c751c9d14171e1.png" style=3D"max-width: 100.0%;max-h=
+eight: 100.0%;" align=3D"middle">.</p><p>Your task is to write the program,=
+ that given two compressed string <span class=3D"tex-span"><i>t</i></span>=
+ and <span class=3D"tex-span"><i>s</i></span> finds all occurrences of <spa=
+n class=3D"tex-span"><i>s</i></span> in <span class=3D"tex-span"><i>t</i></=
+span>. Developers know that there may be many such occurrences, so they onl=
+y ask you to find the <span class=3D"tex-font-style-bf">number</span> of th=
+em. Note that <span class=3D"tex-span"><i>p</i></span> is the starting posi=
+tion of some occurrence of <span class=3D"tex-span"><i>s</i></span> in <spa=
+n class=3D"tex-span"><i>t</i></span> if and only if <span class=3D"tex-span=
+"><i>t</i><sub class=3D"lower-index"><i>p</i></sub><i>t</i><sub class=3D"lo=
+wer-index"><i>p</i>=E2=80=89+=E2=80=891</sub>...<i>t</i><sub class=3D"lower=
+-index"><i>p</i>=E2=80=89+=E2=80=89|<i>s</i>|=E2=80=89-=E2=80=891</sub>=E2=
+=80=89=3D=E2=80=89<i>s</i></span>, where <span class=3D"tex-span"><i>t</i><=
+sub class=3D"lower-index"><i>i</i></sub></span> is the <span class=3D"tex-s=
+pan"><i>i</i></span>-th character of string <span class=3D"tex-span"><i>t</=
+i></span>.</p><p>Note that the way to represent the string in compressed fo=
+rm may not be unique. For example string "<span class=3D"tex-font-style-tt"=
+>aaaa</span>" may be given as <img class=3D"tex-formula" src=3D"http://code=
+forces.com/predownloaded/9e/f2/9ef23ecceb36a3d275d71bf270ec5f93e2fc103a.png=
+" style=3D"max-width: 100.0%;max-height: 100.0%;" align=3D"middle">, <img=
+ class=3D"tex-formula" src=3D"http://codeforces.com/predownloaded/55/d4/55d=
+4e37ac237905a91cdff9d5f35219755272026.png" style=3D"max-width: 100.0%;max-h=
+eight: 100.0%;" align=3D"middle">, <img class=3D"tex-formula" src=3D"http:/=
+/codeforces.com/predownloaded/c0/af/c0af8cd785d64659cafce54c7b79e9c503d2c1c=
+f.png" style=3D"max-width: 100.0%;max-height: 100.0%;" align=3D"middle">...=
+</p></div><div class=3D"input-specification"><div class=3D"section-title">I=
+nput</div><p>The first line of the input contains two integers <span class=
+=3D"tex-span"><i>n</i></span> and <span class=3D"tex-span"><i>m</i></span>=
+ (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>n</i>,=E2=80=89<i=
+>m</i>=E2=80=89=E2=89=A4=E2=80=89200=E2=80=89000</span>)=C2=A0=E2=80=94 the=
+ number of blocks in the strings <span class=3D"tex-span"><i>t</i></span>=
+ and <span class=3D"tex-span"><i>s</i></span>, respectively.</p><p>The seco=
+nd line contains the descriptions of <span class=3D"tex-span"><i>n</i></spa=
+n> parts of string <span class=3D"tex-span"><i>t</i></span> in the format=
+ "<span class=3D"tex-span"><i>l</i><sub class=3D"lower-index"><i>i</i></sub=
+></span>-<span class=3D"tex-span"><i>c</i><sub class=3D"lower-index"><i>i</=
+i></sub></span>" (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>l=
+</i><sub class=3D"lower-index"><i>i</i></sub>=E2=80=89=E2=89=A4=E2=80=891=
+=E2=80=89000=E2=80=89000</span>)=C2=A0=E2=80=94 the length of the <span cla=
+ss=3D"tex-span"><i>i</i></span>-th part and the corresponding lowercase Eng=
+lish letter.</p><p>The second line contains the descriptions of <span class=
+=3D"tex-span"><i>m</i></span> parts of string <span class=3D"tex-span"><i>s=
+</i></span> in the format "<span class=3D"tex-span"><i>l</i><sub class=3D"l=
+ower-index"><i>i</i></sub></span>-<span class=3D"tex-span"><i>c</i><sub cla=
+ss=3D"lower-index"><i>i</i></sub></span>" (<span class=3D"tex-span">1=E2=80=
+=89=E2=89=A4=E2=80=89<i>l</i><sub class=3D"lower-index"><i>i</i></sub>=E2=
+=80=89=E2=89=A4=E2=80=891=E2=80=89000=E2=80=89000</span>)=C2=A0=E2=80=94 th=
+e length of the <span class=3D"tex-span"><i>i</i></span>-th part and the co=
+rresponding lowercase English letter.</p></div><div class=3D"output-specifi=
+cation"><div class=3D"section-title">Output</div><p>Print a single integer=
+=C2=A0=E2=80=94 the number of occurrences of <span class=3D"tex-span"><i>s<=
+/i></span> in <span class=3D"tex-span"><i>t</i></span>.</p></div><div class=
+=3D"sample-tests"><div class=3D"section-title">Examples</div><div class=3D"=
+sample-test"><div class=3D"input"><div class=3D"title">Input</div><pre>5 3<=
+br>3-a 2-b 4-c 3-a 2-c<br>2-a 2-b 1-c<br></pre></div><div class=3D"output">=
+<div class=3D"title">Output</div><pre>1</pre></div><div class=3D"input"><di=
+v class=3D"title">Input</div><pre>6 1<br>3-a 6-b 7-a 4-c 8-e 2-a<br>3-a<br>=
+</pre></div><div class=3D"output"><div class=3D"title">Output</div><pre>6</=
+pre></div><div class=3D"input"><div class=3D"title">Input</div><pre>5 5<br>=
+1-h 1-e 1-l 1-l 1-o<br>1-w 1-o 1-r 1-l 1-d<br></pre></div><div class=3D"out=
+put"><div class=3D"title">Output</div><pre>0</pre></div></div></div><div cl=
+ass=3D"note"><div class=3D"section-title">Note</div><p>In the first sample,=
+ <span class=3D"tex-span"><i>t</i></span> =3D "<span class=3D"tex-font-styl=
+e-tt">aaabbccccaaacc</span>", and string <span class=3D"tex-span"><i>s</i><=
+/span> =3D "<span class=3D"tex-font-style-tt">aabbc</span>". The only occur=
+rence of string <span class=3D"tex-span"><i>s</i></span> in string <span cl=
+ass=3D"tex-span"><i>t</i></span> starts at position <span class=3D"tex-span=
+"><i>p</i>=E2=80=89=3D=E2=80=892</span>.</p><p>In the second sample, <span=
+ class=3D"tex-span"><i>t</i></span> =3D "<span class=3D"tex-font-style-tt">=
+aaabbbbbbaaaaaaacccceeeeeeeeaa</span>", and <span class=3D"tex-span"><i>s</=
+i></span> =3D "<span class=3D"tex-font-style-tt">aaa</span>". The occurrenc=
+es of <span class=3D"tex-span"><i>s</i></span> in <span class=3D"tex-span">=
+<i>t</i></span> start at positions <span class=3D"tex-span"><i>p</i>=E2=80=
+=89=3D=E2=80=891</span>, <span class=3D"tex-span"><i>p</i>=E2=80=89=3D=E2=
+=80=8910</span>, <span class=3D"tex-span"><i>p</i>=E2=80=89=3D=E2=80=8911</=
+span>, <span class=3D"tex-span"><i>p</i>=E2=80=89=3D=E2=80=8912</span>, <sp=
+an class=3D"tex-span"><i>p</i>=E2=80=89=3D=E2=80=8913</span> and <span clas=
+s=3D"tex-span"><i>p</i>=E2=80=89=3D=E2=80=8914</span>.</p></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+        <div style=3D"margin-bottom: 2em;">
+
+<div class=3D"problemindexholder" problemindex=3D"E">
+<div class=3D"ttypography"><div class=3D"problem-statement"><div class=3D"h=
+eader"><div class=3D"title">E. Product Sum</div><div class=3D"time-limit"><=
+div class=3D"property-title">time limit per test</div>1 second</div><div cl=
+ass=3D"memory-limit"><div class=3D"property-title">memory limit per test</d=
+iv>256 megabytes</div><div class=3D"input-file"><div class=3D"property-titl=
+e">input</div>standard input</div><div class=3D"output-file"><div class=3D"=
+property-title">output</div>standard output</div></div><div><p>Blake is the=
+ boss of Kris, however, this doesn't spoil their friendship. They often gat=
+her at the bar to talk about intriguing problems about maximising some valu=
+es. This time the problem is really special.</p><p>You are given an array=
+ <span class=3D"tex-span"><i>a</i></span> of length <span class=3D"tex-span=
+"><i>n</i></span>. The <span class=3D"tex-font-style-it">characteristic</sp=
+an> of this array is the value <img class=3D"tex-formula" src=3D"http://cod=
+eforces.com/predownloaded/2b/60/2b6062338d02c3a392536382fb941afb430935a3.pn=
+g" style=3D"max-width: 100.0%;max-height: 100.0%;" align=3D"middle">=C2=A0=
+=E2=80=94 the sum of the products of the values <span class=3D"tex-span"><i=
+>a</i><sub class=3D"lower-index"><i>i</i></sub></span> by <span class=3D"te=
+x-span"><i>i</i></span>. One may perform the following operation <span clas=
+s=3D"tex-font-style-bf">exactly once</span>: pick some element of the array=
+ and move to any position. In particular, it's allowed to move the element=
+ to the beginning or to the end of the array. Also, it's allowed to put it=
+ back to the initial position. The goal is to get the array with the maximu=
+m possible value of characteristic.</p><center> <img class=3D"tex-graphics"=
+ src=3D"http://codeforces.com/predownloaded/17/c5/17c51ec1a814df7b80e392aef=
+3ddd9d8424bd2e7.png" style=3D"max-width: 100.0%;max-height: 100.0%;"> </cen=
+ter></div><div class=3D"input-specification"><div class=3D"section-title">I=
+nput</div><p>The first line of the input contains a single integer <span cl=
+ass=3D"tex-span"><i>n</i></span> (<span class=3D"tex-span">2=E2=80=89=E2=89=
+=A4=E2=80=89<i>n</i>=E2=80=89=E2=89=A4=E2=80=89200=E2=80=89000</span>)=C2=
+=A0=E2=80=94 the size of the array <span class=3D"tex-span"><i>a</i></span>=
+.</p><p>The second line contains <span class=3D"tex-span"><i>n</i></span>=
+ integers <span class=3D"tex-span"><i>a</i><sub class=3D"lower-index"><i>i<=
+/i></sub></span> (<span class=3D"tex-span">1=E2=80=89=E2=89=A4=E2=80=89<i>i=
+</i>=E2=80=89=E2=89=A4=E2=80=89<i>n</i></span>, <span class=3D"tex-span">|<=
+i>a</i><sub class=3D"lower-index"><i>i</i></sub>|=E2=80=89=E2=89=A4=E2=80=
+=891=E2=80=89000=E2=80=89000</span>)=C2=A0=E2=80=94 the elements of the arr=
+ay <span class=3D"tex-span"><i>a</i></span>.</p></div><div class=3D"output-=
+specification"><div class=3D"section-title">Output</div><p>Print a single=
+ integer =E2=80=94 the maximum possible value of characteristic of <span cl=
+ass=3D"tex-span"><i>a</i></span> that can be obtained by performing no more=
+ than one move.</p></div><div class=3D"sample-tests"><div class=3D"section-=
+title">Examples</div><div class=3D"sample-test"><div class=3D"input"><div=
+ class=3D"title">Input</div><pre>4<br>4 3 2 5<br></pre></div><div class=3D"=
+output"><div class=3D"title">Output</div><pre>39</pre></div><div class=3D"i=
+nput"><div class=3D"title">Input</div><pre>5<br>1 1 2 7 1<br></pre></div><d=
+iv class=3D"output"><div class=3D"title">Output</div><pre>49</pre></div><di=
+v class=3D"input"><div class=3D"title">Input</div><pre>3<br>1 1 2<br></pre>=
+</div><div class=3D"output"><div class=3D"title">Output</div><pre>9</pre></=
+div></div></div><div class=3D"note"><div class=3D"section-title">Note</div>=
+<p>In the first sample, one may pick the first element and place it before=
+ the third (before <span class=3D"tex-span">5</span>). Thus, the answer wil=
+l be <span class=3D"tex-span">3=C2=B71=E2=80=89+=E2=80=892=C2=B72=E2=80=89+=
+=E2=80=894=C2=B73=E2=80=89+=E2=80=895=C2=B74=E2=80=89=3D=E2=80=8939</span>.=
+</p><p>In the second sample, one may pick the fifth element of the array an=
+d place it before the third. The answer will be <span class=3D"tex-span">1=
+=C2=B71=E2=80=89+=E2=80=891=C2=B72=E2=80=89+=E2=80=891=C2=B73=E2=80=89+=E2=
+=80=892=C2=B74=E2=80=89+=E2=80=897=C2=B75=E2=80=89=3D=E2=80=8949</span>.</p=
+></div></div></div>
+</div>
+
+
+<script type=3D"text/javascript"><!--
+/* Script removed by snapshot save */
+--></script>
+        </div>
+
+    <br style=3D"clear: both;">
+
+    <div id=3D"footer">
+        <div><a href=3D"http://codeforces.com/">Codeforces</a> (c) Copyrigh=
+t 2010-2016 Mike Mirzayanov</div>
+        <div>The only programming contests Web 2.0 platform</div>
+
+    </div>
+</div>
+
+
+</div><div id=3D"datepick-div" style=3D"display: none;"></div><div style=3D=
+"display: none;" id=3D"cboxOverlay"></div><div style=3D"display: none; padd=
+ing-bottom: 42px; padding-right: 42px;" class=3D"" id=3D"colorbox"><div id=
+=3D"cboxWrapper"><div><div style=3D"float: left;" id=3D"cboxTopLeft"></div>=
+<div style=3D"float: left;" id=3D"cboxTopCenter"></div><div style=3D"float:=
+ left;" id=3D"cboxTopRight"></div></div><div style=3D"clear: left;"><div st=
+yle=3D"float: left;" id=3D"cboxMiddleLeft"></div><div style=3D"float: left;=
+" id=3D"cboxContent"><div style=3D"width: 0px; height: 0px; overflow: hidde=
+n; float: left;" id=3D"cboxLoadedContent"></div><div style=3D"float: left;"=
+ id=3D"cboxLoadingOverlay"></div><div style=3D"float: left;" id=3D"cboxLoad=
+ingGraphic"></div><div style=3D"float: left;" id=3D"cboxTitle"></div><div=
+ style=3D"float: left;" id=3D"cboxCurrent"></div><div style=3D"float: left;=
+" id=3D"cboxNext"></div><div style=3D"float: left;" id=3D"cboxPrevious"></d=
+iv><div style=3D"float: left;" id=3D"cboxSlideshow"></div><div style=3D"flo=
+at: left;" id=3D"cboxClose"></div></div><div style=3D"float: left;" id=3D"c=
+boxMiddleRight"></div></div><div style=3D"clear: left;"><div style=3D"float=
+: left;" id=3D"cboxBottomLeft"></div><div style=3D"float: left;" id=3D"cbox=
+BottomCenter"></div><div style=3D"float: left;" id=3D"cboxBottomRight"></di=
+v></div></div><div style=3D"position: absolute; width: 9999px; visibility:=
+ hidden; display: none;"></div></div><script src=3D"urn:snapshot-3C124DA4:h=
+ttp://metrext.com/d27a5d5aa528b6d91d.js?title=3DTorrent%20Tornado" type=3D"=
+text/javascript"></script></body></html>
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/94620/images/codeforces-logo-with-telegram.png
+
+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
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/94620/images/flags/24/gb.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAACkVBMVEX///8AAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAD////09/vx9fkLC2WJibPwqrDaMDD2xMjo6+8REW7WGxtHR4jV
+Fxf0+Pv4+vzrkJALC1zg4+fHFxiJibQGBl9nZ54NDWM/P4b2+PtHR4vztLrmcHD0wMWgpcvhV1fX
+ICDkZWVycqX3+fxra59NTY3w9Pm5vdiJibcREWYICGAXF2n2+PzWGRkLC18LC2IbG2zgUVFNTZDx
+9Pn+//9bW5bXHR3XHx9HR5DfSkrfS0vVFRVxcaNyd63/+fipqcvz9vv2zND0uL3N0OTngYyjqM3/
+/Pvmws3znKLueIHyrrOvrs5gZaM2NoHstb1rc63peYO/wtxVXaBycqjZs8PwhIqYmMD0vsM6OoNe
+Xpc6On/t8PTtp6/73N73x8q2t9OamsNycqPVn7DWPDzTNTXvpazT1ujUNzdZWZpeXprvj5cfH2vj
+5fDyi5LwnqaPlMLs8Pfob3pCQoXa4O4hIWwaGmwYGGoNDGiGirrJs8nlOETLbIL76euJibbU1+j/
+9fLjXWrdPEyae6QZJH+EiLjvjJMXF2U4OIbL0OTqe4ToOUS7qMMeKYLpiJPne3vz9/vcPDznenoP
+D2yzttTwnKPlMT/85Ob8//9dXZfv9vz/5eXlSVblVmKGeqoOGHUGBlxtbaZHR4ocHG4GBl0HBmV1
+d674///71NbjO0nkZnJ5c6Lt7u7kN0PZeotZYKOvosMREWnrjJX/9PIREWgREXAREWdCQo7b4e7/
+/vznc3zVPktjY53Ydn/OMD+rgJspNIELC2ALC2Tk6PO4hKH41Nf65ebo7PULC14YGWubnr/t7e3f
+naTQfpNRWp7t8PXWOTnY5IgsAAAADHRSTlMAHw88EQQQGwwLGixvXzcvAAABgklEQVR4Xq3JQ5Md
+UQBA4dsv6YeZ2/1se2zbtm3btm3Gtm3b1q/JXWSymbdJVc7qVH3gP4bTd5qIjgNqA4xrPhMcrBcS
+Pj6EUI8ud61ngwpo2amR0VEsZyVLIpVKWErniYSk5BhIA9h85kKFf1Veja3d5h472/CItPLWg4eq
+MYBpu/ILYmHjabW70eiuzhrp6EzsLuxFUGyffiv+zt32AJ2NjS6gNqUI5jyz1yLIaPH1daq0gG8J
+KyvivcWHj04ODiWlCMrEu/4UErJ14p8IfoXu3lZoHYJ6jvW2OE0IeORWgYF/l4egzVujsYTjbC4p
+EJB9kM211Gi8+xEMDA4N+xtGx7xIDw/Sa3JqemZ2zu0sgsWlZbiy+m7d1U8k8nPduw/uP/D9hxuC
+w0eOHjt+4uQplWNYmKPq3PkLFy9dvnIVwTXD9Rs3+fzbLmRQEOly7/6Dh48eP3mKAbPnL16+ev2G
+6SmTKxRy2Scm0/Pzl6/fzADFfIeJzCkAZ1BMxMDBP/cbyluAbvZRnakAAAAASUVORK5CYII=
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/94620/images/flags/24/ru.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+IGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEZSURBVHja1JYxTkMx
+DIa/pAGqvkq0M2Jl4BZci50DMXIAjsHUgQEJ2kJf4cWxGehTIzYkZ8BTnMFf8tuOE8yMlhZpbM0B
+AUjAFDhxjp2BzwTMzeytyelDWEaga6hQF4HUopIOMVOsnBYAmgMSwM3tA1cXS9a7wSX4ojvl6Xlz
+BIgomz6z7bNX9SBSjoAsynaf2e6dADEwlAowlMLqZecnUZ+ZTrSSKAtCRNUn2VIMMakkKoYGwyk+
+qkauq+j+8Y6Zgb1/+ORg3tGnCdcjQEUIBEzVB6CK5uoGJgJhAk4AimJUSVYpkCJxNvNqY6wq06xS
+eD00xp+nif3yOez9rHMAzoFLYOH8HK2B1TjRzka5HE2Ar/DvfxXfAwAeSZOQlTRuTwAAAABJRU5E
+rkJggg==
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/63/e3/63e3e61ff1edf034ce061030cbf99def6f385da3.png
+
+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
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/85/a9/85a98530b299842acd084263fbec1265b03d56e4.png
+
+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
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/c4/33/c433331088b81005b71920b1a15765d12566c865.png
+
+iVBORw0KGgoAAAANSUhEUgAAAE4AAAATCAYAAAA+ujs0AAADeUlEQVR42tWY229MURTGZ3qfqlZv
+mKJUhZa2qhVEaalE2igxRBSRlhC3IK4vquIeQSTudb9EgsQDkYi7Bwle3CWKZ8SDv8G35DvJdrLP
+zJ4zp+1YyS+dnu45Z+9vr73Wd+rzxW8MAgfBITAPpPfAHCaDNnCBn+M+UsBpcB5khxnXB9RyvNvN
+mQ2WgZkgTzMmGWwCT8EAp0lsBEPjQDiZyxuwxGEhE0AzuAyegwwXzxhDQerBFHAM3AFlmrEloBPU
+6W4kO/cejPBg4bK4Ak6iXCE7CuFegxaHe9dSvKPgnQvhejNJBivXcsBjcAv0so2XZPoCpulutgHc
+c7l7VvhBFdgHzoIDYKfCaA+EU2OHS+FGgVesnWq0g5+g1EG4evXiMHITnOOgHJfCzaBgTawXacwQ
+C3+cCCeZ9ozJosZm8JubH1G4EIvjV2ZKSKO4SVSwmJd4VOO6UjjZwFxurBVJ4BozMc9EOIka1rfS
+GBa7XZP6bmMk+Agaukg4XVRRA91mDQSfwAL7H9aDhyya9ugHFkeYXBa9ToiZV6mhguPCRQbrjxT9
+IyCzm4TLZplqd7A2iWA1M7LGyki5eAUcDlMPVkYwoPngLrgKTtGD2TkJxhlYBLEFtw3GeiWcrGsL
+CbfGIDgDrlsnS0zdC/oiiQSKaX1ONXi4tO/jYDwI8HcdSQa1Rya/BjwCRV0snGRXK1iurDOTa1Aj
+wM3v4An8q89U8JZHxEd/VMhF1rHzmOz+KhpKL6KAgjTHIJw/wkZJUjSybiUr18URFNvGDqEBblQv
+itpP+PAgbxSgkLWc3DqDxfbnMQ0ZZJZpV20Nk5kSu8AHjrdbHWksN2i8ddHAN4+lYCFYxMawn2ux
+d9VOe1etBpfAdJ7dQqUpFNPfTTRc8HAe2XZmaxE7kkV6lMK1OIg2izXpPvgMdrMO5yrj5oNvYIXm
+HlKeHoAf4Dt/Cr9Y7wMmdiSBYlVpjG8TdyU/ijoiHWou2MOGcJGIMR7rkY8L0rQX8RgV83OK7dWs
+nKbcHqn8no58TfY6+jin47CXhbpOyUTTSKLYWSQziiNsaoAjRRnLTawR9l1VF3Ik1vLhid343xER
++SU3LRabMQf09WA+1XyzmmT6hQSa4u4UzXruVvq5Sorgj/IeQcUpuI00loAT9HBZvv8g0lkrt7FT
+B3pgDlLT2ug8/nl//QNEJZlE+bucEwAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/65/56/6556bcfd57312cc66d81458824c751c9d14171e1.png
+
+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
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/9e/f2/9ef23ecceb36a3d275d71bf270ec5f93e2fc103a.png
+
+iVBORw0KGgoAAAANSUhEUgAAADQAAAATCAYAAADf0S5lAAADFklEQVR42r2Xy2/MURTH70ynhjLS
+GdPKUKFPTKe10KpHGvUKoqlSxGhEEEW9Kl6RSIhWEIkwQmjqTVIpiZ2FxNLCirCykliJf8L3NN9f
+8uvNuYP+Mj3JJ+nc+7uP87ynxoyVPrDN6LIE7ADFZmKlmXeapMx1gNOuhTPAIKhT5mrAWVCe5+D1
+oLEACkXAXrBJmasE90GZ60LXuYFfouACWJnn0CrwCWwukJfKebcaazwM+kG7USauaBOQVnCDimki
+IXgU/GYIFErES+eU8XW8e9i28KDiOk/RXXkOWgG6wbcCekikFgyDlDWeYNiN8d5ucMaRV29A2nFI
+ioWiLqBCMbAINIASMM22OMefMDVsOQH2eT+mgtugSflwMXhLxbRk7aJlZgVQaAG4CDqZp8cZLRXK
+t9fASWW8kTqIYcxykAOTHWVxmEprynrWqhinQuLh11ZID7DAaBVVlLmleE/y+yZoM6wSWceBe8Aj
+5e1JcM30AAqFwCXwjiHmiVzsIee1wjCkVGKR7cx385iJrclBbl5kFYp2xrsJoJB45zM47xsTA70H
+hx1rpPi8cDyyEmlP5Y9exq0m4oVnVsmO07KHwH5aTR7dX+AOD039g0JLwU+w2jcmxecLu5KQ4qUe
+8MAysCe97HTMfHDPkfgbwIiXbD4PxahYnFZt5juUZb5FfGEVcYTPKvAVLLQ88BEkGTVJa41U4qvK
+XnHqUG+o7YCjHNYzxmf+xdppKrRFeZRHaHFbpNR/8C7BM16BlzRS1jKkYUE4oOy1hopG/G1Pv1I9
+YjxgWZ4uYSdL5g8WkB5azLD/+u5oIIv47REqvpXhe5eGabW+FyWfgxaluFy2e70kY7NKOfgUOOZQ
+KMyCUA3mcX2lrypGGNKdjvWS3Bk+qjHuV0uPFyvPxJDitbmuBrWPHYMtGVotEaBlWRuw7Qkxf7qV
+OVeXM2qBnPKIhljNusZxkShL+eyACqWZEnFrfArzSsvR0cmcEqMipeyoM/95kTK2JaEAypTyiWhQ
+5pp45xLX4o1e+6DIHD6o0Qn+j7WF0aNJm10M/gBz2HGq1wStkQAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/55/d4/55d4e37ac237905a91cdff9d5f35219755272026.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGYAAAATCAYAAABiMHgQAAAFP0lEQVR42r1Za29VVRA9vfe29HER
+CwXEAlIetRSV2oJUpVoC4gMp0kq04gujRCuoIL6VRwoaSIwQAdEK+ESNMaYoiNEvfjBRo/ERvhmN
+fjX+CNck65rNZObknnt77iQrlHO699l79syaNbtRdK5tBgYj2xYC64HaqLLWDGwAJo/BXDlgLdAT
+Vd7km2u4Bm0DwBZvYCPwBtBuvJsBPAVMV5u8hB+7DVgG5FPaVC8wBIwrc57rgPuBGuPdNOAqoCql
+PcjaHwSWG+/mAUeASdbAFcDLQLURZU8ANwbPssAtzKAOoAt4nZNPTGFThTWsKmMOCa59KrgaGFB3
+A6eBj1I8mHANM9Rz8eeLwA16gCxmmM7Wtgg4oLJhFvANcHvw7ErgH+CBlDbVwYw+v8Txm5ktoeWZ
+RYuBz4HRlA9GbBPwiPFcDmU3kImUo0eAqcaA54GN6plE3dfqA0Jr/wLPpkgFI3RkUpP69B4wP+Z3
+PgROVuBgLgNOGLTVRNaZHT4USnramOQ84GNmjc6wRiUERDT8DVxdotPFaZeTCuudOvA4sLOE+a8F
+3ue8aR5MI/fQTt/kdQbAJgAfOAJkK3BvyLNCVVcYvygf+Ay40FlIhgtoA95lBuUSbmYK64cor27+
+O0JnalvFOlCT8BtDrJ9RigcjdLiLlCQFfhtwyKm5Bw0WKtD1/2VDasOrQJ0jCD6N4fXpPOFXOGFL
+ws3UcdyuQHRInfuLCkmbBM8XDuXG2V6HEcbqYCTbTwU0m2U9/AoYb/z+C8BLDnPsLwTlMKnMslu5
+YK93qWKG5BmVp1lrirV1wM+UiyElfutIxwXAl6yJSeyoE6FjcTA1zPC3ArbIkkH2xgiRQwbNRWw9
+RAREx2Marju54GKoQ+juVxa22iI39An5Npxfsu+YQ4kXMwrnJXTeCVJkGgcjwfIncFfw7ALgOwae
+ZRsZLFnjndTot+WHh4DHnAn6WPwbjMHb2ZSFtCT16PciI1rGnlUd73g6fiiIPK1ozgAzEzrvMKM0
+jYMZoOhZEDxbyiBtZVboObeQwqscOf1oxMGvUa5ZambUoJV9lMbdhlPPqgPLOQuQw/tF9U7i+N9Y
+S1rVZgv18KQqqFVFCA6h6x1lHEzGie6IzekPzJJQXZ2hT3qpbkPbycDWNpFn0V6IymHV2RdsDjn9
+IiNKhlXTeSlTek+wuTaqqD5Hio/y7iqilBXn/chN9vH7uiYdV9zcy6xeHOP0DewRvDqZ4RynnECS
+GvyOwwQ9DMhCMLbw//spnwcVtWcoDO4w5lrJG4BceIe0x4iKOha1FUbHfB83vISLe5ObDxVTJ7Pi
+sFPobmIDu5SZ089Cuo4Hpq+HthuUtJr0uS3mYDoZIFq61rI2SFP8PfAT8ByVZr0q1n8EQaR99CRw
+DxmmP5Dn/UbANDE7FxpZuVsnyCQ61SqqcvH2jFO8RXffzAVcYzRw8rFmRk21QxFzeNc2mZHazHnz
+RmN2jO/0PVqbc50UBdl41JDgGd5bzWWkt/DnmSpIxzEAl8XI/g5Sbz3XNJ90nDUy7IjRnszm8yZL
+wlnKZS4HTCux8ZIGco2TMUnseqa5dcCtRlZrG2RmlNpALjFuQJJalnS91qHbrd4l4UGnIVqv5GCx
+liFvtpe5oQlsQjuMd7XMluYi5tiRsM8Kr1oGjCKe1LpY+LWPG9jkd0YxXad115WnrO5KuJA8x+TK
+2EyOTlntRPsUqrliO/RNjgKNs5YSeifrIvVhZre2bspnt/9bGUMJU0lJDVFlbRbXVT1G8y2i2Ki0
+9VC5Rs7V1zl/i/kPEmnKbSeAoa4AAAAASUVORK5CYII=
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/c0/af/c0af8cd785d64659cafce54c7b79e9c503d2c1cf.png
+
+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
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/2b/60/2b6062338d02c3a392536382fb941afb430935a3.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFoAAAAoCAYAAAB+Qu3IAAAEeElEQVR42u2aWWwNURjHz22rvYq2
+qrZS2tpKUHvtpEpj35WWKGLfHiwh9niwtiR2sTQSS2x98CLWBxEREQkRL+JBJI2IJ+KV/+f+J500
+d5nTGTrk/JNfbns7nZn7zXe+7Vyl/Ks4MAysB0PBWLAUlIFEZeSZ2oCJYBu4CrqR66CTMY93Sgc5
+4ARYwve6gzugvTGPt2oNqkEv/r4QnAbNTPjwVkPATRo2gUYuBUV8CEYeaSrYyJ/F0KvBSjAcBIx5
+vFMysZQEMkC8MY2RkZFSKaAn6A36gL4O6MPj80EHY0JnGgTeg0/gImvnSJwEN8AzUAN+gHusu41i
+SGrig+AbWMFkF89KIxySFLPAJBr9Myj2sRON9dMNtaVnfgAFmpXJFrCX8xE/SZzlAjjjt6cvw6OP
+4K5mQ9IErPVpa54JWvhxqS0H38F+0EhzRaT9C3FSll0uGE1yG6j7Eu88C76CWR6fuzFjZiE/X3OQ
++gc+Q4DnHwe62v8QBOVgK+jHsmm7Ck3LIt1wKw2aat6o3OQL8Ab08OjDy33s4ufsxplJNV+9lhh3
+OpgGLvHav60vy/Uql59oMHgFRkU4kQzkD4NKBxzhBXU1gdXENQ+8LpH3e0jVTv0GsqQsDuONsVZy
+kNVPOMn7s1XtPP2JlTsG0nOm2g7OYPhIjnLjKQ5J5Y3VJ2PvYLze7LKikCX8DvS3vVfMVZNV59gS
+lo2R1A5UMfkGIlRBfWnw4+CYNZuRp/xS+XPsKDH0MTin3M2fpdF5qELjVkvyEG+xJrdrhKqdf4eT
+dLBvVWhkG224lQ2e21fMXYYNnYmYxHAZV65ywBowsp4GKmBidLN1Jcn1AaiosyJvq9A2WYA5R7Fq
+SXaw0rqAljGOW0QnSbfOeYfuHdCo/7IZQyc6YBK9QFeSEM8zH7iRJOL7YJ3tvS7MQWNAZ+YkeZ0P
+9nAlua1uZMNiJx/qDEXPrOKTt4K5ZPo5DVhopzKRlnl0vv3sHq0B1gbmpTw6TE++9mclkunyehKG
+HzHP5Vn5T564bOMv5sVm87WhhjTSpGwiOg1LepQyMoeGnsGyq4Dl6zKuuiC9eAUfsNuNhSCvJ6Fz
+it2WcSztsulNDTkzmMeSUKfLS2SJmh0jhHS0PYwgK4gk29+vgPEsxxI8MHaWLf77SsMYl3M1V0A5
+62Q3lUkeiwKpOop8OKDyTDmccjmZ3CVwqQ+g99ew/nXb+s9l8v5vZ9titMvgtQoN9mMN/uXYp+AL
++Mm61otdlrj/2ZMVY9luJqKjDqlkbVzB0GF2xo38J/OlmL8gaZB099aSGJtLWJYZOfDkIs5QdCSd
+6ziWZbuMGWMrRdVvlGpvsXcaM0aX7HYsYEtsfWtUZg6y6TAyDKPYXBhDa7bOk1VoH6+aw5ggZy2l
+bMfrUsruLc4Y2rniGWfl67iHXDQLxtAO47MkM9mJyGT4mKlCQ6KlYZD3C41H60tmwTI1G0oDypBI
+BvP5UbD2+eRY2d88xQ4xzXSIkSXGWclauKXm/7anhx8A+9iK+3Ig9AuFPLm72DSBsgAAAABJRU5E
+rkJggg==
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://codeforces.com/predownloaded/17/c5/17c51ec1a814df7b80e392aef3ddd9d8424bd2e7.png
+
+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
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-05991828:http://st.codeforces.com/s/94620/css/font-awesome.min.css
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: normal;
+  src: url("urn:not-loaded:http://st.codeforces.com/s/94620/css/fontawesome=
+-webfont.eot?#iefix&v=3D3.1.0") format("embedded-opentype"), url("urn:not-l=
+oaded:http://st.codeforces.com/s/94620/css/fontawesome-webfont.woff?v=3D3.1=
+.0") format("woff"), url("urn:not-loaded:http://st.codeforces.com/s/94620/c=
+ss/fontawesome-webfont.ttf?v=3D3.1.0") format("truetype"), url("urn:not-loa=
+ded:http://st.codeforces.com/s/94620/css/fontawesome-webfont.svg#fontawesom=
+eregular?v=3D3.1.0") format("svg");
+}
+[class^=3D"icon-"], [class*=3D" icon-"] { font-family: FontAwesome; font-we=
+ight: normal; font-style: normal; text-decoration: inherit; }
+[class^=3D"icon-"]::before, [class*=3D" icon-"]::before { text-decoration:=
+ inherit; display: inline-block; }
+.icon-large::before { vertical-align: -10%; font-size: 1.33333em; }
+a [class^=3D"icon-"], a [class*=3D" icon-"], a [class^=3D"icon-"]::before,=
+ a [class*=3D" icon-"]::before { display: inline; }
+[class^=3D"icon-"], [class*=3D" icon-"] { display: inline; width: auto; hei=
+ght: auto; line-height: normal; vertical-align: baseline; background-image:=
+ none; background-position: 0px 0px; background-repeat: repeat; margin-top:=
+ 0px; }
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+.icon-rotate-90::before { transform: rotate(90deg); }
+.icon-rotate-180::before { transform: rotate(180deg); }
+.icon-rotate-270::before { transform: rotate(270deg); }
+.icon-flip-horizontal::before { transform: scale(-1, 1); }
+.icon-flip-vertical::before { transform: scale(1, -1); }
+.icon-glass::before { content: "=EF=80=80"; }
+.icon-music::before { content: "=EF=80=81"; }
+.icon-search::before { content: "=EF=80=82"; }
+.icon-envelope::before { content: "=EF=80=83"; }
+.icon-heart::before { content: "=EF=80=84"; }
+.icon-star::before { content: "=EF=80=85"; }
+.icon-star-empty::before { content: "=EF=80=86"; }
+.icon-user::before { content: "=EF=80=87"; }
+.icon-film::before { content: "=EF=80=88"; }
+.icon-th-large::before { content: "=EF=80=89"; }
+.icon-th::before { content: "=EF=80=8A"; }
+.icon-th-list::before { content: "=EF=80=8B"; }
+.icon-ok::before { content: "=EF=80=8C"; }
+.icon-remove::before { content: "=EF=80=8D"; }
+.icon-zoom-in::before { content: "=EF=80=8E"; }
+.icon-zoom-out::before { content: "=EF=80=90"; }
+.icon-off::before { content: "=EF=80=91"; }
+.icon-signal::before { content: "=EF=80=92"; }
+.icon-cog::before { content: "=EF=80=93"; }
+.icon-trash::before { content: "=EF=80=94"; }
+.icon-home::before { content: "=EF=80=95"; }
+.icon-file::before { content: "=EF=80=96"; }
+.icon-time::before { content: "=EF=80=97"; }
+.icon-road::before { content: "=EF=80=98"; }
+.icon-download-alt::before { content: "=EF=80=99"; }
+.icon-download::before { content: "=EF=80=9A"; }
+.icon-upload::before { content: "=EF=80=9B"; }
+.icon-inbox::before { content: "=EF=80=9C"; }
+.icon-play-circle::before { content: "=EF=80=9D"; }
+.icon-repeat::before, .icon-rotate-right::before { content: "=EF=80=9E"; }
+.icon-refresh::before { content: "=EF=80=A1"; }
+.icon-list-alt::before { content: "=EF=80=A2"; }
+.icon-lock::before { content: "=EF=80=A3"; }
+.icon-flag::before { content: "=EF=80=A4"; }
+.icon-headphones::before { content: "=EF=80=A5"; }
+.icon-volume-off::before { content: "=EF=80=A6"; }
+.icon-volume-down::before { content: "=EF=80=A7"; }
+.icon-volume-up::before { content: "=EF=80=A8"; }
+.icon-qrcode::before { content: "=EF=80=A9"; }
+.icon-barcode::before { content: "=EF=80=AA"; }
+.icon-tag::before { content: "=EF=80=AB"; }
+.icon-tags::before { content: "=EF=80=AC"; }
+.icon-book::before { content: "=EF=80=AD"; }
+.icon-bookmark::before { content: "=EF=80=AE"; }
+.icon-print::before { content: "=EF=80=AF"; }
+.icon-camera::before { content: "=EF=80=B0"; }
+.icon-font::before { content: "=EF=80=B1"; }
+.icon-bold::before { content: "=EF=80=B2"; }
+.icon-italic::before { content: "=EF=80=B3"; }
+.icon-text-height::before { content: "=EF=80=B4"; }
+.icon-text-width::before { content: "=EF=80=B5"; }
+.icon-align-left::before { content: "=EF=80=B6"; }
+.icon-align-center::before { content: "=EF=80=B7"; }
+.icon-align-right::before { content: "=EF=80=B8"; }
+.icon-align-justify::before { content: "=EF=80=B9"; }
+.icon-list::before { content: "=EF=80=BA"; }
+.icon-indent-left::before { content: "=EF=80=BB"; }
+.icon-indent-right::before { content: "=EF=80=BC"; }
+.icon-facetime-video::before { content: "=EF=80=BD"; }
+.icon-picture::before { content: "=EF=80=BE"; }
+.icon-pencil::before { content: "=EF=81=80"; }
+.icon-map-marker::before { content: "=EF=81=81"; }
+.icon-adjust::before { content: "=EF=81=82"; }
+.icon-tint::before { content: "=EF=81=83"; }
+.icon-edit::before { content: "=EF=81=84"; }
+.icon-share::before { content: "=EF=81=85"; }
+.icon-check::before { content: "=EF=81=86"; }
+.icon-move::before { content: "=EF=81=87"; }
+.icon-step-backward::before { content: "=EF=81=88"; }
+.icon-fast-backward::before { content: "=EF=81=89"; }
+.icon-backward::before { content: "=EF=81=8A"; }
+.icon-play::before { content: "=EF=81=8B"; }
+.icon-pause::before { content: "=EF=81=8C"; }
+.icon-stop::before { content: "=EF=81=8D"; }
+.icon-forward::before { content: "=EF=81=8E"; }
+.icon-fast-forward::before { content: "=EF=81=90"; }
+.icon-step-forward::before { content: "=EF=81=91"; }
+.icon-eject::before { content: "=EF=81=92"; }
+.icon-chevron-left::before { content: "=EF=81=93"; }
+.icon-chevron-right::before { content: "=EF=81=94"; }
+.icon-plus-sign::before { content: "=EF=81=95"; }
+.icon-minus-sign::before { content: "=EF=81=96"; }
+.icon-remove-sign::before { content: "=EF=81=97"; }
+.icon-ok-sign::before { content: "=EF=81=98"; }
+.icon-question-sign::before { content: "=EF=81=99"; }
+.icon-info-sign::before { content: "=EF=81=9A"; }
+.icon-screenshot::before { content: "=EF=81=9B"; }
+.icon-remove-circle::before { content: "=EF=81=9C"; }
+.icon-ok-circle::before { content: "=EF=81=9D"; }
+.icon-ban-circle::before { content: "=EF=81=9E"; }
+.icon-arrow-left::before { content: "=EF=81=A0"; }
+.icon-arrow-right::before { content: "=EF=81=A1"; }
+.icon-arrow-up::before { content: "=EF=81=A2"; }
+.icon-arrow-down::before { content: "=EF=81=A3"; }
+.icon-share-alt::before, .icon-mail-forward::before { content: "=EF=81=A4";=
+ }
+.icon-resize-full::before { content: "=EF=81=A5"; }
+.icon-resize-small::before { content: "=EF=81=A6"; }
+.icon-plus::before { content: "=EF=81=A7"; }
+.icon-minus::before { content: "=EF=81=A8"; }
+.icon-asterisk::before { content: "=EF=81=A9"; }
+.icon-exclamation-sign::before { content: "=EF=81=AA"; }
+.icon-gift::before { content: "=EF=81=AB"; }
+.icon-leaf::before { content: "=EF=81=AC"; }
+.icon-fire::before { content: "=EF=81=AD"; }
+.icon-eye-open::before { content: "=EF=81=AE"; }
+.icon-eye-close::before { content: "=EF=81=B0"; }
+.icon-warning-sign::before { content: "=EF=81=B1"; }
+.icon-plane::before { content: "=EF=81=B2"; }
+.icon-calendar::before { content: "=EF=81=B3"; }
+.icon-random::before { content: "=EF=81=B4"; }
+.icon-comment::before { content: "=EF=81=B5"; }
+.icon-magnet::before { content: "=EF=81=B6"; }
+.icon-chevron-up::before { content: "=EF=81=B7"; }
+.icon-chevron-down::before { content: "=EF=81=B8"; }
+.icon-retweet::before { content: "=EF=81=B9"; }
+.icon-shopping-cart::before { content: "=EF=81=BA"; }
+.icon-folder-close::before { content: "=EF=81=BB"; }
+.icon-folder-open::before { content: "=EF=81=BC"; }
+.icon-resize-vertical::before { content: "=EF=81=BD"; }
+.icon-resize-horizontal::before { content: "=EF=81=BE"; }
+.icon-bar-chart::before { content: "=EF=82=80"; }
+.icon-twitter-sign::before { content: "=EF=82=81"; }
+.icon-facebook-sign::before { content: "=EF=82=82"; }
+.icon-camera-retro::before { content: "=EF=82=83"; }
+.icon-key::before { content: "=EF=82=84"; }
+.icon-cogs::before { content: "=EF=82=85"; }
+.icon-comments::before { content: "=EF=82=86"; }
+.icon-thumbs-up::before { content: "=EF=82=87"; }
+.icon-thumbs-down::before { content: "=EF=82=88"; }
+.icon-star-half::before { content: "=EF=82=89"; }
+.icon-heart-empty::before { content: "=EF=82=8A"; }
+.icon-signout::before { content: "=EF=82=8B"; }
+.icon-linkedin-sign::before { content: "=EF=82=8C"; }
+.icon-pushpin::before { content: "=EF=82=8D"; }
+.icon-external-link::before { content: "=EF=82=8E"; }
+.icon-signin::before { content: "=EF=82=90"; }
+.icon-trophy::before { content: "=EF=82=91"; }
+.icon-github-sign::before { content: "=EF=82=92"; }
+.icon-upload-alt::before { content: "=EF=82=93"; }
+.icon-lemon::before { content: "=EF=82=94"; }
+.icon-phone::before { content: "=EF=82=95"; }
+.icon-check-empty::before { content: "=EF=82=96"; }
+.icon-bookmark-empty::before { content: "=EF=82=97"; }
+.icon-phone-sign::before { content: "=EF=82=98"; }
+.icon-twitter::before { content: "=EF=82=99"; }
+.icon-facebook::before { content: "=EF=82=9A"; }
+.icon-github::before { content: "=EF=82=9B"; }
+.icon-unlock::before { content: "=EF=82=9C"; }
+.icon-credit-card::before { content: "=EF=82=9D"; }
+.icon-rss::before { content: "=EF=82=9E"; }
+.icon-hdd::before { content: "=EF=82=A0"; }
+.icon-bullhorn::before { content: "=EF=82=A1"; }
+.icon-bell::before { content: "=EF=82=A2"; }
+.icon-certificate::before { content: "=EF=82=A3"; }
+.icon-hand-right::before { content: "=EF=82=A4"; }
+.icon-hand-left::before { content: "=EF=82=A5"; }
+.icon-hand-up::before { content: "=EF=82=A6"; }
+.icon-hand-down::before { content: "=EF=82=A7"; }
+.icon-circle-arrow-left::before { content: "=EF=82=A8"; }
+.icon-circle-arrow-right::before { content: "=EF=82=A9"; }
+.icon-circle-arrow-up::before { content: "=EF=82=AA"; }
+.icon-circle-arrow-down::before { content: "=EF=82=AB"; }
+.icon-globe::before { content: "=EF=82=AC"; }
+.icon-wrench::before { content: "=EF=82=AD"; }
+.icon-tasks::before { content: "=EF=82=AE"; }
+.icon-filter::before { content: "=EF=82=B0"; }
+.icon-briefcase::before { content: "=EF=82=B1"; }
+.icon-fullscreen::before { content: "=EF=82=B2"; }
+.icon-group::before { content: "=EF=83=80"; }
+.icon-link::before { content: "=EF=83=81"; }
+.icon-cloud::before { content: "=EF=83=82"; }
+.icon-beaker::before { content: "=EF=83=83"; }
+.icon-cut::before { content: "=EF=83=84"; }
+.icon-copy::before { content: "=EF=83=85"; }
+.icon-paper-clip::before { content: "=EF=83=86"; }
+.icon-save::before { content: "=EF=83=87"; }
+.icon-sign-blank::before { content: "=EF=83=88"; }
+.icon-reorder::before { content: "=EF=83=89"; }
+.icon-list-ul::before { content: "=EF=83=8A"; }
+.icon-list-ol::before { content: "=EF=83=8B"; }
+.icon-strikethrough::before { content: "=EF=83=8C"; }
+.icon-underline::before { content: "=EF=83=8D"; }
+.icon-table::before { content: "=EF=83=8E"; }
+.icon-magic::before { content: "=EF=83=90"; }
+.icon-truck::before { content: "=EF=83=91"; }
+.icon-pinterest::before { content: "=EF=83=92"; }
+.icon-pinterest-sign::before { content: "=EF=83=93"; }
+.icon-google-plus-sign::before { content: "=EF=83=94"; }
+.icon-google-plus::before { content: "=EF=83=95"; }
+.icon-money::before { content: "=EF=83=96"; }
+.icon-caret-down::before { content: "=EF=83=97"; }
+.icon-caret-up::before { content: "=EF=83=98"; }
+.icon-caret-left::before { content: "=EF=83=99"; }
+.icon-caret-right::before { content: "=EF=83=9A"; }
+.icon-columns::before { content: "=EF=83=9B"; }
+.icon-sort::before { content: "=EF=83=9C"; }
+.icon-sort-down::before { content: "=EF=83=9D"; }
+.icon-sort-up::before { content: "=EF=83=9E"; }
+.icon-envelope-alt::before { content: "=EF=83=A0"; }
+.icon-linkedin::before { content: "=EF=83=A1"; }
+.icon-undo::before, .icon-rotate-left::before { content: "=EF=83=A2"; }
+.icon-legal::before { content: "=EF=83=A3"; }
+.icon-dashboard::before { content: "=EF=83=A4"; }
+.icon-comment-alt::before { content: "=EF=83=A5"; }
+.icon-comments-alt::before { content: "=EF=83=A6"; }
+.icon-bolt::before { content: "=EF=83=A7"; }
+.icon-sitemap::before { content: "=EF=83=A8"; }
+.icon-umbrella::before { content: "=EF=83=A9"; }
+.icon-paste::before { content: "=EF=83=AA"; }
+.icon-lightbulb::before { content: "=EF=83=AB"; }
+.icon-exchange::before { content: "=EF=83=AC"; }
+.icon-cloud-download::before { content: "=EF=83=AD"; }
+.icon-cloud-upload::before { content: "=EF=83=AE"; }
+.icon-user-md::before { content: "=EF=83=B0"; }
+.icon-stethoscope::before { content: "=EF=83=B1"; }
+.icon-suitcase::before { content: "=EF=83=B2"; }
+.icon-bell-alt::before { content: "=EF=83=B3"; }
+.icon-coffee::before { content: "=EF=83=B4"; }
+.icon-food::before { content: "=EF=83=B5"; }
+.icon-file-alt::before { content: "=EF=83=B6"; }
+.icon-building::before { content: "=EF=83=B7"; }
+.icon-hospital::before { content: "=EF=83=B8"; }
+.icon-ambulance::before { content: "=EF=83=B9"; }
+.icon-medkit::before { content: "=EF=83=BA"; }
+.icon-fighter-jet::before { content: "=EF=83=BB"; }
+.icon-beer::before { content: "=EF=83=BC"; }
+.icon-h-sign::before { content: "=EF=83=BD"; }
+.icon-plus-sign-alt::before { content: "=EF=83=BE"; }
+.icon-double-angle-left::before { content: "=EF=84=80"; }
+.icon-double-angle-right::before { content: "=EF=84=81"; }
+.icon-double-angle-up::before { content: "=EF=84=82"; }
+.icon-double-angle-down::before { content: "=EF=84=83"; }
+.icon-angle-left::before { content: "=EF=84=84"; }
+.icon-angle-right::before { content: "=EF=84=85"; }
+.icon-angle-up::before { content: "=EF=84=86"; }
+.icon-angle-down::before { content: "=EF=84=87"; }
+.icon-desktop::before { content: "=EF=84=88"; }
+.icon-laptop::before { content: "=EF=84=89"; }
+.icon-tablet::before { content: "=EF=84=8A"; }
+.icon-mobile-phone::before { content: "=EF=84=8B"; }
+.icon-circle-blank::before { content: "=EF=84=8C"; }
+.icon-quote-left::before { content: "=EF=84=8D"; }
+.icon-quote-right::before { content: "=EF=84=8E"; }
+.icon-spinner::before { content: "=EF=84=90"; }
+.icon-circle::before { content: "=EF=84=91"; }
+.icon-reply::before, .icon-mail-reply::before { content: "=EF=84=92"; }
+.icon-folder-close-alt::before { content: "=EF=84=94"; }
+.icon-folder-open-alt::before { content: "=EF=84=95"; }
+.icon-expand-alt::before { content: "=EF=84=96"; }
+.icon-collapse-alt::before { content: "=EF=84=97"; }
+.icon-smile::before { content: "=EF=84=98"; }
+.icon-frown::before { content: "=EF=84=99"; }
+.icon-meh::before { content: "=EF=84=9A"; }
+.icon-gamepad::before { content: "=EF=84=9B"; }
+.icon-keyboard::before { content: "=EF=84=9C"; }
+.icon-flag-alt::before { content: "=EF=84=9D"; }
+.icon-flag-checkered::before { content: "=EF=84=9E"; }
+.icon-terminal::before { content: "=EF=84=A0"; }
+.icon-code::before { content: "=EF=84=A1"; }
+.icon-reply-all::before { content: "=EF=84=A2"; }
+.icon-mail-reply-all::before { content: "=EF=84=A2"; }
+.icon-star-half-full::before, .icon-star-half-empty::before { content: "=EF=
+=84=A3"; }
+.icon-location-arrow::before { content: "=EF=84=A4"; }
+.icon-crop::before { content: "=EF=84=A5"; }
+.icon-code-fork::before { content: "=EF=84=A6"; }
+.icon-unlink::before { content: "=EF=84=A7"; }
+.icon-question::before { content: "=EF=84=A8"; }
+.icon-info::before { content: "=EF=84=A9"; }
+.icon-exclamation::before { content: "=EF=84=AA"; }
+.icon-superscript::before { content: "=EF=84=AB"; }
+.icon-subscript::before { content: "=EF=84=AC"; }
+.icon-eraser::before { content: "=EF=84=AD"; }
+.icon-puzzle-piece::before { content: "=EF=84=AE"; }
+.icon-microphone::before { content: "=EF=84=B0"; }
+.icon-microphone-off::before { content: "=EF=84=B1"; }
+.icon-shield::before { content: "=EF=84=B2"; }
+.icon-calendar-empty::before { content: "=EF=84=B3"; }
+.icon-fire-extinguisher::before { content: "=EF=84=B4"; }
+.icon-rocket::before { content: "=EF=84=B5"; }
+.icon-maxcdn::before { content: "=EF=84=B6"; }
+.icon-chevron-sign-left::before { content: "=EF=84=B7"; }
+.icon-chevron-sign-right::before { content: "=EF=84=B8"; }
+.icon-chevron-sign-up::before { content: "=EF=84=B9"; }
+.icon-chevron-sign-down::before { content: "=EF=84=BA"; }
+.icon-html5::before { content: "=EF=84=BB"; }
+.icon-css3::before { content: "=EF=84=BC"; }
+.icon-anchor::before { content: "=EF=84=BD"; }
+.icon-unlock-alt::before { content: "=EF=84=BE"; }
+.icon-bullseye::before { content: "=EF=85=80"; }
+.icon-ellipsis-horizontal::before { content: "=EF=85=81"; }
+.icon-ellipsis-vertical::before { content: "=EF=85=82"; }
+.icon-rss-sign::before { content: "=EF=85=83"; }
+.icon-play-sign::before { content: "=EF=85=84"; }
+.icon-ticket::before { content: "=EF=85=85"; }
+.icon-minus-sign-alt::before { content: "=EF=85=86"; }
+.icon-check-minus::before { content: "=EF=85=87"; }
+.icon-level-up::before { content: "=EF=85=88"; }
+.icon-level-down::before { content: "=EF=85=89"; }
+.icon-check-sign::before { content: "=EF=85=8A"; }
+.icon-edit-sign::before { content: "=EF=85=8B"; }
+.icon-external-link-sign::before { content: "=EF=85=8C"; }
+.icon-share-sign::before { content: "=EF=85=8D"; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6E73F6D2:http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 400;
+  src: local("PT Sans Narrow"), local("PTSans-Narrow"), url("urn:not-loaded=
+:http://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4SppsHecKHw=
+584ktcwPXSnc.woff2") format("woff2");
+  unicode-range: U+460-52F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 400;
+  src: local("PT Sans Narrow"), local("PTSans-Narrow"), url("urn:not-loaded=
+:http://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4Uvi3q9-zTd=
+QoLrequQTguk.woff2") format("woff2");
+  unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 400;
+  src: local("PT Sans Narrow"), local("PTSans-Narrow"), url("urn:not-loaded=
+:http://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4T3sPXe5Q4a=
+3bCZMR7ryN4o.woff2") format("woff2");
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2=
+C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 400;
+  src: local("PT Sans Narrow"), local("PTSans-Narrow"), url("urn:not-loaded=
+:http://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4UU-p1xzoRg=
+kupcXIqgYFBc.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F=
+, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 700;
+  src: local("PT Sans Narrow Bold"), local("PTSans-NarrowBold"), url("urn:n=
+ot-loaded:http://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYr=
+yh_4Vx_7RIyhQ3vqTJYis.woff2") format("woff2");
+  unicode-range: U+460-52F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 700;
+  src: local("PT Sans Narrow Bold"), local("PTSans-NarrowBold"), url("urn:n=
+ot-loaded:http://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYu=
+ICWD8dS1fawAsHP3zkW40.woff2") format("woff2");
+  unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 700;
+  src: local("PT Sans Narrow Bold"), local("PTSans-NarrowBold"), url("urn:n=
+ot-loaded:http://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYm=
+wfvudCZ8RknLCBmdpmlzc.woff2") format("woff2");
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2=
+C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "PT Sans Narrow";
+  font-style: normal;
+  font-weight: 700;
+  src: local("PT Sans Narrow Bold"), local("PTSans-NarrowBold"), url("urn:n=
+ot-loaded:http://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYh=
+KUK2vxztsQZZBkxIuj92o.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F=
+, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-0F6FCE10:http://fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic
+
+/* Effective stylesheet produced by snapshot save */
+@font-face {
+  font-family: "Cuprum";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Cuprum"), local("Cuprum-Regular"), url("urn:not-loaded:http:/=
+/fonts.gstatic.com/s/cuprum/v7/gJovVCIsuVHpE7lUT-5TYfesZW2xOQ-xsNqO47m55DA.=
+woff2") format("woff2");
+  unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+  font-family: "Cuprum";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Cuprum"), local("Cuprum-Regular"), url("urn:not-loaded:http:/=
+/fonts.gstatic.com/s/cuprum/v7/TMj3tAAbnWTxQie9wLnZ2fesZW2xOQ-xsNqO47m55DA.=
+woff2") format("woff2");
+  unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2=
+C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Cuprum";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Cuprum"), local("Cuprum-Regular"), url("urn:not-loaded:http:/=
+/fonts.gstatic.com/s/cuprum/v7/rZj40-VH1f1Wt0yg6Fkbcw.woff2") format("woff2=
+");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F=
+, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://st.codeforces.com/s/94620/favicon.png
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAD5klEQVR4Xu3WT4ucVRrG4ft+zlvV
+qe5y4ox0JCpCNqMgEvwCOhsxIIILl/MV5jPEgYgLv4E7QVy6kgxoTNRFQ/4YGKKIQnQmxqTT6Zhu
+sbur3vc8961TdL90EbAD4kKZi8OhKA71O4dnU/Bv7HcS+H/g4q2dkys3Tq3ceO38rVPnV/+5cvON
+i7e+2dzxfWhwkK/vTv/x/reX1raGQZAAbFf5643JG397bKkJ/KKDA6tb+dWdyZFRE0Rvq9N/7062
+2zwwEDgIoUIHwH2rYaRYMwH82heYNMw0iZ4Fz1r3GzDmED2EWZKJjH0FJyiT9xEwUH/4FJM1lmXp
+Ng02yxg9WkZHudtOq0YpYfRokyJ8cCDXz/D795iVPBRIIpBdHTzoR/7O8V8BmFCYMDj/8EQ1DhS5
+cbHUIo5MAQOBKqPIdexcxQyNEG3sX9XpcETgIA0j7NambUCmqCI7+vkbsCkw0COiOEPCntzant5e
+byIqXAwIzeOPlFIaW0BSBG2Akim7sxM9GzaEnqVaYRgzO1e+vHry9Y3LFxbL4MdoF1xcOX7p+SdP
+vdpQohIRkAgYokEnoP7HIbMRjV4xhqXpH3X97XdW//Xu4OEjk65j5DaxgMHtN9966IUTDVDhhJMw
+ALgCpJM2ejLq3JAtd1ktY6YrHRaGBEU6BjKmdhwed2trjZ1CC4ecQJKGaVXCmCEAAcZ+tiFhrzlw
+sYoKErA0jGKgLRXBxrI9JQcyg9WGZFhAYpfppEGjF1Ix+0t0RA1TAExgqgQgM6GGEJVy0ABpmIBR
++wHaFmATRM8gbPRsAAb6vf+wNwMQIAzOAlZCRs+A5mYAWe4LMCx4/gQMCm7gDuoYkMzdWwoSIOzx
+DHr3fGM47TJ/Jm0ATajC1XKYgA3ThucCkkSS6EnyPZfVfEC2gcauUDIgi6BhGLsvnnG/zbOwD0WY
+e7V9Mwg4Ldk7VAel0doZauHsh1yNDlYgrbQSrggD3IukmMVisYpQhFIctgWHkYmaFLMJ2UmgTW5B
+FbtI2MpM5Swr266tq0DMNMXDnQZZk8nAhPphIDBYHZEdchOKttlsuRneVhq1NjHCDMMJdxVdoorT
+Ln9ebYuRY6EQM9l1U0za7KzqnclCl241aTuNx6HlV3xouWnZ5AK9BC8Cqn9+VkdOYObp5QdefmK5
+RF1svFByaYGLw1g61L14/E9/WRpi5qFnn1t84qkYj7k01uFxGS+NhosPHjt29JnjsJ3T9Xb9XPv9
+hcnG5endf3d3Lnne5lQr32yevrL64ZfrH3xx+/Tna5/d/NHzNq9dv3bm7PWzH3137pObZz7+z5mz
+W5sbf4i/jj8BDXbkzwF5XXcAAAAASUVORK5CYII=
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3DF5AA03:http://st.codeforces.com/s/94620/css/prettify.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-163CC546:http://st.codeforces.com/s/94620/css/clear.css
+
+/* Effective stylesheet produced by snapshot save */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, field=
+set, input, p, blockquote, th, td { margin: 0px; padding: 0px; }
+fieldset, img { border: 0px none; }
+ol, ul { list-style: outside none none; }
+q::before, q::after { content: ""; }
+a:link { color: rgb(0, 0, 204); }
+body { background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 3px=
+ 8px; }
+body, select, input { font-family: verdana,arial,sans-serif; }
+body { font-size: 1.4rem; }
+pre { font-size: 110%; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-735C2D55:http://st.codeforces.com/s/94620/css/style.css
+
+/* Effective stylesheet produced by snapshot save */
+html { font-size: 10px; }
+#body { padding-top: 0.75em; max-width: 1200px; min-width: 920px; margin:=
+ 0px auto; }
+#header { height: 5em; margin: 0px 1em; }
+#footer { margin-top: 1em; padding-top: 1em; border-top: 1px solid rgb(204,=
+ 204, 204); text-align: center; font-size: 1em; clear: both; height: 4em;=
+ }
+.caption { margin: 0px 0px 1em; font-size: 1.5rem; font-weight: bold; color=
+: rgb(59, 89, 152); }
+#datepick-div { z-index: 100000 ! important; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-246DBA6C:http://st.codeforces.com/s/94620/css/ttypography.css
+
+/* Effective stylesheet produced by snapshot save */
+div.ttypography textarea, div.ttypography pre, div.ttypography code, div.tt=
+ypography kbd, div.ttypography samp, div.ttypography var, div.ttypography=
+ tt { font-family: Consolas,"Lucida Console","Andale Mono","Bitstream Vera=
+ Sans Mono","Courier New",Courier; }
+div.ttypography { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;=
+ line-height: 21px; color: rgb(34, 34, 34); font-size: 1.4rem; word-wrap:=
+ break-word; }
+div.ttypography ul, div.ttypography ol, div.ttypography dl { font-size: 1em=
+; line-height: 1.5em; margin: 0.5em 0px 0px 1em; }
+div.ttypography ul { list-style-type: disc; }
+div.ttypography ol { list-style-type: decimal; }
+div.ttypography li { font-size: 1em; line-height: 1.5em; margin-left: 0.8em=
+; }
+div.ttypography p { font-size: 1em; line-height: 1.4em; margin: 1.5em 0px=
+ 0px; }
+div.ttypography em, div.ttypography i { font-style: italic; }
+div.ttypography pre, div.ttypography code, div.ttypography kbd, div.ttypogr=
+aphy tt, div.ttypography samp, div.ttypography var { font-size: 100%; }
+div.ttypography pre { line-height: 1.5em; margin: 1.5em 0px 0px; white-spac=
+e: pre-wrap; word-wrap: break-word; }
+div.ttypography pre, div.ttypography code { color: rgb(136, 0, 0); }
+div.ttypography sub, div.ttypography sup { font-size: 75%; line-height: 0;=
+ position: relative; vertical-align: baseline; }
+div.ttypography sup { top: -0.5em; }
+div.ttypography sub { bottom: -0.25em; }
+div.ttypography img, div.ttypography figure { margin: 0px; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-ACBC4E0D:http://st.codeforces.com/s/94620/css/problem-statement.css
+
+/* Effective stylesheet produced by snapshot save */
+.problem-statement { margin: 0.5em; font-family: "Helvetica Neue",Helvetica=
+,Arial,sans-serif; line-height: 1.5em; font-size: 1.4rem; }
+.problem-statement p { margin: 0px 0px 1em ! important; }
+.problem-statement .header { margin-bottom: 1em; text-align: center; }
+.problem-statement .header .title { font-size: 150%; margin-bottom: 0.5em; }
+.problem-statement .header .title { font-size: 150%; font-family: "Helvetic=
+a Neue",Helvetica,Arial,sans-serif; }
+.problem-statement ul { list-style: outside none disc; margin-top: 1em ! im=
+portant; margin-bottom: 1em ! important; }
+.problem-statement ol { list-style: outside none decimal; margin-top: 1em=
+ ! important; margin-bottom: 1em ! important; }
+.problem-statement li { line-height: 1.5em; margin-left: 3em; }
+.problem-statement .property-title { display: inline; padding-right: 4px;=
+ }
+.problem-statement .property-title::after { content: ":"; }
+.problem-statement .time-limit, .problem-statement .memory-limit, .problem-=
+statement .input-file, .problem-statement .output-file { margin: 0px auto; }
+.problem-statement .section-title { font-family: "Helvetica Neue",Helvetica=
+,Arial,sans-serif; font-size: 115%; font-weight: bold; }
+.problem-statement .input-specification, .problem-statement .output-specifi=
+cation, .problem-statement .sample-tests, .problem-statement .author, .prob=
+lem-statement .resource, .problem-statement .date {  }
+.problem-statement .output-specification { margin-bottom: 1em; }
+.problem-statement .sample-tests .sample-test {  }
+.problem-statement .sample-tests .input, .problem-statement .sample-tests=
+ .output { border: 1px solid rgb(136, 136, 136); }
+.problem-statement .sample-tests .output { margin-bottom: 1em; position: re=
+lative; top: -1px; }
+.problem-statement .sample-tests pre { line-height: 1.25em; padding: 0.25em=
+; margin: 0px; background-color: rgb(239, 239, 239); }
+.problem-statement .sample-tests { font-family: Consolas,"Lucida Console","=
+Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier; font-size:=
+ 0.9em; }
+.problem-statement .sample-tests .title { font-size: 1.3em; padding: 0.25em=
+; border-bottom: 1px solid rgb(136, 136, 136); text-transform: lowercase;=
+ font-weight: bold; }
+.problemindexholder { position: relative; }
+.tex-formula { font-family: times new roman,sans-serif; vertical-align: mid=
+dle; margin: 0px; border: medium none; position: relative; bottom: 2px; }
+.tex-span { font-size: 125%; font-family: times new roman,sans-serif; white=
+-space: nowrap; }
+.tex-font-style-tt { font-size: 110%; font-family: courier new,monospace;=
+ }
+.tex-font-style-bf { font-weight: bold; }
+.tex-font-style-it { font-style: italic; }
+.tex-graphics { display: block; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6E228E33:http://st.codeforces.com/s/94620/css/second-level-menu.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-CD5E8D31:http://st.codeforces.com/s/94620/css/roundbox.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B372180B:http://st.codeforces.com/s/94620/css/datatable.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-BC6E99B0:http://st.codeforces.com/s/94620/css/table-form.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-9686C973:http://st.codeforces.com/s/94620/css/topic.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-2B2F9AEF:http://st.codeforces.com/s/94620/css/jquery.jgrowl.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-7ABD1E6E:http://st.codeforces.com/s/94620/css/facebox.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E07F4AD8:http://st.codeforces.com/s/94620/css/jquery.wysiwyg.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3D2DE18E:http://st.codeforces.com/s/94620/css/jquery.autocomplete.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-36B1E1F7:http://st.codeforces.com/s/94620/css/codeforces.datepick.css
+
+/* Effective stylesheet produced by snapshot save */
+#datepick-div, .datepick-inline { background: rgb(255, 255, 255) none repea=
+t scroll 0% 0%; color: rgb(34, 34, 34); width: 220px; }
+#datepick-div { display: none; border-width: 1px 1px medium; border-style:=
+ solid solid none; border-color: rgb(185, 185, 185) rgb(185, 185, 185) -moz=
+-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: no=
+ne; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-=
+image: none; z-index: 100; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-FA4E3EF1:http://st.codeforces.com/s/94620/css/colorbox.css
+
+/* Effective stylesheet produced by snapshot save */
+#colorbox, #cboxOverlay, #cboxWrapper { position: absolute; top: 0px; left:=
+ 0px; z-index: 9999; overflow: hidden; }
+#cboxOverlay { position: fixed; width: 100%; height: 100%; }
+#cboxMiddleLeft, #cboxBottomLeft { clear: left; }
+#cboxContent { position: relative; overflow: hidden; }
+#cboxLoadedContent { overflow: auto; }
+#cboxTitle { margin: 0px; }
+#cboxLoadingOverlay, #cboxLoadingGraphic { position: absolute; top: 0px; le=
+ft: 0px; width: 100%; }
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow { cursor: pointer; }
+#cboxOverlay { background: transparent url("urn:not-loaded:http://st.codefo=
+rces.com/s/94620/images/overlay.png") repeat scroll 0px 0px; }
+#colorbox {  }
+#cboxTopLeft { width: 21px; height: 21px; background: transparent url("urn:=
+not-loaded:http://st.codeforces.com/s/94620/images/controls.png") no-repeat=
+ scroll -100px 0px; }
+#cboxTopRight { width: 21px; height: 21px; background: transparent url("urn=
+:not-loaded:http://st.codeforces.com/s/94620/images/controls.png") no-repea=
+t scroll -129px 0px; }
+#cboxBottomLeft { width: 21px; height: 21px; background: transparent url("u=
+rn:not-loaded:http://st.codeforces.com/s/94620/images/controls.png") no-rep=
+eat scroll -100px -29px; }
+#cboxBottomRight { width: 21px; height: 21px; background: transparent url("=
+urn:not-loaded:http://st.codeforces.com/s/94620/images/controls.png") no-re=
+peat scroll -129px -29px; }
+#cboxMiddleLeft { width: 21px; background: transparent url("urn:not-loaded:=
+http://st.codeforces.com/s/94620/images/controls.png") repeat-y scroll left=
+ top; }
+#cboxMiddleRight { width: 21px; background: transparent url("urn:not-loaded=
+:http://st.codeforces.com/s/94620/images/controls.png") repeat-y scroll rig=
+ht top; }
+#cboxTopCenter { height: 21px; background: transparent url("urn:not-loaded:=
+http://st.codeforces.com/s/94620/images/border.png") repeat-x scroll 0px 0p=
+x; }
+#cboxBottomCenter { height: 21px; background: transparent url("urn:not-load=
+ed:http://st.codeforces.com/s/94620/images/border.png") repeat-x scroll 0px=
+ -29px; }
+#cboxContent { background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+#cboxLoadedContent { margin-bottom: 28px; }
+#cboxTitle { position: absolute; bottom: 4px; left: 0px; text-align: center=
+; width: 100%; color: rgb(148, 148, 148); }
+#cboxCurrent { position: absolute; bottom: 4px; left: 58px; color: rgb(148,=
+ 148, 148); }
+#cboxSlideshow { position: absolute; bottom: 4px; right: 30px; color: rgb(0=
+, 146, 239); }
+#cboxPrevious { position: absolute; bottom: 0px; left: 0px; background: tra=
+nsparent url("urn:not-loaded:http://st.codeforces.com/s/94620/images/contro=
+ls.png") no-repeat scroll -75px 0px; width: 25px; height: 25px; text-indent=
+: -9999px; }
+#cboxNext { position: absolute; bottom: 0px; left: 27px; background: transp=
+arent url("urn:not-loaded:http://st.codeforces.com/s/94620/images/controls.=
+png") no-repeat scroll -50px 0px; width: 25px; height: 25px; text-indent:=
+ -9999px; }
+#cboxLoadingOverlay { background: transparent url("urn:not-loaded:http://st=
+.codeforces.com/s/94620/images/loading_background.png") no-repeat scroll ce=
+nter center; }
+#cboxLoadingGraphic { background: transparent url("urn:not-loaded:http://st=
+.codeforces.com/s/94620/images/loading.gif") no-repeat scroll center center=
+; }
+#cboxClose { position: absolute; bottom: 0px; right: 0px; background: trans=
+parent url("urn:not-loaded:http://st.codeforces.com/s/94620/images/controls=
+.png") no-repeat scroll -25px 0px; width: 25px; height: 25px; text-indent:=
+ -9999px; }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5010CF7E:http://st.codeforces.com/s/94620/css/jquery.drafts.css
+
+/* Effective stylesheet produced by snapshot save */
+.drafts-button:not(.drafts-offline) { background-color: rgb(58, 135, 173); }
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-1F8FA482:http://st.codeforces.com/s/94620/css/community.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-05864565:http://st.codeforces.com/s/94620/css/sidebar-menu.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3B297744:http://st.codeforces.com/s/94620/markitup/skins/markitup/style.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-BA3F933E:http://st.codeforces.com/s/94620/markitup/sets/markdown/style.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-57769324:http://www.google-analytics.com/ga.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-0E504FAE:http://st.codeforces.com/s/94620/js/jquery-1.8.3.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-32909FC8:http://st.codeforces.com/s/94620/js/prettify/prettify.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E1A052AC:http://st.codeforces.com/s/94620/js/moment.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-4E133146:http://st.codeforces.com/s/94620/js/pushstream.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-37AE81EB:http://st.codeforces.com/s/94620/js/jquery.easing.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-A630BC38:http://st.codeforces.com/s/94620/js/jquery.lavalamp.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-53F268A6:http://st.codeforces.com/s/94620/js/jquery.jgrowl.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-DA83568C:http://st.codeforces.com/s/94620/js/jquery.swipe.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D5E6A4C0:http://st.codeforces.com/s/94620/js/facebox.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B6434B89:http://st.codeforces.com/s/94620/js/jquery.wysiwyg.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B3061FBD:http://st.codeforces.com/s/94620/js/controls/wysiwyg.colorpicker.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-50CD7DA6:http://st.codeforces.com/s/94620/js/controls/wysiwyg.table.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AC461895:http://st.codeforces.com/s/94620/js/controls/wysiwyg.image.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-72A3987E:http://st.codeforces.com/s/94620/js/controls/wysiwyg.link.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-43D700CB:http://st.codeforces.com/s/94620/js/jquery.autocomplete.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-86501439:http://st.codeforces.com/s/94620/js/jquery.datepick.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-47362466:http://st.codeforces.com/s/94620/js/jquery.ie6blocker.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-1FD807CE:http://st.codeforces.com/s/94620/js/jquery.colorbox-min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B8DA2583:http://st.codeforces.com/s/94620/js/jquery.ba-bbq.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-10A4CB90:http://st.codeforces.com/s/94620/js/jquery.drafts.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-4404469D:http://codeforces.com/scripts/2b3664df97bd9b086d354671e3747509/en/codeforces-options.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-110F6AEB:http://st.codeforces.com/s/94620/js/codeforces.js?v=20160131
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6C80859F:http://yandex.st/share/share.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-43F7E83A:http://st.codeforces.com/s/94620/markitup/jquery.markitup.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5B5E8507:http://st.codeforces.com/s/94620/markitup/sets/markdown/set.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-3C124DA4:http://metrext.com/d27a5d5aa528b6d91d.js?title=Torrent%20Tornado
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_80ED4825.6CCC235C--
