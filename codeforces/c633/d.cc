@@ -16,17 +16,6 @@
 using namespace std;
 const ulong mod = 1000000007ul;
 
-template<typename T>
-inline T gcd(T a, T b) {
-    T c;
-    while (b) {
-        c = b;
-        b = a % b;
-        a = c;
-    }
-    return a;
-}
-
 int main(int argc, char const *argv[]) {
     #ifndef __mr__
         ios::sync_with_stdio(0);cin.tie(0);
@@ -41,6 +30,7 @@ int main(int argc, char const *argv[]) {
     for(uint i = 0; i < n; ++i) {
         arrcounts[arr[i]]++;
     }
+    vector<long> series(n);
     long mlen = count(arr.begin(), arr.end(), 0);
     if (mlen == 1)
         mlen = 0;
@@ -49,19 +39,22 @@ int main(int argc, char const *argv[]) {
             if (i == j)
                 continue;
             long len = 2;
-            umap<long, int> usagecount;
-            usagecount[arr[i]]++;
-            usagecount[arr[j]]++;
+            series[0] = arr[i];
+            series[1] = arr[j];
+            arrcounts[arr[i]]--;
+            arrcounts[arr[j]]--;
             if (arr[i] == 0 && arr[j] == 0)
                 continue;
-            for (long x = arr[i], y = arr[j]; ; ++len) {
+            for (long x = arr[i], y = arr[j]; ; series[len++] = y) {
                 auto zit = arrcounts.find(x + y);
-                if (zit == arrcounts.end() or usagecount[zit->first] == zit->second)
+                if (zit == arrcounts.end() or arrcounts[zit->first] == 0)
                     break;
-                usagecount[zit->first]++;
+                arrcounts[zit->first]--;
                 x = y;
                 y = zit->first;
             }
+            for (int i = 0; i < len; ++i)
+                arrcounts[series[i]]++;
             mlen = max(len, mlen);
         }
     }
