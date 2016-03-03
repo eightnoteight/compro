@@ -17,10 +17,11 @@ public class TestClass {
 
         FastScanner() {
             br = new BufferedReader(new InputStreamReader(System.in));
+            st = new StringTokenizer("");
         }
 
         String next() {
-            while (st == null || !st.hasMoreTokens()) {
+            while (!st.hasMoreTokens()) {
                 try {
                     st = new StringTokenizer(br.readLine());
                 }
@@ -69,4 +70,3 @@ public class TestClass {
         new TestClass().run();
     }
 }
-
