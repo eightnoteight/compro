@@ -1,6 +1,6 @@
 /* Author : Avinash Awate, Contest Co-ordinator */
 /*****************************************************************************
- *                 Internship Programming Contest OddManOut                  *
+ *                 Programming Contest IITBombayX OddManOut                  *
  *                 ----------------------------------------                  *
  * To allow contest participants to test a function which accepts an array   *
  * of integers (and the number of elements) and detect the odd number of     *
@@ -19,7 +19,7 @@
 /*****************************************************************************
  *                       Source Code Organisation                            *
  *                       ------------------------                            *
- * testOddManOut.c                                                           *
+ * testOddManOut.cpp                                                         *
  * This file allows the participant to test his function for correctness     *
  * This file contains C++ code which opens the input stream, reads the file  *
  * into an array, calls the contestants encoding function and writes the     *
@@ -39,7 +39,7 @@
 int OddManOut(int nElems, int *iA, int *oA);
 
 /* Local #defines */
-#define MAXLENGTH   (1)
+#define MAXLENGTH   (100)
 #define SUCCESS     (0)
 #define FAILURE     (-1)
 #define TRUE        (1)
@@ -65,6 +65,7 @@ char *inputfile=NULL;         /* Input file name */
 char *outputfile=NULL;        /* Output file name */
 char *logfile=NULL;           /* Log file name */
 int  index;                   /* To traverse arrays */
+int  index2;                   /* To traverse arrays */
 char optionchar;              /* Option chracter returned by getopt */
 
     /* Set return value to SUCCESS */
@@ -175,22 +176,26 @@ char optionchar;              /* Option chracter returned by getopt */
             outNumber++;
             if (inNumber == inMax)
             {
-                inMax  += inMax;
-                outMax += outMax;
+                inMax  += MAXLENGTH;
+                outMax += MAXLENGTH;
                 input  = (int *) realloc (input, (inMax * sizeof(int)));
-                output = (int *) realloc (output, (outMax * sizeof(int)));
+                output = (int *) realloc (input, (outMax * sizeof(int)));
             }
         }
     }
-    int i;
+
     /* If everything OK so far, call participant's function to implement Huffman encoding */
     if (retval == SUCCESS)
     {
         /* Call Participant's function */
         outNumber = OddManOut(inNumber, input, output);
-        for(i = 0; i < outNumber; ++i)
+        /* Generate Output File and Log File */
+        for (index = 0; (index < outNumber); index++)
         {
-            fprintf(outputfp, "Sequence %d from %d to %d\n", i + 1, output[2*i], output[2*i + 1]);
+            /* Print output file */
+            fprintf(outputfp, "Sequence %d from %d to %d\n", (index + 1), output[2*index], output[2*index+1]);
+            /* Print log file */
+            fprintf(logfp, "Sequence %d from index %d to index %d\n", (index + 1), output[2*index], output[2*index+1]);
         }
     }
 

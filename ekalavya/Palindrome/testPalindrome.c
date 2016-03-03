@@ -149,7 +149,33 @@ char optionchar;              /* Option chracter returned by getopt */
 
 /* Define local variables (if any) here */
 
+struct charCounter
+{
+    int countchar[256];
+    int zeros = 256;
+};
+
 /* Define your support function ptototypes here */
+int printPalindromes(struct charCounter *counter);
+
+/* Define your actual support functions code here */
+int printPalindromes(struct charCounter *counter, int len)
+{
+    int count = 0;
+    if (len != 0 && counter->zeros != 0)
+    {
+
+    }
+    else if (len == 0)
+    {
+        sprintf(nstr, "%s%s", prits, strrev(prits));
+        strrev(prits);
+        sprintf(nstr, "%s", prits);
+        printf("%s", prits);
+        count += 256 - zeros;
+    }
+    return count;
+}
 
 /********************************************
  *********** Submission function ************
@@ -167,5 +193,18 @@ char optionchar;              /* Option chracter returned by getopt */
  */
 int Palindrome(char *inStr)
 {
+int count = 0;
+int inStrLen = strlen(inStr);
+struct charCounter *cc = (struct charCounter *)malloc(sizeof(charCounter));
+    for (int i = 0; i < inStrLen; ++i)
+    {
+        cc->countchar[inStr[i]] += 1;
+        if (cc->countchar[inStr[i]] == 1)
+        {
+            cc->zeros -= 1;
+        }
+    }
+    count = printPalindromes(cc);
     /* Return number of sequences */
+    return count;
 }

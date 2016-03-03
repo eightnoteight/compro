@@ -159,6 +159,10 @@ char optionchar;              /* Option chracter returned by getopt */
 
 /* Define your actual support functions code here */
 
+int assignBraces(bracops, braccls, &bracops_size, &braccls_size, oparray, nElems) {
+
+}
+
 /********************************************
  *********** Submission function ************
  *******************************************/
@@ -177,4 +181,19 @@ char optionchar;              /* Option chracter returned by getopt */
  */
 char *OpJumble(int nElems, int *inArray)
 {
+    char *oparray = (char *)malloc((nElems - 1)*sizeof(char));
+    int *bracops = (int *)malloc(2*nElems*sizeof(int));
+    int bracops_size = 0;
+    int *braccls = (int *)malloc(2*nElems*sizeof(int));
+    int braccls_size = 0;
+    const char *ops = "+-*/";
+    int p2n = 1 << (2*(nElems - 1))
+    for (int i = 0; i < p2n; ++i) {
+        for (int j = 0; j < 2*(nElems - 1); j += 2) {
+            oparray[j / 2] = (i >> j) & 3;
+        }
+        if(assignBraces(bracops, braccls, &bracops_size, &braccls_size, oparray, nElems) == 0)
+            return getString(bracops, braccls, bracops_size, braccls_size, oparray, nElems);
+    }
+    return "Impossible!";
 }
