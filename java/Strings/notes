@@ -1,0 +1,2 @@
+String.equals(String other)
+String.compareTo(String other)
