@@ -12,52 +12,54 @@
 #define t_max(x)                    numeric_limits<x>::max()
 #define t_min(x)                    numeric_limits<x>::min()
 using namespace std;
-const ulong mod = 1000000007ul;
+// const ulong mod = 1000000007ul;
 
-int mykmp_count(vector<pair<int, int>>& haystack, vector<pair<int, int>>& needle) {
-    vector<int> cmpInd = failurefunc(needle);
-    int curInd = 0;
-    for (int i = 0; i < len(haystack); ) {
-        if (haystack[i] == needle[curInd]) {
-            ++curInd;
-            ++i;
-            if (curInd == len(needle)) {
-                needleCount += 1;
-                curInd = failurefunc[curInd];
-            }
-        }
-        else if (curInd == 0) {
-            ++i;
-        }
-        else {
-            curInd = failurefunc[curInd];
+template<intType>
+inline intType mod_app(intType x, intType m) {
+    return (x % m + m) % m;
+}
+
+class RabinKarp
+{
+vector<ulong> harr;
+const ulong mul = 10007;
+const ulong mod = 1000000007;
+public:
+    RabinKarp(vector<ulong>& arr) {
+        harr.emplace_back(0);
+        for (ulong x: arr) {
+            harr.emplace_back(mod_app(harr.back() * mul + x, mod));
         }
     }
-}
+
+    uint rangehash(uint lo, uint hi) {
+        return mod_app(harr[hi] - mod_app(harr[lo] * pow_mod(mul, hi - lo, mod), mod), mod);
+    }
+};
 
 int main(int argc, char const *argv[]) {
     #ifndef __mr__
         ios::sync_with_stdio(0);cin.tie(0);
     #endif
-    cin >> n >> m;
-    vector<pair<int, int>> haystack(n);
-    vector<pair<int, int>> needle(n);
+        cin >> n >> m;
+    vector<pair<int, int>> text(n);
+    vector<pair<int, int>> patt(n);
     for (int i = 0; i < n; ++i) {
         char lici[100];
         cin >> lici;
         int k = strlen(lici);
-        haystack[i].second = lici[k - 1];
+        text[i].second = lici[k - 1];
         lici[k - 2] = 0;
-        haystack[i].first = atoi(lici)
+        text[i].first = atoi(lici)
     }
     for (int i = 0; i < m; ++i) {
         char lici[100];
         cin >> lici;
         int k = strlen(lici);
-        needle[i].second = lici[k - 1];
+        patt[i].second = lici[k - 1];
         lici[k - 2] = 0;
-        needle[i].first = atoi(lici)
+        patt[i].first = atoi(lici)
     }
-    cout << mykmp_count(haystack, needle) << endl;
+
     return 0;
 }

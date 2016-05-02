@@ -1,2 +1,3 @@
 String.equals(String other)
 String.compareTo(String other)
+String.split(String regex)
