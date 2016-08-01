@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+
 def main():
     x, _, t = raw_input().split()
     x = int(x)
